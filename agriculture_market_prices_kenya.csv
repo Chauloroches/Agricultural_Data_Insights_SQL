@@ -1,0 +1,5001 @@
+Date,Crop_Type,Region,Market_Price_Per_Tonne_USD
+2023-09-10,Sugarcane,Nairobi,137.36
+2017-05-10,Wheat,Meru,148.99
+2018-07-18,Sorghum,Muranga,155.39
+2018-02-04,Beans,Nakuru,51.88
+2017-12-31,Tea,Kisii,145.56
+2023-06-20,Tomatoes,Kiambu,67.01
+2019-06-27,Beans,Embu,87.67
+2020-12-09,Sugarcane,Uasin Gishu,81.46
+2016-04-11,Sorghum,Meru,121.02
+2018-05-23,Maize,Nairobi,111.75
+2015-11-27,Potatoes,Muranga,53.09
+2019-01-22,Tomatoes,Kiambu,133.94
+2020-11-05,Tomatoes,Nairobi,92.76
+2023-09-07,Beans,Meru,40.27
+2022-12-29,Sugarcane,Uasin Gishu,89.74
+2015-05-11,Maize,Nakuru,101.96
+2019-08-13,Cabbage,Kiambu,48.26
+2017-02-08,Sorghum,Uasin Gishu,58.14
+2021-07-19,Cabbage,Muranga,159.23
+2019-02-24,Potatoes,Kisii,144.54
+2022-10-24,Maize,Meru,56.0
+2021-08-30,Maize,Muranga,109.64
+2018-04-30,Sorghum,Nakuru,85.51
+2017-08-13,Coffee,Uasin Gishu,105.25
+2021-05-13,Cabbage,Kericho,96.46
+2018-03-30,Wheat,Nakuru,45.78
+2016-04-04,Tomatoes,Nandi,77.85
+2015-01-22,Coffee,Kiambu,55.06
+2021-04-19,Wheat,Kisii,98.68
+2017-01-17,Sugarcane,Meru,148.88
+2022-12-14,Sorghum,Embu,159.46
+2016-04-19,Sugarcane,Uasin Gishu,153.31
+2017-12-18,Tomatoes,Kericho,158.28
+2022-01-02,Tea,Embu,41.83
+2020-08-09,Wheat,Kiambu,127.53
+2022-07-10,Coffee,Kiambu,72.75
+2017-09-02,Wheat,Meru,143.87
+2019-12-12,Wheat,Kericho,137.65
+2015-07-09,Sorghum,Kiambu,90.84
+2023-03-25,Sugarcane,Embu,96.79
+2022-06-27,Cabbage,Kericho,71.81
+2023-03-25,Tea,Embu,74.66
+2016-07-16,Sorghum,Nakuru,157.74
+2020-03-14,Potatoes,Muranga,146.66
+2018-06-21,Sorghum,Kericho,63.02
+2022-11-19,Tomatoes,Nairobi,73.06
+2019-03-09,Tea,Muranga,53.04
+2023-10-08,Maize,Muranga,158.66
+2016-10-08,Potatoes,Kericho,148.87
+2020-08-30,Beans,Kisii,106.25
+2022-11-28,Sorghum,Kiambu,123.15
+2021-01-23,Wheat,Nakuru,129.75
+2018-07-21,Cabbage,Kisii,64.46
+2021-09-01,Maize,Kisii,152.16
+2016-08-23,Sorghum,Nairobi,103.21
+2021-06-21,Sorghum,Uasin Gishu,51.09
+2020-08-23,Coffee,Kericho,87.65
+2015-08-30,Coffee,Embu,112.2
+2020-08-03,Maize,Kiambu,82.34
+2022-09-25,Sugarcane,Kisii,123.9
+2022-02-25,Coffee,Nakuru,145.85
+2023-01-24,Wheat,Uasin Gishu,132.63
+2018-09-25,Potatoes,Nairobi,117.12
+2020-11-09,Beans,Nandi,101.46
+2018-10-22,Tea,Kiambu,70.54
+2023-03-23,Beans,Nandi,94.59
+2019-01-18,Beans,Muranga,75.15
+2021-12-31,Tea,Kisii,152.08
+2017-02-14,Coffee,Meru,148.88
+2015-02-04,Maize,Kiambu,58.7
+2021-03-03,Tea,Embu,138.71
+2023-08-19,Tomatoes,Uasin Gishu,124.35
+2020-05-09,Sugarcane,Nakuru,157.03
+2019-05-05,Potatoes,Kiambu,95.6
+2023-06-01,Cabbage,Embu,126.66
+2017-10-18,Coffee,Kericho,102.15
+2022-02-26,Sugarcane,Nandi,48.33
+2018-02-03,Tea,Kericho,45.61
+2019-02-09,Tomatoes,Uasin Gishu,54.65
+2016-12-03,Cabbage,Nairobi,75.54
+2021-09-15,Potatoes,Kisii,71.09
+2022-08-09,Potatoes,Kiambu,127.4
+2019-04-29,Coffee,Meru,125.91
+2015-06-11,Tea,Nandi,156.57
+2015-07-21,Sugarcane,Nandi,77.25
+2020-06-04,Maize,Kiambu,152.61
+2017-09-22,Sugarcane,Muranga,113.54
+2021-05-06,Sugarcane,Kericho,99.44
+2017-03-26,Potatoes,Nandi,120.14
+2016-03-31,Maize,Embu,124.33
+2018-06-29,Maize,Nakuru,60.63
+2017-10-13,Coffee,Kisii,130.21
+2021-06-01,Cabbage,Nandi,127.02
+2022-07-30,Sorghum,Embu,159.7
+2015-12-04,Beans,Uasin Gishu,149.43
+2017-05-28,Beans,Uasin Gishu,122.16
+2017-12-12,Potatoes,Kisii,125.48
+2017-03-02,Sorghum,Muranga,153.52
+2021-03-14,Cabbage,Meru,156.06
+2017-02-02,Sorghum,Kisii,139.24
+2021-02-13,Coffee,Nairobi,132.09
+2016-01-15,Sugarcane,Muranga,53.36
+2016-05-07,Potatoes,Nandi,139.64
+2023-07-10,Maize,Kisii,70.38
+2018-03-26,Potatoes,Kericho,107.65
+2020-08-24,Beans,Uasin Gishu,88.64
+2015-03-06,Cabbage,Embu,81.47
+2022-01-12,Sorghum,Kisii,77.23
+2018-09-29,Cabbage,Kericho,142.65
+2018-02-26,Coffee,Muranga,132.3
+2020-07-20,Potatoes,Nairobi,102.81
+2022-05-19,Tea,Embu,119.74
+2019-02-04,Potatoes,Nakuru,158.14
+2023-08-01,Maize,Nairobi,87.7
+2018-03-08,Potatoes,Nandi,106.13
+2019-03-03,Tomatoes,Kericho,104.02
+2022-03-25,Coffee,Kisii,152.32
+2016-01-27,Wheat,Kisii,82.19
+2019-08-26,Coffee,Kiambu,158.35
+2016-02-23,Sorghum,Uasin Gishu,76.56
+2021-05-25,Wheat,Nandi,53.07
+2016-01-14,Sorghum,Kericho,62.96
+2019-12-02,Sorghum,Kisii,91.15
+2021-03-28,Maize,Nakuru,117.97
+2023-05-24,Maize,Embu,102.02
+2020-09-19,Sugarcane,Nandi,85.15
+2023-06-27,Beans,Muranga,107.44
+2020-12-22,Sugarcane,Nakuru,140.66
+2015-07-20,Sugarcane,Embu,140.67
+2020-02-07,Beans,Meru,127.15
+2017-02-18,Tea,Uasin Gishu,154.29
+2023-02-25,Wheat,Nandi,110.82
+2023-07-02,Cabbage,Kericho,40.92
+2023-07-17,Sugarcane,Nairobi,74.91
+2016-05-17,Potatoes,Embu,79.39
+2021-09-20,Potatoes,Muranga,105.68
+2019-10-18,Sorghum,Kisii,148.59
+2017-03-15,Beans,Nairobi,140.57
+2020-11-16,Sorghum,Nakuru,67.86
+2022-06-24,Tomatoes,Uasin Gishu,102.33
+2020-03-10,Tomatoes,Kericho,119.1
+2022-08-05,Cabbage,Nairobi,158.5
+2019-04-20,Maize,Muranga,43.76
+2017-08-18,Maize,Embu,95.67
+2022-04-14,Beans,Kericho,158.57
+2019-01-25,Beans,Meru,157.26
+2022-05-14,Sugarcane,Kisii,79.69
+2017-10-25,Tomatoes,Uasin Gishu,40.0
+2016-05-17,Sugarcane,Nairobi,110.41
+2022-09-15,Maize,Uasin Gishu,144.03
+2016-02-02,Wheat,Uasin Gishu,78.92
+2017-05-20,Wheat,Uasin Gishu,152.11
+2022-10-13,Beans,Embu,79.92
+2016-01-28,Sorghum,Uasin Gishu,113.22
+2015-07-26,Maize,Meru,126.65
+2017-11-04,Wheat,Nakuru,81.45
+2020-02-25,Maize,Muranga,82.26
+2023-01-18,Coffee,Kericho,96.4
+2019-01-24,Potatoes,Meru,140.23
+2017-05-13,Tomatoes,Kericho,52.1
+2022-08-22,Sugarcane,Muranga,115.78
+2016-07-17,Maize,Nakuru,121.28
+2017-10-17,Potatoes,Nandi,106.94
+2015-04-06,Coffee,Kericho,152.3
+2020-04-07,Sugarcane,Kericho,112.24
+2019-10-24,Maize,Nakuru,116.15
+2021-12-07,Beans,Nairobi,111.97
+2021-03-28,Potatoes,Meru,126.64
+2022-08-28,Sugarcane,Nairobi,56.25
+2019-08-06,Maize,Nairobi,147.31
+2023-11-17,Potatoes,Nairobi,45.1
+2016-06-24,Coffee,Uasin Gishu,116.89
+2017-11-25,Maize,Kisii,113.86
+2022-01-16,Maize,Kericho,64.97
+2018-03-29,Maize,Nairobi,44.89
+2019-09-19,Cabbage,Meru,56.66
+2023-08-24,Beans,Kisii,72.6
+2019-12-25,Coffee,Kisii,145.85
+2022-03-10,Sugarcane,Nairobi,142.69
+2022-06-22,Cabbage,Embu,47.66
+2022-02-17,Sorghum,Nairobi,74.71
+2019-05-17,Cabbage,Embu,146.72
+2023-05-19,Tomatoes,Nairobi,68.4
+2022-05-17,Tomatoes,Meru,159.52
+2017-03-06,Maize,Embu,70.82
+2017-11-17,Cabbage,Uasin Gishu,128.69
+2019-07-02,Sorghum,Kisii,90.05
+2018-09-25,Cabbage,Nairobi,56.35
+2020-06-04,Beans,Kisii,70.62
+2018-09-16,Beans,Nairobi,121.01
+2019-07-22,Sorghum,Kericho,80.45
+2019-03-10,Cabbage,Kericho,112.5
+2020-07-31,Potatoes,Kiambu,64.66
+2019-02-05,Beans,Nairobi,93.83
+2021-02-15,Beans,Kiambu,101.47
+2018-11-09,Wheat,Nakuru,89.53
+2018-11-01,Cabbage,Nakuru,63.75
+2018-07-30,Beans,Kisii,95.39
+2022-05-04,Coffee,Embu,123.15
+2022-04-29,Cabbage,Nairobi,155.79
+2017-08-30,Tomatoes,Muranga,134.74
+2019-11-04,Wheat,Nairobi,59.38
+2018-07-06,Beans,Nairobi,72.72
+2016-12-10,Wheat,Muranga,49.46
+2019-01-19,Tomatoes,Nakuru,56.28
+2018-12-05,Sorghum,Kiambu,70.08
+2016-10-10,Sorghum,Kisii,63.94
+2015-11-14,Cabbage,Nakuru,65.64
+2018-06-11,Tomatoes,Muranga,67.69
+2016-11-14,Tea,Nairobi,76.08
+2016-10-25,Tea,Nakuru,55.07
+2020-06-21,Cabbage,Meru,73.34
+2019-06-20,Maize,Kericho,122.61
+2019-02-04,Wheat,Nairobi,68.37
+2018-02-10,Wheat,Nandi,60.62
+2020-01-28,Sorghum,Muranga,48.12
+2019-03-01,Tea,Uasin Gishu,100.0
+2021-10-25,Sugarcane,Embu,141.04
+2016-07-17,Beans,Uasin Gishu,47.08
+2018-07-15,Beans,Nakuru,105.08
+2023-09-20,Beans,Nairobi,118.07
+2019-06-25,Sorghum,Embu,111.1
+2023-03-19,Tomatoes,Embu,145.31
+2023-08-19,Potatoes,Kisii,143.97
+2016-11-29,Tea,Uasin Gishu,46.88
+2020-11-30,Tea,Nairobi,83.31
+2015-01-02,Sugarcane,Kisii,120.5
+2016-10-03,Wheat,Kiambu,154.29
+2021-03-17,Maize,Uasin Gishu,136.56
+2019-05-09,Cabbage,Kericho,61.19
+2017-05-04,Wheat,Kericho,73.51
+2019-10-26,Tomatoes,Kisii,131.63
+2021-08-29,Cabbage,Kiambu,96.58
+2019-07-20,Tea,Meru,105.68
+2018-02-27,Tomatoes,Meru,113.08
+2017-12-12,Cabbage,Kericho,52.39
+2019-09-04,Sugarcane,Nandi,142.72
+2022-08-09,Sugarcane,Muranga,143.58
+2019-08-23,Coffee,Muranga,96.19
+2019-09-30,Potatoes,Nandi,115.22
+2018-12-10,Sugarcane,Kisii,119.19
+2021-04-13,Tea,Muranga,62.77
+2017-04-15,Maize,Muranga,53.51
+2015-07-22,Beans,Uasin Gishu,42.48
+2023-11-30,Coffee,Uasin Gishu,149.55
+2015-05-03,Beans,Nandi,81.49
+2016-02-05,Potatoes,Nairobi,50.3
+2017-02-05,Cabbage,Kiambu,95.9
+2015-10-21,Sorghum,Kisii,49.08
+2021-05-16,Sugarcane,Uasin Gishu,50.23
+2023-01-10,Maize,Uasin Gishu,98.67
+2015-07-17,Potatoes,Meru,101.06
+2023-04-18,Beans,Kiambu,109.62
+2020-04-14,Coffee,Meru,118.76
+2022-08-31,Sugarcane,Nairobi,120.19
+2020-12-31,Tea,Kiambu,91.96
+2016-08-31,Sugarcane,Muranga,117.22
+2023-12-17,Coffee,Meru,76.57
+2018-02-21,Coffee,Kericho,92.96
+2015-07-06,Sorghum,Kisii,87.2
+2021-11-16,Sugarcane,Muranga,79.49
+2019-11-30,Sugarcane,Kiambu,68.63
+2016-10-21,Sorghum,Kericho,49.42
+2022-09-12,Tomatoes,Nairobi,100.71
+2023-03-22,Tomatoes,Kericho,104.47
+2020-05-09,Cabbage,Uasin Gishu,80.34
+2021-09-16,Tomatoes,Nandi,157.1
+2018-10-01,Wheat,Kericho,106.84
+2020-06-09,Sugarcane,Embu,146.68
+2019-03-15,Maize,Nairobi,108.41
+2015-05-27,Sugarcane,Muranga,62.79
+2023-10-25,Wheat,Meru,156.95
+2022-12-21,Wheat,Nakuru,146.24
+2019-10-01,Beans,Nairobi,96.55
+2020-01-18,Sugarcane,Embu,69.17
+2016-05-03,Potatoes,Uasin Gishu,66.72
+2023-02-24,Wheat,Meru,136.72
+2020-05-13,Maize,Kisii,48.29
+2019-07-22,Sorghum,Nakuru,116.57
+2022-02-11,Cabbage,Kericho,116.82
+2021-07-13,Beans,Embu,61.89
+2022-12-29,Sorghum,Kericho,124.59
+2016-10-02,Beans,Kisii,124.65
+2019-12-08,Maize,Nairobi,82.0
+2021-11-25,Coffee,Nandi,98.01
+2020-05-23,Sugarcane,Embu,139.93
+2021-01-07,Tea,Kiambu,102.78
+2018-12-09,Potatoes,Muranga,114.18
+2019-06-23,Sorghum,Kiambu,89.53
+2015-09-20,Sugarcane,Nandi,57.95
+2019-11-23,Potatoes,Kisii,159.77
+2020-12-31,Coffee,Kiambu,103.78
+2021-07-21,Tea,Uasin Gishu,80.37
+2016-09-15,Potatoes,Embu,125.65
+2017-10-13,Potatoes,Uasin Gishu,114.5
+2017-05-30,Sorghum,Nakuru,67.95
+2020-08-11,Tomatoes,Nandi,145.23
+2023-01-23,Tea,Nakuru,48.51
+2018-08-20,Sugarcane,Nakuru,112.68
+2021-04-20,Coffee,Nakuru,97.35
+2016-03-28,Tea,Nairobi,78.18
+2023-07-06,Maize,Nairobi,139.17
+2018-03-29,Tomatoes,Nandi,118.75
+2023-05-21,Maize,Meru,131.14
+2020-08-18,Coffee,Kiambu,89.76
+2023-09-06,Sorghum,Nairobi,153.09
+2019-08-10,Sorghum,Kericho,81.37
+2022-11-03,Coffee,Uasin Gishu,103.73
+2021-03-05,Beans,Nairobi,152.04
+2018-02-28,Coffee,Kisii,49.98
+2016-02-08,Tomatoes,Nakuru,53.06
+2021-01-08,Wheat,Nairobi,159.3
+2020-10-02,Sorghum,Nandi,156.57
+2023-09-27,Cabbage,Uasin Gishu,132.6
+2019-08-24,Tomatoes,Uasin Gishu,98.1
+2016-09-19,Tomatoes,Meru,100.73
+2016-08-09,Tomatoes,Muranga,70.87
+2019-07-07,Potatoes,Muranga,91.93
+2018-12-14,Tomatoes,Kiambu,91.76
+2018-12-16,Sorghum,Kericho,44.33
+2015-04-14,Wheat,Embu,94.38
+2015-09-11,Wheat,Nandi,97.58
+2023-09-19,Tomatoes,Kisii,119.89
+2022-01-01,Maize,Nairobi,101.97
+2019-02-05,Sorghum,Nandi,143.4
+2015-04-09,Sorghum,Kericho,84.11
+2021-01-09,Tea,Muranga,89.17
+2020-02-28,Sugarcane,Nandi,108.58
+2023-02-09,Beans,Nairobi,64.33
+2020-04-03,Beans,Meru,87.22
+2017-05-27,Maize,Kiambu,122.34
+2015-12-04,Beans,Meru,89.42
+2022-11-09,Tea,Muranga,148.79
+2023-11-09,Coffee,Nakuru,113.84
+2017-08-14,Beans,Muranga,58.45
+2019-09-01,Sorghum,Kiambu,98.49
+2015-06-10,Coffee,Nairobi,131.77
+2019-05-23,Beans,Kericho,117.2
+2022-10-19,Sorghum,Embu,146.23
+2016-02-02,Sorghum,Meru,130.0
+2018-07-24,Tomatoes,Muranga,47.39
+2017-03-26,Wheat,Kericho,53.5
+2019-03-08,Maize,Meru,117.97
+2020-04-03,Tea,Muranga,68.61
+2018-11-16,Potatoes,Kiambu,110.54
+2018-03-04,Sugarcane,Meru,135.07
+2018-05-03,Beans,Muranga,109.23
+2016-02-05,Beans,Nairobi,89.86
+2016-10-01,Coffee,Kiambu,117.55
+2023-07-02,Coffee,Kericho,57.23
+2022-06-28,Sugarcane,Kericho,126.78
+2016-04-04,Beans,Embu,123.64
+2017-08-12,Cabbage,Nandi,101.73
+2016-04-14,Tea,Nakuru,73.46
+2017-11-11,Beans,Nairobi,135.71
+2022-08-29,Wheat,Kiambu,101.27
+2019-08-21,Sugarcane,Meru,47.1
+2020-09-16,Cabbage,Kericho,150.23
+2021-03-27,Tea,Nairobi,132.13
+2016-07-16,Beans,Kiambu,110.18
+2021-10-21,Potatoes,Kiambu,92.42
+2019-12-05,Tomatoes,Meru,155.19
+2020-09-05,Wheat,Kiambu,133.0
+2015-08-14,Potatoes,Kisii,104.2
+2017-03-08,Coffee,Nairobi,118.38
+2021-05-20,Coffee,Muranga,73.69
+2023-01-05,Beans,Kericho,63.49
+2017-08-17,Coffee,Kericho,72.8
+2019-02-13,Wheat,Muranga,75.18
+2016-03-28,Tea,Nairobi,128.77
+2023-05-26,Sorghum,Nakuru,56.81
+2017-03-26,Maize,Nairobi,133.31
+2016-10-20,Sugarcane,Uasin Gishu,102.81
+2016-06-30,Tea,Kiambu,86.15
+2018-04-30,Sorghum,Nandi,76.05
+2023-07-18,Cabbage,Meru,101.58
+2015-01-17,Wheat,Kisii,78.1
+2023-11-18,Potatoes,Nandi,91.53
+2018-05-28,Sorghum,Muranga,128.68
+2021-01-14,Wheat,Meru,115.12
+2021-11-29,Tomatoes,Meru,129.76
+2017-12-05,Potatoes,Meru,125.56
+2022-01-09,Coffee,Kericho,137.81
+2020-11-16,Coffee,Kisii,64.2
+2019-11-04,Potatoes,Kericho,159.41
+2017-11-26,Cabbage,Kiambu,97.09
+2021-05-16,Cabbage,Uasin Gishu,126.19
+2021-12-19,Cabbage,Embu,121.33
+2015-10-29,Sorghum,Kisii,107.94
+2015-06-30,Sugarcane,Nandi,159.5
+2016-08-29,Sorghum,Kiambu,66.08
+2023-09-06,Beans,Nairobi,90.61
+2016-11-30,Maize,Muranga,55.33
+2017-09-19,Potatoes,Uasin Gishu,61.82
+2018-02-13,Tea,Kiambu,125.56
+2015-07-10,Maize,Nairobi,40.58
+2021-04-19,Tomatoes,Uasin Gishu,146.78
+2017-09-07,Sorghum,Nairobi,115.98
+2023-02-23,Sorghum,Kisii,92.91
+2020-06-29,Wheat,Nairobi,79.76
+2018-03-30,Maize,Uasin Gishu,55.15
+2015-05-08,Wheat,Nairobi,150.59
+2020-08-27,Tea,Nandi,125.48
+2019-12-22,Wheat,Kiambu,80.37
+2019-10-25,Maize,Uasin Gishu,48.51
+2022-02-26,Potatoes,Nandi,79.08
+2016-07-23,Tomatoes,Nairobi,62.16
+2018-09-08,Sorghum,Nairobi,134.35
+2020-03-10,Tea,Meru,126.35
+2022-06-26,Sorghum,Uasin Gishu,99.78
+2016-09-17,Beans,Kisii,146.3
+2022-12-11,Tomatoes,Nairobi,61.68
+2019-08-14,Sugarcane,Muranga,94.24
+2023-03-29,Wheat,Kericho,125.27
+2015-06-04,Coffee,Embu,48.14
+2021-12-12,Maize,Kericho,84.72
+2018-11-10,Sorghum,Kisii,108.6
+2017-02-23,Wheat,Kiambu,84.02
+2023-09-11,Tea,Nakuru,97.62
+2015-09-03,Sorghum,Muranga,112.97
+2023-11-22,Sugarcane,Nakuru,84.21
+2023-07-08,Tomatoes,Nairobi,52.72
+2019-02-09,Tomatoes,Kiambu,56.73
+2019-09-02,Sorghum,Nandi,103.24
+2022-09-07,Tea,Nairobi,60.97
+2016-06-21,Tomatoes,Nakuru,146.78
+2020-03-05,Tomatoes,Nairobi,140.1
+2020-01-16,Sugarcane,Embu,81.88
+2017-07-09,Maize,Meru,139.72
+2021-09-21,Tea,Embu,103.98
+2016-06-08,Tea,Kiambu,59.09
+2022-11-15,Potatoes,Nandi,113.71
+2019-03-10,Potatoes,Embu,121.53
+2023-01-29,Tomatoes,Uasin Gishu,50.07
+2015-02-05,Coffee,Nandi,77.73
+2016-11-15,Potatoes,Nakuru,40.65
+2015-01-20,Tomatoes,Embu,77.97
+2021-06-26,Cabbage,Meru,80.25
+2022-01-03,Beans,Nandi,115.63
+2016-02-04,Beans,Nairobi,63.89
+2022-05-25,Tea,Meru,43.61
+2017-08-29,Coffee,Nairobi,77.88
+2020-03-21,Sugarcane,Embu,139.07
+2021-11-23,Maize,Muranga,87.9
+2018-03-12,Potatoes,Muranga,89.81
+2018-01-20,Cabbage,Nakuru,96.28
+2017-04-13,Tomatoes,Meru,130.21
+2019-12-29,Coffee,Nairobi,97.6
+2022-08-06,Tea,Kisii,50.95
+2020-06-05,Potatoes,Meru,64.77
+2017-05-03,Coffee,Uasin Gishu,62.55
+2015-02-20,Potatoes,Nakuru,100.94
+2016-07-28,Maize,Kericho,43.59
+2023-12-06,Maize,Kericho,74.03
+2018-02-22,Sugarcane,Nairobi,112.86
+2021-01-06,Beans,Muranga,82.56
+2021-06-19,Wheat,Nandi,124.93
+2022-03-02,Wheat,Uasin Gishu,86.95
+2021-06-10,Potatoes,Kericho,157.51
+2019-09-12,Sugarcane,Nairobi,155.84
+2016-11-12,Wheat,Nairobi,135.98
+2017-04-17,Tea,Embu,154.53
+2017-12-13,Wheat,Muranga,64.57
+2023-05-09,Sorghum,Meru,130.11
+2021-10-27,Tomatoes,Nandi,78.6
+2022-04-14,Sugarcane,Embu,127.04
+2023-04-29,Tea,Kericho,84.87
+2021-04-30,Coffee,Nandi,74.73
+2023-07-22,Tea,Nakuru,155.06
+2019-05-15,Beans,Muranga,65.19
+2023-05-10,Coffee,Kericho,131.03
+2015-01-05,Cabbage,Nairobi,120.96
+2018-01-31,Tomatoes,Kericho,76.42
+2018-05-04,Tomatoes,Kisii,95.0
+2017-02-12,Tomatoes,Kiambu,57.15
+2017-05-26,Tomatoes,Kiambu,150.55
+2017-09-18,Potatoes,Kericho,156.17
+2023-01-10,Tomatoes,Kisii,127.9
+2015-02-16,Tomatoes,Kericho,141.93
+2022-12-24,Tomatoes,Kiambu,49.91
+2022-11-10,Sugarcane,Embu,86.08
+2023-03-03,Potatoes,Nakuru,79.7
+2022-05-27,Maize,Kiambu,107.79
+2015-09-26,Tea,Nakuru,62.0
+2016-01-05,Tea,Nairobi,107.61
+2016-09-27,Coffee,Nakuru,118.52
+2018-02-03,Sugarcane,Embu,55.88
+2019-08-21,Sorghum,Kisii,55.81
+2019-08-10,Tea,Nakuru,44.25
+2016-10-18,Wheat,Nandi,131.31
+2015-04-30,Sorghum,Meru,79.72
+2017-04-10,Tomatoes,Kiambu,67.05
+2019-12-16,Tomatoes,Kisii,133.37
+2017-12-17,Potatoes,Uasin Gishu,57.19
+2020-05-28,Sorghum,Nairobi,91.26
+2018-10-01,Wheat,Meru,129.37
+2017-01-10,Potatoes,Nandi,108.86
+2015-04-27,Coffee,Muranga,106.48
+2020-01-28,Sorghum,Embu,58.9
+2022-10-09,Sugarcane,Kericho,61.71
+2018-02-24,Tomatoes,Meru,109.91
+2020-04-15,Tomatoes,Kisii,42.83
+2017-10-09,Beans,Kisii,144.29
+2019-07-23,Potatoes,Kisii,82.06
+2017-12-17,Maize,Nairobi,89.99
+2016-09-25,Maize,Nakuru,71.01
+2016-05-27,Potatoes,Kiambu,145.2
+2022-10-20,Sugarcane,Muranga,117.1
+2018-01-24,Cabbage,Kericho,93.99
+2018-02-15,Potatoes,Kisii,110.24
+2016-07-13,Sugarcane,Kericho,85.64
+2016-05-02,Coffee,Uasin Gishu,95.87
+2017-06-15,Tomatoes,Nairobi,82.92
+2018-04-27,Wheat,Kisii,89.28
+2016-12-04,Cabbage,Uasin Gishu,77.8
+2019-01-10,Sorghum,Muranga,49.32
+2016-08-03,Cabbage,Muranga,44.48
+2022-10-08,Wheat,Kiambu,60.89
+2022-12-18,Beans,Nandi,70.2
+2021-04-13,Tomatoes,Kiambu,146.86
+2023-08-14,Maize,Nakuru,113.35
+2015-06-03,Sugarcane,Kericho,155.0
+2019-08-07,Potatoes,Embu,80.76
+2017-09-23,Potatoes,Muranga,88.21
+2023-08-24,Maize,Embu,126.37
+2022-07-07,Cabbage,Nairobi,109.35
+2018-05-28,Tomatoes,Meru,103.35
+2017-12-28,Tea,Kisii,109.07
+2023-07-16,Sugarcane,Nairobi,110.1
+2017-10-05,Coffee,Muranga,131.89
+2020-11-11,Wheat,Uasin Gishu,120.17
+2019-11-09,Cabbage,Kericho,154.88
+2017-08-15,Sorghum,Embu,153.76
+2023-05-18,Beans,Kiambu,90.63
+2016-03-28,Potatoes,Meru,44.29
+2018-05-12,Cabbage,Nandi,41.33
+2023-02-07,Beans,Nairobi,54.78
+2021-03-15,Wheat,Nandi,48.99
+2021-11-26,Potatoes,Embu,84.8
+2021-10-15,Potatoes,Embu,46.34
+2021-07-16,Tea,Kisii,114.99
+2016-07-04,Cabbage,Uasin Gishu,62.82
+2019-06-24,Tomatoes,Uasin Gishu,101.68
+2018-08-05,Maize,Nakuru,52.37
+2019-10-24,Maize,Kiambu,139.33
+2015-12-23,Coffee,Muranga,133.6
+2020-09-01,Sorghum,Muranga,86.38
+2019-11-21,Beans,Embu,149.27
+2022-01-13,Cabbage,Nairobi,62.28
+2019-11-17,Sugarcane,Kericho,137.67
+2023-09-07,Sorghum,Muranga,105.5
+2022-10-20,Tea,Muranga,79.55
+2023-11-26,Potatoes,Nairobi,50.12
+2022-09-10,Tomatoes,Kiambu,60.56
+2021-10-25,Cabbage,Meru,143.54
+2019-06-20,Sorghum,Uasin Gishu,112.83
+2022-09-17,Sorghum,Kisii,68.45
+2017-10-12,Tomatoes,Kisii,99.5
+2018-09-10,Coffee,Kisii,52.94
+2016-05-30,Beans,Nairobi,51.86
+2023-06-15,Beans,Kisii,148.93
+2022-10-10,Sorghum,Embu,94.94
+2015-12-02,Wheat,Nakuru,83.39
+2019-11-18,Sorghum,Nairobi,153.89
+2021-04-24,Sorghum,Nairobi,87.88
+2016-05-11,Tomatoes,Uasin Gishu,80.35
+2017-06-14,Potatoes,Kisii,72.76
+2021-01-16,Tomatoes,Nandi,107.81
+2017-05-01,Cabbage,Meru,107.01
+2019-08-15,Sorghum,Nakuru,41.94
+2020-04-15,Beans,Nairobi,118.49
+2022-06-30,Sugarcane,Nakuru,134.6
+2021-08-24,Beans,Nairobi,113.92
+2019-04-18,Maize,Kiambu,144.39
+2017-08-14,Coffee,Uasin Gishu,73.17
+2022-07-01,Tea,Embu,63.04
+2019-06-25,Cabbage,Kiambu,123.67
+2018-07-15,Cabbage,Kericho,62.63
+2018-12-11,Coffee,Kisii,50.93
+2018-04-06,Sugarcane,Kericho,51.59
+2017-12-02,Tea,Meru,132.21
+2015-10-12,Potatoes,Nandi,43.45
+2021-09-10,Sorghum,Embu,74.73
+2015-01-12,Tea,Kiambu,55.5
+2019-06-19,Sugarcane,Nakuru,130.59
+2021-12-21,Wheat,Nakuru,100.42
+2017-01-23,Maize,Meru,64.66
+2020-09-13,Tea,Nairobi,130.05
+2022-08-06,Tea,Nakuru,130.04
+2022-12-06,Maize,Kisii,102.76
+2015-03-31,Sorghum,Nandi,73.1
+2017-02-14,Tea,Uasin Gishu,110.35
+2022-04-06,Maize,Kisii,152.02
+2023-04-06,Maize,Nandi,46.2
+2019-06-14,Maize,Meru,72.03
+2023-05-28,Tomatoes,Kisii,74.2
+2016-02-22,Sugarcane,Uasin Gishu,115.82
+2015-04-25,Tomatoes,Uasin Gishu,118.14
+2016-09-08,Wheat,Muranga,64.76
+2023-12-12,Potatoes,Nairobi,65.93
+2017-04-05,Tomatoes,Meru,151.39
+2019-07-08,Tomatoes,Kisii,130.76
+2019-02-25,Sugarcane,Embu,152.11
+2023-08-13,Potatoes,Embu,139.56
+2016-02-17,Coffee,Meru,88.25
+2016-12-29,Maize,Kisii,54.63
+2023-05-27,Cabbage,Kiambu,115.55
+2022-09-09,Potatoes,Kiambu,82.24
+2016-11-06,Wheat,Nairobi,91.05
+2020-03-07,Sorghum,Kisii,91.11
+2021-11-09,Wheat,Uasin Gishu,152.38
+2023-02-15,Maize,Nakuru,48.26
+2021-02-17,Potatoes,Embu,63.17
+2022-08-18,Wheat,Kisii,112.95
+2018-01-27,Wheat,Kisii,146.05
+2019-04-21,Coffee,Nakuru,150.15
+2017-09-04,Coffee,Nakuru,107.04
+2017-10-05,Potatoes,Nandi,44.15
+2020-11-13,Maize,Muranga,83.55
+2019-08-15,Tomatoes,Nairobi,150.26
+2022-06-03,Beans,Embu,99.99
+2023-12-06,Tea,Nakuru,127.19
+2015-02-06,Cabbage,Kiambu,72.3
+2019-03-29,Tea,Meru,43.0
+2021-05-15,Sugarcane,Kiambu,109.4
+2021-03-14,Coffee,Nandi,140.2
+2022-12-24,Potatoes,Nandi,158.83
+2017-05-22,Tea,Nakuru,141.6
+2019-12-27,Maize,Nandi,106.48
+2018-07-20,Cabbage,Uasin Gishu,113.05
+2020-10-10,Tea,Kericho,138.9
+2016-08-18,Cabbage,Kisii,42.38
+2020-03-18,Sorghum,Kisii,154.2
+2016-12-29,Maize,Nakuru,103.75
+2018-09-27,Beans,Nandi,154.25
+2016-02-01,Wheat,Meru,131.74
+2016-11-29,Cabbage,Uasin Gishu,58.28
+2023-06-18,Maize,Nairobi,59.83
+2021-02-02,Cabbage,Nandi,82.44
+2019-06-24,Cabbage,Uasin Gishu,71.68
+2016-01-31,Tomatoes,Muranga,92.72
+2021-10-28,Tomatoes,Nairobi,112.47
+2015-03-17,Maize,Kisii,92.39
+2015-09-22,Tomatoes,Muranga,46.77
+2021-11-07,Sugarcane,Nakuru,157.08
+2019-12-25,Beans,Embu,91.01
+2016-12-18,Potatoes,Nakuru,142.13
+2022-08-14,Maize,Meru,48.87
+2017-04-30,Maize,Uasin Gishu,137.21
+2018-10-22,Sugarcane,Embu,60.81
+2015-05-24,Coffee,Nairobi,121.53
+2017-06-03,Coffee,Nairobi,119.42
+2023-08-07,Tomatoes,Muranga,149.18
+2023-09-06,Potatoes,Meru,78.48
+2016-01-31,Tomatoes,Kisii,53.08
+2023-06-24,Sorghum,Nandi,143.75
+2023-03-15,Sorghum,Nandi,79.79
+2023-01-17,Wheat,Embu,67.9
+2019-02-01,Sorghum,Meru,98.35
+2023-10-28,Coffee,Meru,57.54
+2018-03-13,Beans,Nairobi,75.64
+2022-03-01,Sorghum,Kisii,86.23
+2017-11-28,Tomatoes,Uasin Gishu,73.27
+2020-11-26,Cabbage,Kisii,94.03
+2017-12-01,Maize,Kiambu,86.16
+2018-04-24,Beans,Meru,132.95
+2023-03-02,Beans,Nakuru,150.21
+2021-09-11,Tomatoes,Kericho,52.11
+2016-09-25,Maize,Meru,138.8
+2018-03-02,Coffee,Embu,151.81
+2023-11-09,Beans,Nakuru,122.39
+2018-05-23,Wheat,Embu,159.57
+2017-01-02,Tomatoes,Muranga,80.21
+2015-08-23,Beans,Kericho,139.64
+2022-05-29,Potatoes,Kericho,120.84
+2017-01-20,Maize,Nairobi,78.81
+2022-03-20,Sorghum,Meru,124.56
+2023-06-08,Beans,Nairobi,101.15
+2023-08-12,Tomatoes,Nandi,62.68
+2017-08-11,Sorghum,Embu,60.87
+2021-12-14,Wheat,Kiambu,125.61
+2023-02-08,Sorghum,Kiambu,125.43
+2019-03-23,Potatoes,Nandi,103.69
+2018-04-12,Coffee,Muranga,100.17
+2019-08-04,Beans,Kiambu,61.6
+2018-04-06,Tea,Embu,91.51
+2021-01-26,Tea,Kiambu,144.57
+2018-11-17,Sorghum,Nandi,142.57
+2023-03-13,Sugarcane,Nakuru,119.31
+2022-10-13,Maize,Nairobi,159.68
+2022-05-05,Tea,Uasin Gishu,147.18
+2018-05-02,Sugarcane,Embu,57.43
+2019-03-21,Tea,Nairobi,87.9
+2020-09-07,Sugarcane,Kericho,55.83
+2023-11-11,Maize,Kisii,95.93
+2018-12-16,Cabbage,Kiambu,133.17
+2021-07-14,Tea,Kiambu,58.69
+2019-02-28,Potatoes,Muranga,145.65
+2018-10-20,Beans,Nairobi,108.29
+2020-01-31,Sugarcane,Kisii,129.87
+2018-09-27,Beans,Kiambu,45.42
+2016-05-14,Tomatoes,Kericho,51.26
+2019-08-08,Tomatoes,Muranga,114.5
+2016-05-25,Maize,Nairobi,140.58
+2015-08-05,Sugarcane,Muranga,144.86
+2018-08-17,Wheat,Nairobi,122.6
+2018-03-01,Tomatoes,Meru,64.11
+2020-01-02,Maize,Meru,63.4
+2023-08-08,Tomatoes,Nandi,145.76
+2019-12-16,Tomatoes,Embu,53.59
+2021-10-28,Wheat,Muranga,122.33
+2023-01-02,Tea,Nandi,104.02
+2018-04-20,Sorghum,Muranga,90.57
+2021-01-23,Cabbage,Kiambu,92.84
+2015-04-01,Tomatoes,Uasin Gishu,153.42
+2016-12-14,Tomatoes,Muranga,143.37
+2020-02-25,Potatoes,Kiambu,143.8
+2015-02-08,Cabbage,Kisii,88.79
+2023-10-03,Wheat,Meru,52.84
+2015-06-22,Beans,Nandi,159.74
+2016-10-14,Sugarcane,Uasin Gishu,57.44
+2017-01-23,Tomatoes,Kericho,101.87
+2018-05-28,Sorghum,Meru,71.75
+2017-12-17,Sugarcane,Nandi,101.29
+2019-08-11,Cabbage,Uasin Gishu,76.59
+2021-11-28,Sugarcane,Kericho,147.63
+2016-03-31,Tea,Nakuru,156.2
+2017-04-08,Tomatoes,Kiambu,89.21
+2017-06-13,Sugarcane,Nakuru,48.42
+2018-10-16,Beans,Kiambu,119.6
+2020-05-12,Beans,Nairobi,85.2
+2023-05-31,Tomatoes,Embu,158.32
+2021-08-31,Coffee,Uasin Gishu,50.72
+2020-06-19,Beans,Nakuru,54.3
+2021-07-23,Sugarcane,Embu,123.93
+2015-07-09,Maize,Uasin Gishu,131.04
+2016-05-19,Beans,Nandi,96.53
+2018-04-29,Cabbage,Nairobi,73.27
+2019-03-12,Coffee,Nandi,77.18
+2017-04-03,Sugarcane,Kiambu,80.56
+2017-07-17,Wheat,Embu,67.03
+2017-07-22,Potatoes,Uasin Gishu,142.08
+2018-02-14,Wheat,Muranga,47.81
+2015-05-14,Tea,Embu,88.87
+2020-10-06,Potatoes,Kisii,129.71
+2016-11-15,Tea,Kericho,40.46
+2022-06-12,Potatoes,Nakuru,145.36
+2021-01-29,Potatoes,Uasin Gishu,124.76
+2020-01-27,Maize,Meru,48.8
+2017-03-25,Sorghum,Meru,147.4
+2018-03-18,Cabbage,Kericho,98.48
+2015-03-21,Wheat,Kiambu,118.27
+2023-01-12,Beans,Embu,145.84
+2023-12-29,Sugarcane,Embu,145.74
+2015-07-22,Coffee,Meru,89.05
+2022-09-12,Cabbage,Embu,68.52
+2018-06-06,Tea,Kericho,70.89
+2019-08-27,Maize,Embu,131.91
+2018-06-04,Tea,Kiambu,151.53
+2019-08-10,Sorghum,Nakuru,48.67
+2019-04-05,Coffee,Kisii,41.8
+2020-09-25,Maize,Nakuru,138.75
+2018-06-10,Tea,Kisii,86.39
+2019-03-30,Sorghum,Muranga,73.17
+2018-03-12,Sugarcane,Nakuru,62.6
+2018-10-28,Sugarcane,Kericho,81.58
+2022-05-27,Tea,Nairobi,156.58
+2016-04-15,Cabbage,Muranga,157.25
+2023-04-07,Coffee,Kisii,79.78
+2017-11-01,Tomatoes,Kisii,155.64
+2018-09-15,Cabbage,Muranga,75.98
+2022-08-15,Sugarcane,Kisii,142.54
+2022-10-02,Coffee,Uasin Gishu,65.44
+2017-08-25,Sorghum,Nairobi,139.18
+2015-12-24,Maize,Kericho,82.45
+2023-04-08,Potatoes,Uasin Gishu,63.49
+2016-10-29,Tea,Kisii,152.17
+2016-01-08,Wheat,Nakuru,65.7
+2017-10-28,Coffee,Uasin Gishu,159.02
+2018-02-19,Beans,Nakuru,53.03
+2018-10-03,Sorghum,Muranga,41.2
+2022-06-16,Tomatoes,Embu,144.5
+2015-03-31,Potatoes,Nandi,110.39
+2022-07-08,Beans,Kisii,90.6
+2023-11-24,Tomatoes,Nandi,49.84
+2016-06-23,Wheat,Nairobi,108.99
+2022-08-11,Sugarcane,Nakuru,87.25
+2017-05-18,Cabbage,Uasin Gishu,98.03
+2015-02-10,Tea,Nandi,115.65
+2017-01-09,Maize,Kiambu,116.79
+2020-04-30,Tomatoes,Kisii,155.27
+2021-12-24,Potatoes,Nandi,118.61
+2023-03-26,Coffee,Uasin Gishu,80.73
+2023-10-22,Sugarcane,Uasin Gishu,79.56
+2018-05-09,Coffee,Nairobi,97.26
+2017-07-17,Potatoes,Meru,71.12
+2020-07-29,Coffee,Kericho,85.17
+2021-11-13,Tomatoes,Kiambu,141.05
+2022-08-11,Sorghum,Nandi,143.17
+2022-08-31,Coffee,Kericho,115.34
+2017-07-13,Cabbage,Kiambu,109.94
+2023-02-04,Wheat,Meru,91.25
+2019-05-01,Maize,Nandi,116.31
+2016-01-25,Tomatoes,Kiambu,136.73
+2019-06-06,Beans,Kericho,128.54
+2023-01-09,Potatoes,Nakuru,44.26
+2015-09-13,Sugarcane,Uasin Gishu,127.74
+2016-12-09,Tomatoes,Embu,126.39
+2020-01-13,Sorghum,Muranga,51.88
+2020-04-28,Sugarcane,Kisii,58.03
+2021-11-02,Cabbage,Embu,134.55
+2015-01-10,Potatoes,Nandi,107.08
+2022-11-11,Sugarcane,Nandi,138.6
+2017-03-08,Coffee,Kiambu,62.17
+2017-05-26,Tomatoes,Uasin Gishu,43.67
+2017-10-25,Wheat,Meru,59.43
+2023-09-26,Potatoes,Nairobi,94.31
+2017-10-12,Tea,Kiambu,102.8
+2019-12-30,Cabbage,Nairobi,142.92
+2016-01-09,Maize,Muranga,125.94
+2023-08-03,Potatoes,Kericho,158.85
+2021-01-02,Sorghum,Kiambu,49.45
+2015-08-12,Tomatoes,Muranga,55.63
+2018-06-16,Coffee,Kisii,50.12
+2021-02-02,Maize,Kiambu,104.61
+2019-12-08,Maize,Uasin Gishu,72.02
+2017-05-02,Cabbage,Uasin Gishu,122.04
+2015-03-04,Sugarcane,Nandi,55.92
+2018-05-25,Sorghum,Kisii,52.38
+2022-11-14,Sugarcane,Nandi,95.22
+2022-10-13,Coffee,Nairobi,85.11
+2016-11-19,Maize,Embu,139.5
+2019-01-24,Sorghum,Meru,140.51
+2019-06-22,Sorghum,Kisii,54.09
+2020-11-22,Beans,Kericho,137.48
+2023-09-06,Tomatoes,Meru,107.7
+2016-05-25,Maize,Meru,100.43
+2016-01-20,Maize,Nakuru,51.37
+2016-02-09,Sorghum,Kiambu,128.76
+2022-11-10,Sugarcane,Kericho,47.16
+2016-06-01,Maize,Kisii,73.32
+2016-04-20,Sorghum,Nandi,51.45
+2020-06-23,Maize,Nairobi,103.69
+2022-07-19,Sorghum,Kiambu,117.43
+2019-07-27,Beans,Nakuru,146.9
+2020-03-08,Tomatoes,Nairobi,128.06
+2022-09-19,Sorghum,Kisii,155.33
+2018-12-31,Maize,Embu,131.31
+2023-06-22,Coffee,Meru,75.77
+2023-05-03,Tomatoes,Nakuru,105.71
+2022-06-17,Beans,Nairobi,94.95
+2016-12-14,Sorghum,Nandi,107.92
+2015-03-24,Coffee,Nakuru,108.65
+2018-03-14,Sorghum,Nairobi,124.25
+2023-08-23,Sugarcane,Nakuru,49.97
+2023-08-16,Maize,Nandi,129.61
+2021-11-09,Potatoes,Nandi,57.25
+2020-03-16,Cabbage,Kericho,43.14
+2020-08-10,Wheat,Uasin Gishu,102.27
+2015-02-20,Sugarcane,Meru,109.78
+2016-11-15,Coffee,Kiambu,44.18
+2016-12-17,Sugarcane,Kiambu,101.84
+2019-01-09,Tea,Kisii,104.15
+2016-03-24,Sorghum,Muranga,46.3
+2017-05-30,Sorghum,Kisii,125.39
+2016-05-02,Wheat,Muranga,65.23
+2019-12-29,Wheat,Nakuru,135.34
+2020-09-12,Tea,Muranga,77.3
+2020-11-12,Maize,Uasin Gishu,97.35
+2023-08-10,Cabbage,Uasin Gishu,147.02
+2019-04-24,Potatoes,Meru,136.74
+2021-01-10,Potatoes,Nairobi,133.82
+2015-09-07,Beans,Kiambu,59.25
+2016-11-04,Beans,Meru,45.78
+2016-03-13,Maize,Uasin Gishu,112.69
+2020-12-05,Beans,Nairobi,89.28
+2017-02-09,Beans,Kisii,149.09
+2015-09-25,Tea,Kiambu,81.95
+2020-06-07,Tea,Kericho,89.27
+2017-12-13,Beans,Kiambu,103.12
+2015-08-24,Sugarcane,Nakuru,135.57
+2016-01-24,Tomatoes,Embu,72.2
+2023-04-26,Tomatoes,Kiambu,153.02
+2017-02-01,Maize,Uasin Gishu,104.79
+2020-01-23,Potatoes,Nakuru,140.92
+2021-09-14,Wheat,Nandi,103.07
+2016-09-15,Maize,Muranga,132.64
+2022-09-15,Beans,Kisii,46.17
+2023-02-14,Tea,Kericho,135.91
+2023-12-23,Sorghum,Kisii,102.88
+2018-06-06,Sugarcane,Nandi,93.93
+2022-12-10,Coffee,Embu,53.39
+2016-07-31,Tea,Kiambu,128.99
+2020-10-23,Tomatoes,Meru,55.74
+2016-03-10,Tea,Nakuru,63.08
+2020-11-20,Sugarcane,Kericho,55.17
+2017-02-02,Wheat,Nandi,40.79
+2022-08-17,Beans,Embu,119.43
+2022-10-24,Sorghum,Kisii,72.5
+2018-08-22,Tomatoes,Nandi,57.94
+2020-11-15,Tomatoes,Kericho,78.4
+2022-10-16,Cabbage,Kericho,99.89
+2018-09-20,Potatoes,Embu,100.41
+2022-12-16,Wheat,Kisii,84.06
+2021-10-18,Tomatoes,Uasin Gishu,99.39
+2016-03-22,Potatoes,Kericho,91.28
+2020-07-10,Tomatoes,Nakuru,138.72
+2018-08-24,Beans,Nakuru,43.55
+2015-09-06,Potatoes,Muranga,144.16
+2015-06-15,Sugarcane,Kisii,69.27
+2023-04-20,Cabbage,Nandi,126.61
+2018-09-20,Beans,Nakuru,88.6
+2017-10-16,Sugarcane,Embu,75.32
+2016-06-25,Sorghum,Nandi,113.84
+2017-01-28,Wheat,Kisii,132.27
+2023-09-13,Wheat,Embu,93.99
+2020-10-29,Coffee,Kiambu,95.99
+2020-12-20,Coffee,Nairobi,47.06
+2017-03-07,Potatoes,Nakuru,150.88
+2023-01-26,Wheat,Nakuru,141.63
+2015-05-18,Potatoes,Muranga,87.76
+2021-02-09,Coffee,Uasin Gishu,131.79
+2018-09-15,Sorghum,Muranga,77.59
+2022-10-03,Tomatoes,Kisii,127.65
+2020-02-19,Sugarcane,Muranga,102.0
+2023-04-20,Tea,Uasin Gishu,95.29
+2015-03-10,Potatoes,Uasin Gishu,46.78
+2022-02-06,Sorghum,Kericho,155.85
+2020-10-01,Sugarcane,Kericho,140.49
+2019-01-13,Wheat,Nairobi,135.21
+2015-07-24,Tomatoes,Embu,76.59
+2020-12-13,Sugarcane,Kiambu,74.75
+2015-02-12,Cabbage,Uasin Gishu,108.78
+2020-03-21,Coffee,Kiambu,141.55
+2020-11-28,Sugarcane,Nakuru,152.16
+2017-01-30,Tea,Meru,72.27
+2023-11-29,Sorghum,Nairobi,112.89
+2022-12-05,Tomatoes,Kisii,126.87
+2020-11-12,Beans,Nandi,67.17
+2020-06-17,Sugarcane,Kiambu,88.9
+2020-04-19,Maize,Muranga,62.5
+2017-06-18,Tea,Uasin Gishu,123.87
+2015-12-26,Tea,Kiambu,143.65
+2023-01-26,Maize,Nandi,145.3
+2019-09-16,Cabbage,Uasin Gishu,120.41
+2015-10-08,Beans,Kisii,81.66
+2023-12-11,Coffee,Meru,119.32
+2020-03-02,Sorghum,Muranga,143.71
+2023-12-11,Tomatoes,Kiambu,115.1
+2016-10-28,Sorghum,Kericho,89.55
+2015-04-03,Beans,Nairobi,150.38
+2016-11-02,Sorghum,Kiambu,140.23
+2020-05-23,Maize,Kiambu,145.89
+2015-03-02,Tea,Nandi,148.38
+2022-05-05,Sorghum,Nandi,87.26
+2023-07-20,Potatoes,Nairobi,143.16
+2017-10-25,Sugarcane,Kiambu,108.44
+2019-01-29,Beans,Embu,44.58
+2016-08-26,Cabbage,Kisii,116.3
+2016-11-12,Potatoes,Nandi,96.47
+2022-01-25,Maize,Nandi,73.02
+2018-11-29,Wheat,Embu,156.45
+2022-11-25,Maize,Uasin Gishu,46.61
+2022-05-16,Cabbage,Kiambu,153.51
+2021-03-30,Cabbage,Nairobi,59.11
+2016-06-07,Potatoes,Nandi,85.24
+2021-07-21,Sugarcane,Nairobi,90.07
+2023-07-15,Beans,Nairobi,127.72
+2022-02-06,Coffee,Kisii,65.87
+2020-05-22,Tea,Kericho,158.33
+2018-01-06,Potatoes,Nandi,129.88
+2019-10-20,Cabbage,Muranga,134.79
+2020-01-11,Wheat,Uasin Gishu,52.77
+2023-08-11,Tomatoes,Nairobi,97.16
+2022-10-12,Cabbage,Nandi,153.47
+2021-04-15,Sugarcane,Uasin Gishu,72.41
+2020-09-25,Sugarcane,Muranga,57.45
+2018-02-18,Cabbage,Nandi,98.25
+2021-03-11,Sugarcane,Kiambu,151.65
+2021-04-05,Potatoes,Nairobi,98.41
+2017-12-15,Cabbage,Muranga,88.58
+2021-07-25,Cabbage,Kiambu,118.03
+2015-04-17,Beans,Nairobi,152.43
+2022-11-18,Tea,Nakuru,45.89
+2015-02-17,Wheat,Meru,58.41
+2015-12-03,Sugarcane,Embu,55.93
+2017-11-15,Beans,Nairobi,50.24
+2022-10-22,Coffee,Muranga,76.25
+2018-07-04,Coffee,Muranga,67.52
+2020-08-17,Sorghum,Meru,105.84
+2016-09-16,Potatoes,Nandi,79.27
+2020-03-05,Potatoes,Embu,88.62
+2018-06-30,Maize,Uasin Gishu,153.02
+2019-09-12,Wheat,Nairobi,58.68
+2022-07-29,Cabbage,Nandi,86.61
+2015-10-30,Sugarcane,Kiambu,70.85
+2016-09-30,Wheat,Uasin Gishu,105.9
+2015-02-25,Sorghum,Embu,128.36
+2016-12-26,Maize,Nandi,138.04
+2016-06-09,Beans,Kericho,101.84
+2016-04-18,Wheat,Uasin Gishu,142.59
+2015-01-28,Beans,Kisii,134.21
+2020-10-26,Coffee,Kisii,58.84
+2015-12-31,Sugarcane,Nairobi,69.45
+2022-06-06,Sorghum,Nairobi,120.61
+2016-06-09,Cabbage,Nairobi,156.98
+2022-07-09,Sugarcane,Embu,85.14
+2018-08-28,Tea,Kericho,67.58
+2017-06-01,Potatoes,Nandi,144.3
+2017-10-27,Sorghum,Kiambu,63.95
+2017-10-23,Wheat,Nakuru,123.69
+2019-07-05,Sugarcane,Muranga,44.11
+2017-07-07,Tomatoes,Kiambu,42.28
+2022-08-29,Potatoes,Nandi,94.19
+2021-08-07,Potatoes,Kericho,118.78
+2019-11-10,Tomatoes,Embu,57.09
+2019-03-12,Maize,Uasin Gishu,131.67
+2022-10-24,Maize,Kiambu,55.45
+2022-08-18,Tomatoes,Uasin Gishu,104.04
+2020-03-21,Tea,Nakuru,77.0
+2023-06-14,Coffee,Nandi,130.27
+2018-04-30,Tomatoes,Kericho,136.49
+2019-07-13,Coffee,Nandi,47.93
+2016-04-29,Sugarcane,Muranga,63.11
+2020-09-06,Tea,Embu,147.12
+2016-12-14,Sorghum,Muranga,89.87
+2017-11-28,Coffee,Nandi,97.21
+2020-05-30,Potatoes,Muranga,60.16
+2018-07-20,Sugarcane,Meru,159.39
+2018-06-08,Potatoes,Nandi,150.77
+2020-11-03,Tea,Kericho,40.24
+2015-05-06,Coffee,Kiambu,106.09
+2022-10-30,Beans,Kericho,144.67
+2016-06-20,Tea,Meru,91.66
+2021-01-01,Tea,Kiambu,92.42
+2023-12-28,Beans,Meru,85.52
+2020-09-03,Sugarcane,Kiambu,43.46
+2019-05-23,Coffee,Kericho,134.83
+2015-03-08,Coffee,Nandi,94.81
+2015-08-21,Potatoes,Nairobi,103.73
+2020-11-26,Tea,Kisii,70.68
+2018-03-15,Tea,Kisii,134.09
+2020-11-28,Cabbage,Meru,135.25
+2021-03-25,Sorghum,Kisii,106.35
+2015-04-21,Tea,Kericho,148.56
+2019-02-02,Wheat,Uasin Gishu,53.91
+2020-09-12,Sorghum,Meru,134.4
+2016-09-14,Wheat,Kiambu,107.03
+2022-08-27,Coffee,Embu,67.72
+2022-03-27,Sorghum,Muranga,55.88
+2021-10-08,Tea,Kericho,76.12
+2022-04-14,Beans,Kiambu,142.76
+2019-03-22,Potatoes,Uasin Gishu,134.51
+2022-07-02,Wheat,Embu,117.42
+2018-07-29,Sorghum,Kisii,50.84
+2019-10-28,Tea,Uasin Gishu,154.58
+2020-05-29,Sorghum,Meru,76.65
+2021-06-20,Tea,Nakuru,112.84
+2017-05-26,Tea,Nakuru,136.37
+2020-06-12,Tea,Kisii,55.94
+2018-08-05,Cabbage,Nakuru,118.26
+2018-12-31,Potatoes,Nakuru,43.88
+2022-06-02,Beans,Kiambu,52.21
+2021-05-13,Beans,Kiambu,126.78
+2019-09-30,Sorghum,Muranga,58.61
+2019-05-25,Sorghum,Nandi,93.22
+2019-03-07,Tea,Kisii,69.8
+2022-04-25,Cabbage,Nakuru,90.55
+2022-01-07,Tea,Muranga,49.27
+2022-11-30,Cabbage,Kisii,130.59
+2021-07-25,Tea,Nakuru,49.48
+2019-06-19,Wheat,Kericho,140.55
+2022-11-10,Wheat,Nairobi,119.51
+2018-03-06,Coffee,Kericho,89.99
+2017-01-28,Tea,Embu,143.98
+2023-01-25,Potatoes,Kisii,62.34
+2015-08-31,Coffee,Nandi,71.75
+2022-02-03,Sorghum,Embu,56.45
+2017-11-29,Sugarcane,Muranga,85.79
+2015-08-17,Tea,Muranga,158.41
+2022-02-08,Wheat,Nakuru,59.32
+2017-07-08,Sugarcane,Embu,139.72
+2018-05-31,Cabbage,Nakuru,118.23
+2015-01-06,Sugarcane,Kisii,41.9
+2016-04-12,Potatoes,Muranga,153.39
+2019-10-22,Tea,Nairobi,156.53
+2015-03-16,Beans,Muranga,150.99
+2015-01-04,Sugarcane,Kiambu,100.21
+2020-02-14,Beans,Uasin Gishu,66.45
+2016-10-07,Cabbage,Nandi,86.95
+2015-04-28,Coffee,Embu,113.7
+2023-01-07,Beans,Nakuru,85.46
+2019-06-18,Coffee,Uasin Gishu,124.98
+2021-12-26,Wheat,Uasin Gishu,135.47
+2020-07-14,Tea,Kericho,65.13
+2017-08-04,Sugarcane,Meru,88.59
+2022-03-06,Wheat,Kericho,154.93
+2019-01-04,Wheat,Kericho,69.98
+2015-07-13,Tomatoes,Nandi,81.57
+2017-04-26,Maize,Kiambu,44.28
+2022-07-25,Potatoes,Muranga,79.88
+2018-11-16,Coffee,Kericho,84.51
+2023-06-25,Tomatoes,Kisii,51.98
+2018-12-29,Maize,Muranga,40.17
+2021-01-29,Potatoes,Kiambu,109.05
+2019-07-27,Coffee,Nakuru,76.18
+2021-07-01,Tea,Meru,42.14
+2018-12-04,Potatoes,Muranga,143.19
+2018-02-15,Sugarcane,Embu,110.13
+2022-11-23,Wheat,Nandi,60.54
+2019-12-16,Maize,Uasin Gishu,143.83
+2016-12-24,Maize,Nakuru,70.43
+2015-08-13,Maize,Kiambu,67.29
+2016-06-15,Coffee,Kericho,147.36
+2015-04-23,Sugarcane,Kisii,61.53
+2020-12-27,Potatoes,Kisii,145.48
+2016-07-12,Wheat,Meru,136.36
+2020-08-10,Sugarcane,Kiambu,77.17
+2020-11-07,Tomatoes,Nakuru,44.13
+2016-10-15,Tea,Embu,49.91
+2015-11-16,Beans,Uasin Gishu,53.14
+2019-04-23,Sugarcane,Kericho,146.9
+2020-01-03,Tomatoes,Nandi,88.48
+2020-04-01,Wheat,Nairobi,43.9
+2015-05-19,Beans,Nairobi,106.79
+2022-12-02,Beans,Kericho,64.96
+2020-07-19,Sugarcane,Nakuru,68.22
+2021-04-25,Maize,Kericho,59.3
+2017-06-20,Sorghum,Kiambu,131.44
+2016-11-20,Wheat,Nairobi,40.07
+2020-08-01,Maize,Meru,92.68
+2015-01-10,Wheat,Kiambu,50.42
+2015-09-18,Sorghum,Nairobi,106.28
+2020-04-26,Tea,Embu,81.52
+2019-08-01,Sorghum,Uasin Gishu,43.4
+2021-01-28,Cabbage,Kisii,95.32
+2023-01-24,Sugarcane,Kiambu,108.47
+2020-08-22,Sugarcane,Kisii,69.72
+2018-04-06,Tomatoes,Kisii,131.86
+2019-06-08,Maize,Nairobi,84.53
+2015-11-17,Tomatoes,Kiambu,129.92
+2018-09-04,Cabbage,Uasin Gishu,109.48
+2019-06-25,Sorghum,Embu,144.31
+2021-07-04,Sugarcane,Muranga,105.63
+2022-10-03,Coffee,Meru,62.28
+2022-09-25,Sorghum,Kisii,138.71
+2020-06-17,Sorghum,Uasin Gishu,133.96
+2023-02-06,Cabbage,Nandi,156.68
+2020-04-27,Tea,Nandi,51.23
+2020-07-31,Wheat,Muranga,110.95
+2018-01-23,Cabbage,Muranga,99.0
+2019-05-24,Wheat,Muranga,120.5
+2021-06-23,Sugarcane,Meru,157.62
+2015-08-24,Cabbage,Meru,103.87
+2020-05-23,Wheat,Embu,122.29
+2015-11-30,Tomatoes,Kisii,81.67
+2020-03-23,Cabbage,Nakuru,75.88
+2016-01-11,Sugarcane,Nandi,80.24
+2018-03-06,Cabbage,Nairobi,44.63
+2022-03-20,Sugarcane,Nairobi,74.17
+2019-04-20,Cabbage,Muranga,60.75
+2022-01-04,Wheat,Kericho,94.89
+2018-08-12,Tea,Nandi,95.3
+2023-02-13,Potatoes,Nakuru,131.83
+2020-01-30,Wheat,Nakuru,100.27
+2018-10-04,Maize,Nairobi,95.57
+2017-05-22,Beans,Kericho,67.8
+2018-06-06,Tea,Nakuru,142.3
+2021-05-06,Tomatoes,Nandi,50.92
+2020-01-26,Sorghum,Kisii,157.88
+2022-10-16,Wheat,Uasin Gishu,97.13
+2018-08-07,Cabbage,Kericho,62.32
+2016-12-25,Wheat,Nakuru,82.52
+2023-11-11,Coffee,Kericho,41.84
+2020-08-14,Tea,Kericho,59.98
+2022-12-08,Potatoes,Kisii,80.24
+2015-03-19,Tomatoes,Nandi,106.53
+2022-03-06,Coffee,Nairobi,55.54
+2015-05-12,Sugarcane,Kisii,121.12
+2016-08-23,Coffee,Nakuru,141.31
+2019-11-08,Wheat,Muranga,108.68
+2017-12-01,Tomatoes,Kisii,75.63
+2020-11-06,Wheat,Muranga,54.57
+2021-09-15,Sugarcane,Kiambu,41.86
+2021-06-01,Sorghum,Nairobi,127.82
+2020-02-07,Tomatoes,Nandi,115.42
+2018-08-11,Sorghum,Uasin Gishu,97.15
+2016-09-07,Tea,Kericho,52.24
+2022-10-18,Tea,Muranga,64.84
+2021-10-05,Sorghum,Uasin Gishu,137.82
+2020-03-03,Tea,Uasin Gishu,97.58
+2017-11-12,Tomatoes,Muranga,155.54
+2016-07-28,Cabbage,Uasin Gishu,160.0
+2020-12-30,Maize,Kericho,136.08
+2017-09-19,Tea,Embu,70.98
+2022-06-05,Tea,Kiambu,67.73
+2021-01-01,Wheat,Muranga,70.44
+2018-06-02,Sorghum,Kericho,158.41
+2023-05-13,Beans,Nairobi,80.24
+2016-05-17,Potatoes,Muranga,124.77
+2020-06-20,Coffee,Kericho,155.08
+2017-03-31,Tea,Kericho,138.35
+2020-11-21,Coffee,Kisii,111.71
+2023-07-08,Tomatoes,Embu,60.28
+2020-05-24,Beans,Muranga,60.99
+2015-07-17,Potatoes,Nandi,99.09
+2019-07-28,Sorghum,Kericho,154.23
+2022-03-11,Maize,Kiambu,148.54
+2021-09-04,Potatoes,Kisii,59.94
+2018-04-17,Potatoes,Kericho,74.53
+2022-02-14,Maize,Muranga,110.66
+2019-01-11,Cabbage,Nakuru,97.29
+2023-06-14,Sorghum,Kericho,54.32
+2019-07-05,Wheat,Meru,84.32
+2019-08-20,Coffee,Nakuru,154.57
+2018-08-05,Tea,Kericho,154.17
+2020-07-28,Potatoes,Uasin Gishu,107.13
+2016-04-22,Tomatoes,Kericho,116.23
+2018-06-08,Maize,Nairobi,66.63
+2017-07-11,Coffee,Uasin Gishu,129.03
+2016-02-24,Beans,Muranga,46.3
+2021-01-13,Maize,Kiambu,66.48
+2022-02-10,Beans,Nakuru,40.71
+2018-01-25,Sorghum,Nandi,86.28
+2023-05-27,Potatoes,Kisii,142.03
+2023-05-03,Tomatoes,Kiambu,157.9
+2017-08-08,Tea,Uasin Gishu,120.13
+2021-05-25,Beans,Kisii,129.38
+2018-07-01,Coffee,Nakuru,71.53
+2021-02-21,Cabbage,Nandi,102.44
+2022-03-30,Sorghum,Meru,128.39
+2020-02-01,Cabbage,Meru,99.67
+2016-05-31,Sorghum,Nandi,50.63
+2019-07-17,Wheat,Kisii,128.9
+2020-02-09,Coffee,Muranga,66.35
+2022-12-22,Cabbage,Kisii,51.72
+2018-02-15,Tomatoes,Kericho,97.37
+2022-10-24,Potatoes,Kisii,48.95
+2020-04-16,Maize,Muranga,115.53
+2023-11-05,Tea,Kiambu,116.86
+2017-03-25,Potatoes,Nakuru,70.8
+2021-03-25,Potatoes,Kisii,155.74
+2020-03-15,Sorghum,Nakuru,138.93
+2021-03-13,Tomatoes,Uasin Gishu,53.15
+2023-03-15,Sorghum,Meru,129.82
+2020-08-24,Sugarcane,Meru,82.37
+2023-11-03,Beans,Muranga,130.03
+2023-11-03,Tea,Uasin Gishu,136.1
+2020-09-25,Beans,Meru,58.17
+2021-06-29,Maize,Muranga,119.42
+2022-12-01,Sugarcane,Kisii,143.53
+2015-05-10,Coffee,Uasin Gishu,78.8
+2015-04-05,Maize,Kericho,49.64
+2022-04-28,Maize,Kericho,43.27
+2022-09-03,Wheat,Kericho,53.2
+2020-05-09,Tea,Kiambu,40.5
+2017-03-04,Sorghum,Kericho,79.23
+2020-01-09,Tomatoes,Uasin Gishu,75.92
+2020-10-17,Beans,Nairobi,53.24
+2019-08-11,Maize,Meru,118.13
+2015-01-11,Beans,Kericho,159.03
+2020-02-09,Beans,Uasin Gishu,148.11
+2022-12-29,Coffee,Embu,70.34
+2022-02-10,Tea,Kisii,132.4
+2023-10-11,Tea,Kiambu,152.42
+2016-12-12,Cabbage,Nakuru,148.76
+2020-09-01,Potatoes,Muranga,146.15
+2017-03-25,Tea,Embu,134.37
+2015-12-12,Beans,Embu,75.16
+2021-06-07,Sorghum,Kiambu,50.03
+2015-12-29,Beans,Muranga,98.54
+2021-09-09,Sorghum,Kiambu,46.57
+2021-03-15,Cabbage,Kericho,159.82
+2020-12-28,Sorghum,Nakuru,83.0
+2023-03-25,Tea,Muranga,155.0
+2023-12-26,Coffee,Uasin Gishu,132.77
+2017-09-11,Sorghum,Meru,89.35
+2023-04-29,Beans,Kiambu,54.2
+2019-06-28,Tomatoes,Nakuru,68.46
+2017-04-07,Tea,Kisii,120.77
+2022-06-23,Tomatoes,Nairobi,139.59
+2023-05-10,Sugarcane,Kisii,157.53
+2015-12-22,Sugarcane,Nairobi,55.86
+2023-05-14,Beans,Nandi,58.71
+2018-09-09,Sugarcane,Uasin Gishu,45.09
+2023-10-10,Potatoes,Nandi,71.24
+2023-01-14,Cabbage,Kiambu,138.53
+2020-02-07,Tea,Kiambu,63.79
+2015-05-07,Tomatoes,Nairobi,105.74
+2023-09-13,Beans,Muranga,93.57
+2023-05-15,Potatoes,Nakuru,79.1
+2016-08-26,Beans,Kericho,114.2
+2020-04-12,Potatoes,Embu,100.28
+2017-10-10,Sugarcane,Kiambu,80.17
+2015-02-20,Sugarcane,Nandi,122.66
+2023-06-28,Sorghum,Nandi,73.6
+2022-09-27,Wheat,Kisii,117.18
+2018-12-01,Beans,Uasin Gishu,154.87
+2019-11-28,Sorghum,Nairobi,127.47
+2022-11-01,Tea,Embu,90.21
+2019-06-25,Sorghum,Nairobi,129.71
+2019-07-04,Maize,Kiambu,137.11
+2021-10-03,Sugarcane,Meru,79.1
+2018-04-20,Maize,Embu,124.62
+2023-04-19,Beans,Kisii,92.13
+2022-11-12,Tomatoes,Nandi,138.22
+2023-05-31,Tomatoes,Kisii,75.45
+2020-01-29,Tea,Kiambu,152.53
+2016-07-20,Sorghum,Meru,108.97
+2021-08-15,Tomatoes,Kericho,82.4
+2017-07-24,Potatoes,Embu,90.32
+2020-04-18,Potatoes,Nairobi,81.74
+2022-06-01,Tea,Embu,57.55
+2023-04-05,Cabbage,Nandi,48.22
+2018-08-25,Sugarcane,Nairobi,78.61
+2023-10-14,Sorghum,Kericho,95.04
+2015-07-21,Beans,Kericho,83.42
+2021-06-18,Coffee,Uasin Gishu,41.67
+2015-04-27,Coffee,Nairobi,109.48
+2017-07-25,Coffee,Nakuru,57.38
+2016-07-28,Tomatoes,Meru,65.32
+2021-04-10,Cabbage,Nakuru,54.49
+2016-06-20,Cabbage,Kericho,102.45
+2019-06-14,Sorghum,Nairobi,51.42
+2020-10-23,Sorghum,Uasin Gishu,70.76
+2016-01-21,Cabbage,Embu,94.21
+2023-12-26,Tea,Embu,60.13
+2016-04-19,Sorghum,Embu,93.55
+2016-02-22,Tea,Uasin Gishu,81.13
+2021-07-22,Maize,Kiambu,143.27
+2022-05-11,Potatoes,Nairobi,135.39
+2017-07-27,Sugarcane,Nakuru,159.14
+2017-08-12,Sorghum,Meru,103.47
+2017-05-25,Cabbage,Kericho,109.05
+2017-02-01,Potatoes,Meru,153.6
+2018-04-17,Potatoes,Kericho,87.95
+2018-04-20,Wheat,Nairobi,106.68
+2016-10-25,Cabbage,Nairobi,85.49
+2015-01-25,Sugarcane,Kisii,105.5
+2020-06-13,Cabbage,Nakuru,49.69
+2018-04-18,Sorghum,Nandi,134.06
+2016-12-10,Beans,Kericho,158.23
+2020-02-23,Maize,Muranga,47.89
+2018-03-30,Tea,Nandi,136.12
+2021-02-02,Beans,Embu,69.01
+2015-10-12,Maize,Meru,63.71
+2015-03-04,Beans,Nairobi,123.2
+2017-09-29,Tea,Muranga,45.3
+2016-10-23,Tomatoes,Kericho,95.59
+2022-06-06,Cabbage,Kiambu,40.17
+2021-01-12,Beans,Kericho,106.53
+2019-02-01,Sorghum,Meru,95.45
+2023-07-18,Sugarcane,Kericho,149.86
+2017-08-24,Coffee,Kericho,126.43
+2017-04-28,Sorghum,Uasin Gishu,55.12
+2018-01-12,Tea,Nakuru,82.54
+2016-11-19,Sugarcane,Nandi,151.79
+2015-05-28,Sorghum,Kiambu,127.04
+2015-12-08,Potatoes,Nairobi,111.31
+2021-11-28,Cabbage,Kericho,107.09
+2017-12-22,Sugarcane,Kiambu,87.77
+2019-09-21,Potatoes,Kisii,110.22
+2018-10-15,Sorghum,Kericho,132.6
+2022-02-21,Maize,Uasin Gishu,55.3
+2015-11-23,Wheat,Uasin Gishu,156.38
+2019-11-28,Maize,Muranga,68.72
+2019-10-26,Cabbage,Embu,93.73
+2023-10-18,Sugarcane,Meru,42.73
+2017-09-16,Sugarcane,Nandi,106.04
+2021-03-12,Cabbage,Kisii,85.82
+2021-10-18,Potatoes,Meru,69.97
+2017-08-09,Wheat,Meru,158.26
+2016-12-23,Sorghum,Muranga,91.38
+2020-09-10,Tea,Uasin Gishu,89.72
+2022-06-10,Maize,Nakuru,95.57
+2021-05-21,Maize,Kiambu,53.94
+2016-03-04,Coffee,Nairobi,87.17
+2019-02-09,Wheat,Nakuru,80.37
+2015-10-13,Tea,Nakuru,95.81
+2023-10-21,Maize,Embu,142.79
+2023-06-18,Tea,Embu,63.13
+2020-08-27,Sorghum,Nakuru,112.93
+2017-02-07,Sugarcane,Uasin Gishu,44.52
+2022-03-22,Tea,Meru,78.02
+2018-10-26,Maize,Kiambu,96.72
+2023-11-21,Potatoes,Meru,48.91
+2023-05-16,Wheat,Meru,105.28
+2015-07-13,Cabbage,Meru,77.24
+2021-12-24,Beans,Kiambu,159.14
+2017-09-14,Tomatoes,Kiambu,115.72
+2018-02-10,Tomatoes,Muranga,69.3
+2020-12-01,Beans,Nandi,52.32
+2019-08-29,Tea,Nakuru,44.89
+2017-08-04,Wheat,Kericho,50.89
+2017-04-10,Tea,Muranga,121.61
+2020-04-04,Cabbage,Muranga,142.6
+2023-02-20,Wheat,Nairobi,58.81
+2015-02-24,Beans,Kericho,88.26
+2017-03-10,Tea,Embu,82.51
+2017-02-16,Coffee,Nairobi,117.34
+2019-01-21,Maize,Embu,61.92
+2020-03-16,Potatoes,Nandi,154.4
+2021-01-18,Sugarcane,Kisii,127.43
+2020-11-04,Potatoes,Embu,154.61
+2015-02-24,Cabbage,Meru,73.28
+2019-12-29,Tea,Embu,110.53
+2018-04-16,Sorghum,Kericho,127.87
+2023-06-07,Wheat,Kiambu,125.31
+2017-04-12,Tea,Kericho,42.56
+2015-11-09,Wheat,Nandi,159.79
+2022-09-07,Sugarcane,Muranga,151.37
+2020-02-02,Coffee,Meru,54.37
+2020-06-30,Potatoes,Kisii,105.23
+2020-06-29,Maize,Nandi,77.75
+2021-10-26,Sugarcane,Muranga,145.47
+2019-11-26,Sugarcane,Uasin Gishu,123.7
+2015-11-24,Potatoes,Kericho,66.82
+2023-07-23,Sugarcane,Nandi,44.06
+2022-09-09,Sorghum,Kericho,75.01
+2022-03-11,Sorghum,Kisii,44.58
+2023-07-20,Tomatoes,Muranga,56.96
+2023-05-13,Tomatoes,Kericho,116.34
+2018-07-11,Sorghum,Kiambu,129.41
+2020-11-13,Beans,Embu,96.16
+2018-01-16,Coffee,Nairobi,112.03
+2023-08-16,Wheat,Kisii,58.71
+2018-08-04,Coffee,Nairobi,78.02
+2023-09-27,Cabbage,Nakuru,125.55
+2022-11-01,Sugarcane,Embu,83.79
+2021-12-13,Maize,Kisii,81.86
+2016-03-27,Sugarcane,Nandi,63.28
+2019-03-04,Coffee,Kiambu,111.38
+2015-06-14,Sorghum,Nandi,137.14
+2015-07-01,Potatoes,Uasin Gishu,96.33
+2021-11-21,Cabbage,Nakuru,53.86
+2017-06-28,Sorghum,Kiambu,140.6
+2022-08-14,Coffee,Kericho,48.57
+2017-04-02,Potatoes,Kericho,96.61
+2017-08-01,Maize,Meru,71.33
+2020-06-24,Coffee,Kericho,152.36
+2020-08-16,Wheat,Muranga,128.51
+2015-11-26,Tea,Nakuru,107.97
+2017-02-13,Potatoes,Muranga,120.13
+2021-01-07,Coffee,Embu,103.93
+2023-08-23,Sorghum,Meru,57.71
+2015-05-27,Wheat,Meru,125.09
+2017-07-03,Beans,Kericho,99.12
+2019-04-21,Potatoes,Kiambu,116.12
+2018-08-01,Wheat,Embu,45.42
+2022-07-10,Sorghum,Uasin Gishu,57.04
+2015-03-23,Coffee,Nakuru,110.72
+2016-05-28,Sugarcane,Nakuru,95.13
+2020-04-04,Maize,Kisii,67.22
+2022-11-02,Sugarcane,Nandi,68.89
+2022-07-19,Tea,Kericho,115.8
+2020-04-23,Wheat,Kisii,47.08
+2017-01-15,Tea,Uasin Gishu,92.11
+2023-05-29,Maize,Meru,102.77
+2018-11-10,Wheat,Nairobi,76.98
+2016-12-07,Tomatoes,Uasin Gishu,138.47
+2016-04-15,Sorghum,Uasin Gishu,46.81
+2023-09-26,Wheat,Kiambu,143.89
+2016-01-31,Sorghum,Kiambu,126.79
+2019-04-05,Sugarcane,Kiambu,93.55
+2021-04-27,Cabbage,Kiambu,150.94
+2017-03-15,Potatoes,Nandi,124.27
+2017-07-22,Cabbage,Kericho,151.73
+2018-07-03,Coffee,Nakuru,96.71
+2019-10-24,Potatoes,Kericho,94.36
+2017-06-23,Potatoes,Kericho,103.69
+2017-12-12,Beans,Nakuru,47.85
+2023-03-07,Potatoes,Kiambu,149.02
+2020-03-05,Maize,Kericho,120.13
+2019-03-04,Cabbage,Nandi,114.11
+2022-12-11,Sugarcane,Kiambu,151.18
+2018-10-19,Sorghum,Nandi,159.24
+2018-07-27,Coffee,Kisii,59.61
+2016-08-15,Potatoes,Kericho,129.88
+2022-07-24,Coffee,Muranga,109.59
+2023-11-04,Sugarcane,Nandi,95.32
+2022-05-03,Coffee,Kisii,157.31
+2020-10-07,Sugarcane,Embu,142.03
+2015-05-08,Potatoes,Embu,123.61
+2017-01-05,Sugarcane,Kisii,85.92
+2022-07-31,Potatoes,Meru,119.92
+2023-09-22,Beans,Meru,103.8
+2023-12-25,Beans,Kiambu,69.92
+2022-01-17,Sugarcane,Meru,94.05
+2016-06-04,Beans,Embu,65.47
+2022-02-12,Sorghum,Meru,100.05
+2015-08-25,Sorghum,Muranga,126.43
+2018-07-28,Beans,Embu,44.4
+2023-12-17,Beans,Nandi,131.85
+2019-11-17,Tomatoes,Uasin Gishu,42.4
+2018-07-25,Tomatoes,Meru,102.07
+2021-12-16,Potatoes,Meru,108.82
+2020-08-13,Sugarcane,Kericho,131.35
+2022-06-06,Tea,Nakuru,131.32
+2016-03-17,Tea,Muranga,90.09
+2020-09-07,Beans,Embu,47.96
+2023-09-16,Coffee,Embu,123.22
+2022-04-11,Beans,Nairobi,101.32
+2017-03-15,Tomatoes,Nakuru,79.97
+2015-03-16,Potatoes,Meru,68.18
+2022-11-25,Beans,Kisii,54.37
+2023-10-23,Cabbage,Kericho,75.42
+2020-12-15,Coffee,Nandi,95.02
+2020-09-20,Cabbage,Kericho,97.31
+2018-10-11,Potatoes,Meru,109.93
+2015-02-10,Potatoes,Nairobi,83.5
+2023-03-01,Sorghum,Uasin Gishu,150.39
+2020-09-12,Wheat,Embu,99.5
+2023-06-16,Cabbage,Nandi,90.85
+2019-08-28,Sorghum,Nakuru,45.78
+2023-10-30,Tomatoes,Meru,111.88
+2023-05-04,Maize,Muranga,112.34
+2018-11-02,Coffee,Kisii,109.99
+2016-08-10,Maize,Kericho,146.51
+2019-06-11,Sugarcane,Nairobi,131.55
+2015-12-08,Tomatoes,Uasin Gishu,144.09
+2020-09-05,Tomatoes,Kiambu,47.13
+2016-10-07,Maize,Kisii,78.18
+2016-12-31,Cabbage,Meru,78.25
+2015-06-17,Wheat,Uasin Gishu,118.85
+2016-09-01,Cabbage,Kisii,93.83
+2021-05-04,Maize,Kisii,133.3
+2019-11-08,Sugarcane,Embu,86.13
+2020-08-02,Cabbage,Kisii,66.59
+2022-11-08,Tea,Muranga,74.91
+2016-03-30,Cabbage,Uasin Gishu,61.9
+2023-02-01,Potatoes,Meru,63.75
+2019-09-05,Sorghum,Meru,66.02
+2023-02-17,Coffee,Muranga,41.93
+2023-04-17,Cabbage,Nakuru,125.93
+2016-12-02,Wheat,Uasin Gishu,87.95
+2022-05-05,Wheat,Kisii,42.72
+2019-05-19,Cabbage,Nairobi,84.4
+2015-05-10,Beans,Nandi,148.64
+2023-05-26,Tomatoes,Uasin Gishu,101.35
+2020-01-20,Cabbage,Kiambu,158.41
+2018-10-18,Tomatoes,Nairobi,104.8
+2022-11-06,Tea,Muranga,155.54
+2016-11-23,Maize,Kisii,64.22
+2018-10-26,Tea,Nakuru,74.79
+2017-03-04,Cabbage,Kiambu,124.0
+2015-01-29,Wheat,Nakuru,158.42
+2015-05-29,Beans,Nakuru,139.04
+2018-08-12,Sugarcane,Kericho,106.44
+2020-08-20,Tomatoes,Embu,50.22
+2022-06-16,Sorghum,Kiambu,83.73
+2018-02-10,Tomatoes,Nandi,50.37
+2015-07-06,Potatoes,Embu,77.35
+2022-10-25,Coffee,Kiambu,71.06
+2022-08-23,Cabbage,Nakuru,86.63
+2018-06-04,Tea,Embu,140.47
+2018-08-26,Sorghum,Kiambu,58.05
+2015-04-08,Wheat,Nandi,76.73
+2015-02-24,Wheat,Nairobi,71.33
+2022-04-24,Wheat,Uasin Gishu,75.54
+2022-06-04,Sugarcane,Kisii,83.27
+2017-01-27,Potatoes,Kiambu,69.32
+2016-02-10,Wheat,Nandi,153.11
+2020-10-17,Wheat,Uasin Gishu,90.41
+2018-08-05,Cabbage,Embu,53.69
+2019-11-21,Potatoes,Kiambu,96.12
+2017-01-20,Beans,Kiambu,62.13
+2023-10-25,Beans,Muranga,65.94
+2019-10-29,Potatoes,Kiambu,74.2
+2023-03-25,Coffee,Kisii,54.97
+2015-12-31,Sugarcane,Muranga,126.53
+2020-07-19,Sorghum,Uasin Gishu,135.03
+2016-04-26,Tomatoes,Embu,87.31
+2021-02-26,Cabbage,Embu,122.68
+2015-06-03,Maize,Meru,86.67
+2019-03-05,Beans,Meru,59.69
+2020-10-21,Potatoes,Uasin Gishu,87.66
+2022-07-23,Sorghum,Kericho,106.84
+2021-06-01,Potatoes,Nandi,44.92
+2017-11-06,Tomatoes,Kericho,118.54
+2019-07-23,Sorghum,Nandi,129.11
+2018-05-25,Beans,Muranga,143.2
+2015-03-02,Wheat,Uasin Gishu,52.33
+2017-07-27,Potatoes,Nandi,40.01
+2019-06-28,Maize,Meru,48.79
+2020-09-20,Beans,Meru,150.89
+2015-01-25,Tea,Nakuru,131.87
+2017-11-28,Maize,Nandi,140.25
+2015-05-11,Coffee,Uasin Gishu,102.04
+2018-06-06,Sugarcane,Nairobi,103.21
+2015-04-18,Beans,Muranga,75.82
+2015-06-21,Wheat,Kiambu,141.13
+2018-12-29,Beans,Kiambu,139.57
+2015-04-12,Tomatoes,Nandi,87.06
+2022-12-23,Sorghum,Kericho,79.51
+2022-01-15,Potatoes,Muranga,128.6
+2021-05-11,Sorghum,Embu,43.14
+2019-06-25,Sorghum,Kisii,143.19
+2023-07-13,Beans,Kiambu,93.55
+2022-11-04,Tomatoes,Meru,92.96
+2023-03-24,Potatoes,Muranga,120.29
+2017-11-06,Potatoes,Kericho,117.49
+2015-11-26,Sorghum,Uasin Gishu,71.92
+2019-03-01,Coffee,Kericho,153.19
+2015-01-12,Sugarcane,Muranga,158.36
+2018-09-03,Tomatoes,Embu,103.12
+2015-08-04,Coffee,Kiambu,107.37
+2015-12-05,Cabbage,Meru,106.52
+2019-12-05,Cabbage,Nairobi,98.29
+2022-06-01,Maize,Uasin Gishu,153.42
+2023-08-19,Sorghum,Meru,69.37
+2019-10-17,Potatoes,Embu,52.95
+2019-02-17,Beans,Kisii,151.55
+2021-08-18,Potatoes,Embu,65.56
+2023-04-12,Potatoes,Embu,129.9
+2016-12-10,Wheat,Kiambu,64.46
+2018-05-08,Potatoes,Muranga,155.22
+2021-11-18,Maize,Muranga,134.93
+2018-01-17,Coffee,Meru,150.25
+2018-07-15,Cabbage,Kisii,154.12
+2016-05-03,Potatoes,Kisii,50.13
+2019-04-11,Potatoes,Kericho,92.01
+2015-02-16,Wheat,Nairobi,117.77
+2017-02-16,Tomatoes,Embu,136.29
+2017-11-05,Beans,Nairobi,68.98
+2016-12-11,Tomatoes,Nakuru,149.75
+2016-02-05,Beans,Nandi,66.52
+2019-12-23,Sugarcane,Embu,143.94
+2023-04-17,Potatoes,Nairobi,101.53
+2023-08-24,Wheat,Kiambu,101.85
+2015-09-07,Tea,Nandi,84.88
+2016-01-26,Sorghum,Kisii,52.42
+2015-12-01,Cabbage,Embu,81.65
+2016-09-20,Coffee,Embu,91.21
+2015-05-17,Cabbage,Kisii,97.48
+2023-01-09,Coffee,Kericho,128.69
+2022-06-28,Sugarcane,Kiambu,82.25
+2019-03-02,Tomatoes,Embu,88.79
+2017-04-06,Maize,Nairobi,148.73
+2016-12-27,Potatoes,Embu,130.31
+2019-02-09,Tea,Nandi,42.74
+2022-03-26,Coffee,Embu,137.45
+2017-09-16,Sorghum,Nairobi,158.79
+2021-08-16,Coffee,Uasin Gishu,152.77
+2017-07-23,Maize,Nandi,140.31
+2023-05-01,Cabbage,Meru,115.5
+2016-02-06,Wheat,Meru,73.38
+2019-01-06,Cabbage,Nandi,118.53
+2016-09-06,Sugarcane,Kiambu,123.47
+2018-07-20,Wheat,Uasin Gishu,73.79
+2018-03-28,Cabbage,Nandi,70.64
+2023-10-29,Sorghum,Nairobi,87.63
+2023-05-01,Cabbage,Nakuru,116.94
+2022-04-21,Sorghum,Muranga,75.17
+2021-02-13,Sorghum,Embu,106.68
+2018-01-26,Wheat,Kericho,147.91
+2015-05-11,Tomatoes,Uasin Gishu,75.41
+2022-10-23,Beans,Nairobi,155.92
+2018-04-09,Potatoes,Kericho,96.8
+2023-03-03,Coffee,Meru,52.11
+2023-04-22,Beans,Nandi,46.6
+2015-07-02,Maize,Uasin Gishu,80.64
+2023-04-19,Tomatoes,Kisii,71.05
+2015-12-30,Beans,Embu,141.25
+2015-02-08,Wheat,Muranga,128.52
+2021-12-19,Maize,Meru,146.15
+2018-10-04,Tea,Nandi,110.71
+2023-04-18,Tomatoes,Embu,92.25
+2017-07-09,Beans,Meru,72.47
+2022-08-01,Maize,Kisii,109.97
+2023-11-07,Tea,Kericho,114.16
+2015-01-16,Cabbage,Muranga,87.15
+2016-05-07,Maize,Muranga,152.39
+2018-12-20,Wheat,Embu,116.79
+2018-02-05,Cabbage,Nairobi,140.5
+2023-01-20,Wheat,Embu,114.45
+2015-11-07,Beans,Meru,77.98
+2017-01-08,Potatoes,Nairobi,128.39
+2023-11-16,Beans,Muranga,67.63
+2016-06-29,Cabbage,Nakuru,111.59
+2021-09-27,Sorghum,Muranga,88.28
+2015-09-08,Beans,Embu,57.99
+2017-01-28,Cabbage,Meru,89.59
+2019-12-10,Maize,Nairobi,77.23
+2023-10-18,Sugarcane,Nandi,53.47
+2018-07-21,Beans,Nairobi,138.86
+2019-06-20,Maize,Kisii,99.83
+2020-03-29,Wheat,Kiambu,81.56
+2023-07-08,Tomatoes,Kiambu,100.6
+2017-03-24,Potatoes,Uasin Gishu,130.55
+2015-01-29,Wheat,Kericho,42.2
+2017-08-15,Wheat,Uasin Gishu,105.61
+2020-07-25,Cabbage,Uasin Gishu,97.5
+2016-04-21,Sorghum,Nairobi,147.17
+2015-11-14,Coffee,Meru,106.72
+2015-09-02,Sugarcane,Uasin Gishu,56.48
+2017-01-17,Sorghum,Embu,86.64
+2016-11-27,Cabbage,Nairobi,114.53
+2015-09-29,Potatoes,Meru,45.51
+2019-11-07,Sugarcane,Kiambu,146.16
+2018-06-16,Sugarcane,Nakuru,48.13
+2021-08-21,Cabbage,Embu,43.67
+2015-09-23,Tea,Nandi,40.24
+2023-02-21,Wheat,Kericho,122.05
+2017-07-09,Tomatoes,Nandi,94.71
+2015-12-06,Tea,Meru,52.34
+2016-01-24,Cabbage,Kisii,142.75
+2022-03-09,Tea,Meru,64.33
+2020-08-12,Tomatoes,Nakuru,79.16
+2018-03-11,Cabbage,Kiambu,61.33
+2016-01-11,Cabbage,Muranga,151.21
+2020-07-26,Sugarcane,Meru,130.97
+2021-06-29,Tea,Kiambu,126.87
+2015-05-26,Maize,Nandi,45.28
+2020-06-04,Beans,Meru,102.72
+2015-10-20,Cabbage,Meru,109.05
+2016-03-07,Tea,Uasin Gishu,85.9
+2016-12-05,Coffee,Nandi,78.61
+2023-03-16,Potatoes,Kericho,142.23
+2020-06-21,Coffee,Kericho,42.76
+2022-03-17,Tea,Embu,115.04
+2016-02-03,Wheat,Kisii,87.31
+2022-11-04,Wheat,Muranga,119.91
+2017-08-21,Tea,Meru,63.75
+2023-10-17,Sugarcane,Meru,68.64
+2021-02-12,Sugarcane,Embu,110.42
+2020-08-03,Cabbage,Kisii,157.59
+2020-01-03,Tomatoes,Nandi,156.96
+2020-10-09,Beans,Meru,69.88
+2017-07-27,Cabbage,Kiambu,52.28
+2016-12-10,Coffee,Nairobi,110.84
+2017-03-17,Beans,Kisii,90.4
+2019-01-03,Coffee,Meru,131.4
+2018-08-18,Sugarcane,Kisii,103.36
+2015-01-11,Tea,Kericho,101.27
+2017-12-21,Tomatoes,Muranga,117.58
+2020-02-12,Coffee,Meru,55.17
+2021-03-23,Sugarcane,Muranga,121.26
+2023-10-30,Tomatoes,Nakuru,98.62
+2022-02-24,Cabbage,Nairobi,138.42
+2017-02-10,Tea,Embu,56.64
+2019-05-14,Potatoes,Muranga,76.09
+2019-05-27,Wheat,Meru,154.03
+2018-08-26,Sorghum,Uasin Gishu,106.37
+2017-06-03,Tomatoes,Embu,151.52
+2018-10-21,Potatoes,Embu,122.68
+2023-09-14,Potatoes,Nandi,151.17
+2015-08-14,Tomatoes,Muranga,78.14
+2017-04-04,Potatoes,Uasin Gishu,50.86
+2021-03-15,Coffee,Muranga,136.27
+2017-07-25,Potatoes,Nandi,136.54
+2022-09-01,Sugarcane,Nairobi,114.26
+2021-12-28,Beans,Meru,109.55
+2021-04-25,Coffee,Kericho,149.79
+2020-03-26,Potatoes,Kericho,61.18
+2019-12-02,Cabbage,Muranga,113.98
+2015-02-23,Wheat,Nandi,45.97
+2023-07-16,Tea,Kisii,56.9
+2016-12-27,Potatoes,Meru,92.47
+2022-06-29,Maize,Muranga,138.54
+2019-03-25,Wheat,Kisii,127.98
+2023-09-06,Cabbage,Meru,156.89
+2017-11-09,Sugarcane,Kisii,45.38
+2020-03-28,Potatoes,Embu,85.76
+2019-11-12,Sugarcane,Muranga,59.05
+2019-05-16,Potatoes,Nandi,44.44
+2020-03-29,Sorghum,Meru,71.73
+2021-10-02,Beans,Kericho,69.34
+2022-06-30,Sugarcane,Muranga,90.4
+2017-04-29,Beans,Meru,56.81
+2020-10-10,Wheat,Meru,98.63
+2023-10-22,Sorghum,Kisii,150.41
+2021-03-13,Tea,Kisii,129.78
+2015-01-03,Coffee,Uasin Gishu,141.06
+2015-06-09,Beans,Muranga,136.57
+2017-02-19,Sorghum,Nakuru,86.76
+2023-09-27,Beans,Kiambu,125.08
+2017-06-11,Tomatoes,Nakuru,130.51
+2020-07-23,Cabbage,Meru,64.68
+2023-08-27,Tea,Uasin Gishu,143.23
+2021-07-04,Cabbage,Meru,94.93
+2016-08-02,Potatoes,Nakuru,41.96
+2020-04-17,Beans,Meru,117.21
+2018-10-12,Potatoes,Kisii,121.21
+2018-07-14,Maize,Muranga,106.21
+2019-06-29,Beans,Kericho,65.49
+2017-08-09,Sorghum,Nakuru,97.87
+2022-05-06,Tea,Kiambu,88.02
+2017-09-14,Potatoes,Kiambu,156.96
+2018-05-03,Beans,Kisii,138.96
+2017-07-09,Maize,Muranga,131.43
+2022-08-17,Cabbage,Nairobi,61.73
+2018-09-17,Sorghum,Nairobi,79.72
+2015-06-19,Tomatoes,Nandi,85.57
+2016-06-04,Beans,Nandi,99.12
+2019-01-26,Tomatoes,Nakuru,43.63
+2015-02-09,Wheat,Kisii,111.16
+2019-04-10,Tea,Kisii,82.94
+2018-11-19,Beans,Meru,107.4
+2017-08-12,Sugarcane,Kiambu,41.08
+2017-09-10,Maize,Kiambu,78.57
+2023-10-01,Potatoes,Kiambu,132.24
+2017-09-01,Sugarcane,Uasin Gishu,100.13
+2015-02-07,Wheat,Muranga,134.67
+2021-07-03,Tea,Embu,123.88
+2018-06-28,Cabbage,Meru,142.59
+2018-04-14,Sorghum,Nairobi,40.89
+2019-06-14,Tomatoes,Kisii,71.36
+2017-07-02,Wheat,Nairobi,105.86
+2016-03-29,Potatoes,Uasin Gishu,152.92
+2015-02-06,Sorghum,Nairobi,121.57
+2019-09-08,Cabbage,Kiambu,94.79
+2023-04-09,Potatoes,Kericho,55.62
+2017-03-06,Maize,Meru,99.19
+2017-08-30,Tomatoes,Kericho,92.93
+2016-08-15,Sugarcane,Nandi,133.41
+2018-02-11,Beans,Kericho,89.6
+2023-07-09,Wheat,Embu,78.26
+2018-08-17,Beans,Kisii,50.77
+2021-03-21,Sorghum,Uasin Gishu,45.58
+2015-11-14,Beans,Kisii,92.7
+2021-07-24,Sugarcane,Embu,81.62
+2020-12-02,Coffee,Kisii,106.64
+2022-07-08,Sorghum,Kericho,125.43
+2018-09-08,Tomatoes,Muranga,44.8
+2019-05-11,Potatoes,Kisii,99.55
+2023-07-09,Tomatoes,Nandi,143.44
+2020-03-04,Beans,Meru,94.62
+2020-09-18,Tea,Meru,102.55
+2020-06-19,Sorghum,Nairobi,98.42
+2019-11-08,Potatoes,Nakuru,86.78
+2018-08-05,Cabbage,Kericho,53.21
+2018-07-09,Maize,Kiambu,55.16
+2015-08-04,Tomatoes,Embu,61.49
+2023-10-24,Tomatoes,Uasin Gishu,135.11
+2021-07-11,Sorghum,Kericho,73.04
+2023-11-14,Tea,Meru,153.77
+2020-11-09,Beans,Nairobi,137.22
+2021-07-28,Beans,Kisii,122.14
+2022-03-03,Sorghum,Kiambu,126.45
+2022-11-03,Tomatoes,Kiambu,45.72
+2019-09-01,Potatoes,Nakuru,108.21
+2022-09-29,Maize,Muranga,152.93
+2015-12-29,Sorghum,Nakuru,44.69
+2022-02-17,Potatoes,Kisii,74.92
+2019-09-13,Potatoes,Kericho,46.18
+2018-04-08,Cabbage,Nandi,108.37
+2015-12-22,Sugarcane,Embu,53.94
+2015-07-10,Coffee,Kiambu,97.51
+2021-10-05,Maize,Uasin Gishu,126.39
+2016-11-30,Wheat,Kericho,59.73
+2020-08-16,Tea,Uasin Gishu,130.64
+2020-12-20,Coffee,Nairobi,47.22
+2016-07-10,Cabbage,Uasin Gishu,57.95
+2017-04-05,Maize,Kiambu,73.61
+2022-09-09,Beans,Kiambu,135.53
+2017-11-20,Coffee,Kiambu,142.02
+2022-01-26,Beans,Kericho,66.45
+2016-03-01,Tea,Kericho,51.49
+2022-06-12,Beans,Embu,141.75
+2021-08-07,Tea,Meru,117.92
+2019-04-24,Maize,Muranga,58.94
+2020-10-30,Tomatoes,Kisii,106.93
+2021-07-31,Tea,Kisii,144.68
+2016-08-11,Potatoes,Nairobi,48.34
+2020-07-05,Wheat,Nakuru,50.05
+2019-03-28,Wheat,Embu,72.83
+2015-10-22,Sorghum,Meru,118.27
+2020-06-08,Wheat,Nandi,61.36
+2018-06-01,Sorghum,Nairobi,137.96
+2019-03-29,Wheat,Kericho,130.05
+2023-07-15,Tea,Meru,107.32
+2019-08-18,Potatoes,Kiambu,53.93
+2018-02-10,Tomatoes,Kericho,158.59
+2018-06-10,Beans,Nakuru,98.8
+2020-08-26,Cabbage,Nakuru,94.25
+2015-12-26,Wheat,Kisii,159.47
+2022-12-23,Tomatoes,Muranga,143.66
+2016-11-30,Tomatoes,Muranga,94.76
+2016-03-23,Tea,Nandi,90.26
+2022-12-13,Maize,Kericho,51.51
+2021-08-09,Maize,Kericho,151.18
+2016-11-05,Wheat,Nakuru,141.25
+2017-10-04,Cabbage,Kiambu,77.2
+2018-09-11,Wheat,Kiambu,130.4
+2021-11-19,Wheat,Uasin Gishu,131.53
+2021-09-27,Sorghum,Kiambu,67.35
+2016-08-08,Potatoes,Meru,113.64
+2018-06-10,Potatoes,Muranga,70.6
+2018-06-01,Cabbage,Kiambu,134.79
+2017-09-20,Sorghum,Embu,58.46
+2018-12-06,Tomatoes,Kericho,120.27
+2016-07-25,Sorghum,Kiambu,79.12
+2021-07-10,Wheat,Uasin Gishu,44.34
+2018-05-30,Maize,Nandi,54.84
+2020-09-15,Coffee,Nandi,118.59
+2017-09-15,Cabbage,Nakuru,68.79
+2015-10-05,Tomatoes,Kiambu,115.72
+2018-05-04,Tea,Kericho,89.78
+2023-02-11,Coffee,Kericho,123.13
+2020-03-02,Coffee,Muranga,99.15
+2016-04-28,Sorghum,Nandi,77.03
+2018-06-19,Beans,Nakuru,57.5
+2016-12-31,Coffee,Kiambu,80.93
+2021-02-17,Wheat,Nandi,116.19
+2017-11-06,Sugarcane,Nandi,128.86
+2022-01-15,Maize,Kericho,59.24
+2017-07-06,Maize,Kiambu,119.71
+2021-09-14,Sugarcane,Nairobi,61.51
+2017-06-04,Potatoes,Kiambu,66.62
+2022-07-15,Wheat,Meru,103.76
+2015-01-22,Tea,Nandi,74.7
+2016-04-18,Coffee,Muranga,119.39
+2023-09-27,Potatoes,Nairobi,154.69
+2021-03-07,Wheat,Uasin Gishu,57.87
+2021-06-11,Sorghum,Nakuru,108.46
+2016-12-04,Maize,Kiambu,150.8
+2016-11-17,Potatoes,Muranga,61.18
+2015-10-12,Cabbage,Uasin Gishu,84.02
+2016-12-16,Coffee,Uasin Gishu,54.83
+2017-02-01,Coffee,Nandi,117.04
+2018-06-04,Tea,Meru,120.3
+2017-08-05,Beans,Nandi,119.7
+2021-08-25,Cabbage,Nakuru,105.06
+2021-11-12,Coffee,Nairobi,129.55
+2017-10-27,Tomatoes,Kericho,44.31
+2015-01-29,Cabbage,Embu,154.9
+2017-06-25,Coffee,Nairobi,66.65
+2023-07-02,Sugarcane,Nakuru,54.59
+2023-01-05,Cabbage,Kericho,152.94
+2020-10-27,Wheat,Uasin Gishu,139.65
+2023-03-14,Cabbage,Nairobi,131.78
+2021-11-11,Tea,Kericho,52.57
+2016-07-23,Sorghum,Kiambu,136.9
+2020-06-29,Sorghum,Nandi,113.08
+2018-12-24,Sorghum,Embu,127.83
+2017-01-07,Wheat,Muranga,157.37
+2016-05-30,Potatoes,Kiambu,63.33
+2020-06-23,Sorghum,Nairobi,100.53
+2023-09-06,Maize,Kisii,130.4
+2021-09-10,Wheat,Kericho,92.04
+2015-02-08,Potatoes,Uasin Gishu,46.56
+2017-06-05,Maize,Uasin Gishu,53.37
+2022-10-15,Maize,Kisii,112.25
+2021-01-13,Maize,Nairobi,74.2
+2018-01-03,Tomatoes,Uasin Gishu,56.54
+2023-01-10,Tea,Meru,80.79
+2019-12-29,Tea,Uasin Gishu,64.12
+2023-10-07,Wheat,Embu,42.87
+2019-09-07,Maize,Meru,58.22
+2017-08-31,Sugarcane,Nakuru,145.97
+2023-08-22,Cabbage,Nakuru,41.44
+2023-06-21,Potatoes,Kericho,132.86
+2019-04-12,Tea,Meru,130.42
+2022-12-06,Sorghum,Kiambu,107.71
+2022-08-27,Wheat,Kericho,65.01
+2017-09-15,Potatoes,Kiambu,145.37
+2015-01-21,Wheat,Embu,97.01
+2021-06-08,Sugarcane,Nandi,60.78
+2017-05-18,Tomatoes,Nairobi,91.48
+2015-03-25,Tomatoes,Meru,63.39
+2019-08-10,Maize,Kisii,85.12
+2020-05-30,Tomatoes,Muranga,99.6
+2018-11-11,Wheat,Nairobi,83.19
+2019-03-11,Sorghum,Embu,118.85
+2016-07-23,Maize,Meru,152.31
+2017-07-22,Coffee,Nakuru,81.78
+2023-11-08,Potatoes,Nairobi,82.69
+2020-06-03,Sugarcane,Kiambu,128.6
+2023-11-09,Maize,Kisii,103.67
+2020-01-30,Wheat,Nairobi,91.46
+2023-05-15,Potatoes,Muranga,137.66
+2017-03-03,Sorghum,Embu,146.92
+2017-03-02,Beans,Embu,110.87
+2019-12-15,Sugarcane,Kericho,62.21
+2018-07-18,Wheat,Embu,95.95
+2021-12-14,Sugarcane,Kericho,100.52
+2021-03-05,Tea,Embu,91.86
+2019-05-27,Beans,Muranga,71.49
+2017-12-19,Potatoes,Embu,96.68
+2021-10-13,Tomatoes,Kisii,93.59
+2017-09-11,Wheat,Nandi,65.14
+2019-08-08,Sugarcane,Nakuru,148.41
+2016-06-03,Potatoes,Kisii,146.24
+2016-08-13,Tomatoes,Embu,131.15
+2017-11-16,Sorghum,Meru,88.11
+2019-09-06,Sorghum,Kiambu,84.44
+2020-07-28,Sugarcane,Nandi,125.98
+2021-02-24,Maize,Nakuru,112.97
+2021-08-31,Tea,Kiambu,112.07
+2015-12-15,Maize,Kisii,54.89
+2017-08-17,Tea,Muranga,114.19
+2020-05-17,Wheat,Muranga,148.22
+2016-11-23,Coffee,Kiambu,50.3
+2019-04-09,Sugarcane,Meru,80.7
+2016-01-13,Cabbage,Kiambu,101.08
+2023-01-25,Sugarcane,Kisii,122.32
+2023-02-11,Beans,Kiambu,50.76
+2016-06-10,Tomatoes,Nakuru,144.74
+2023-10-30,Beans,Meru,44.87
+2022-08-13,Sorghum,Uasin Gishu,142.92
+2021-03-03,Tea,Nairobi,43.32
+2021-11-07,Tomatoes,Uasin Gishu,58.42
+2018-06-13,Sorghum,Kericho,136.04
+2020-02-19,Tomatoes,Kiambu,143.22
+2019-10-30,Maize,Muranga,157.87
+2016-06-04,Sorghum,Uasin Gishu,53.89
+2019-08-29,Maize,Embu,103.17
+2017-10-13,Maize,Kisii,49.26
+2023-03-23,Tomatoes,Uasin Gishu,58.77
+2022-08-05,Potatoes,Nandi,60.94
+2017-10-10,Beans,Meru,47.61
+2021-12-23,Sorghum,Kisii,147.16
+2015-04-27,Cabbage,Muranga,55.16
+2021-08-30,Potatoes,Kericho,115.52
+2018-09-29,Beans,Uasin Gishu,115.09
+2016-08-06,Sorghum,Meru,63.84
+2016-01-30,Tea,Nairobi,159.81
+2017-12-23,Beans,Meru,81.68
+2022-07-31,Cabbage,Meru,148.61
+2015-03-13,Sugarcane,Kisii,153.79
+2015-10-01,Wheat,Nairobi,153.88
+2020-07-06,Maize,Meru,130.34
+2018-09-05,Wheat,Nandi,70.46
+2015-12-04,Potatoes,Uasin Gishu,54.48
+2018-10-21,Sugarcane,Uasin Gishu,108.39
+2016-08-29,Maize,Nandi,83.2
+2015-06-15,Sorghum,Uasin Gishu,139.72
+2019-04-17,Potatoes,Meru,129.4
+2020-08-20,Cabbage,Kericho,73.18
+2018-08-17,Tomatoes,Meru,42.04
+2016-12-29,Sorghum,Kisii,68.48
+2022-10-19,Beans,Embu,108.05
+2020-08-05,Tomatoes,Kericho,49.48
+2015-04-12,Potatoes,Muranga,118.99
+2018-11-16,Beans,Muranga,120.6
+2017-02-17,Cabbage,Kericho,60.33
+2015-08-02,Wheat,Meru,111.56
+2018-01-16,Beans,Kiambu,112.84
+2019-04-26,Wheat,Embu,97.36
+2021-09-14,Maize,Nandi,154.39
+2022-03-20,Tea,Meru,52.98
+2023-01-15,Coffee,Kericho,88.8
+2023-07-15,Sorghum,Kiambu,145.95
+2019-08-23,Coffee,Meru,86.36
+2016-08-14,Maize,Kiambu,90.96
+2018-08-26,Beans,Kericho,120.19
+2018-01-14,Maize,Meru,119.87
+2020-11-09,Coffee,Nairobi,42.75
+2022-06-13,Coffee,Uasin Gishu,94.68
+2016-12-14,Sorghum,Kericho,80.02
+2017-07-24,Tomatoes,Muranga,115.32
+2020-05-05,Sugarcane,Muranga,106.68
+2015-08-30,Maize,Embu,118.1
+2020-08-05,Tea,Nakuru,118.45
+2015-01-02,Sugarcane,Muranga,70.58
+2021-03-22,Maize,Nakuru,69.58
+2022-10-19,Cabbage,Nairobi,84.43
+2019-11-04,Potatoes,Kericho,69.04
+2020-05-03,Potatoes,Kiambu,121.94
+2022-03-21,Coffee,Embu,112.34
+2020-12-03,Potatoes,Uasin Gishu,65.97
+2017-07-06,Wheat,Nandi,146.09
+2023-09-10,Tea,Nakuru,95.28
+2021-02-19,Potatoes,Uasin Gishu,55.25
+2023-11-12,Beans,Embu,65.56
+2022-12-28,Wheat,Embu,104.78
+2015-03-31,Sugarcane,Muranga,80.61
+2019-09-06,Wheat,Uasin Gishu,142.15
+2020-12-09,Maize,Meru,99.37
+2015-05-23,Coffee,Kisii,149.84
+2023-04-30,Sorghum,Embu,52.22
+2015-04-16,Sorghum,Nakuru,120.23
+2017-06-05,Cabbage,Nandi,146.29
+2016-03-03,Tea,Nandi,75.15
+2018-08-21,Maize,Nairobi,56.28
+2020-03-10,Sorghum,Nairobi,94.8
+2020-06-17,Coffee,Muranga,155.36
+2015-11-13,Sugarcane,Meru,116.02
+2020-06-09,Sorghum,Muranga,117.28
+2016-09-26,Beans,Nandi,120.58
+2020-04-09,Wheat,Kiambu,44.77
+2020-08-18,Sorghum,Nandi,93.48
+2022-09-22,Maize,Embu,49.31
+2023-08-11,Potatoes,Uasin Gishu,77.9
+2021-03-20,Potatoes,Uasin Gishu,138.59
+2018-12-10,Sugarcane,Embu,118.75
+2016-07-06,Potatoes,Embu,159.47
+2016-12-16,Sugarcane,Nandi,60.66
+2018-07-11,Maize,Uasin Gishu,87.65
+2019-09-10,Tea,Uasin Gishu,137.16
+2020-02-27,Potatoes,Kericho,65.88
+2018-01-12,Cabbage,Uasin Gishu,58.45
+2018-09-03,Coffee,Embu,91.31
+2015-04-21,Wheat,Nairobi,86.05
+2015-09-08,Potatoes,Meru,157.62
+2021-08-27,Sugarcane,Kiambu,94.75
+2020-08-16,Maize,Embu,143.31
+2016-04-03,Potatoes,Uasin Gishu,146.56
+2018-01-12,Sorghum,Nakuru,58.94
+2015-07-27,Potatoes,Nandi,125.84
+2017-06-18,Sugarcane,Nandi,73.31
+2015-01-22,Beans,Meru,51.37
+2016-02-14,Beans,Embu,144.96
+2017-06-13,Potatoes,Meru,75.09
+2016-05-29,Wheat,Nairobi,81.44
+2023-10-04,Maize,Kisii,78.88
+2017-03-19,Cabbage,Muranga,64.04
+2017-05-23,Cabbage,Nakuru,92.14
+2015-01-14,Potatoes,Muranga,91.4
+2017-08-28,Potatoes,Kisii,89.05
+2023-04-14,Beans,Nakuru,149.96
+2023-05-20,Sugarcane,Muranga,80.77
+2023-06-11,Wheat,Nakuru,43.65
+2020-11-04,Potatoes,Meru,61.41
+2023-02-04,Cabbage,Kiambu,126.58
+2019-04-10,Maize,Kericho,110.9
+2018-08-17,Tea,Nakuru,154.21
+2018-06-20,Sorghum,Kisii,123.33
+2020-12-09,Potatoes,Meru,63.31
+2023-10-24,Sugarcane,Kericho,54.48
+2017-01-19,Potatoes,Meru,102.49
+2016-11-15,Sugarcane,Nairobi,119.83
+2020-04-11,Wheat,Uasin Gishu,59.88
+2021-06-14,Tea,Nandi,112.2
+2016-11-25,Coffee,Nairobi,143.8
+2021-05-24,Maize,Kisii,127.31
+2015-11-03,Maize,Embu,119.7
+2020-06-12,Sugarcane,Embu,134.72
+2023-02-09,Beans,Nandi,52.49
+2016-10-23,Sugarcane,Meru,64.46
+2016-07-02,Beans,Kiambu,44.57
+2015-11-08,Tomatoes,Kisii,57.4
+2022-12-30,Cabbage,Nandi,149.58
+2017-12-18,Maize,Kericho,66.66
+2023-02-19,Wheat,Kericho,119.45
+2019-10-04,Sugarcane,Embu,122.99
+2017-01-24,Wheat,Uasin Gishu,117.44
+2015-02-04,Tea,Meru,106.47
+2016-03-20,Wheat,Embu,98.34
+2020-11-10,Potatoes,Kiambu,90.39
+2020-06-05,Cabbage,Nandi,150.03
+2018-05-15,Potatoes,Nakuru,41.14
+2015-12-19,Sorghum,Kiambu,46.42
+2017-06-21,Sugarcane,Nakuru,99.1
+2018-09-17,Maize,Meru,79.66
+2022-12-19,Sugarcane,Nandi,88.99
+2019-10-15,Cabbage,Kericho,159.74
+2015-06-08,Coffee,Kericho,133.02
+2020-05-31,Coffee,Nairobi,145.29
+2017-08-14,Sorghum,Kericho,84.23
+2020-09-02,Cabbage,Kisii,68.75
+2016-02-08,Tomatoes,Nairobi,132.16
+2022-10-23,Tomatoes,Nairobi,136.91
+2016-05-30,Tomatoes,Kericho,105.99
+2022-08-11,Maize,Embu,147.51
+2018-10-19,Maize,Uasin Gishu,156.08
+2022-01-23,Tomatoes,Uasin Gishu,96.52
+2017-08-13,Coffee,Kisii,66.72
+2021-01-08,Cabbage,Muranga,102.05
+2019-09-09,Wheat,Embu,158.74
+2023-03-14,Cabbage,Muranga,75.15
+2016-08-30,Tomatoes,Nakuru,114.11
+2021-10-03,Cabbage,Embu,123.28
+2018-06-27,Tea,Nandi,65.67
+2023-09-24,Maize,Muranga,110.62
+2022-12-23,Maize,Kisii,77.74
+2019-03-16,Coffee,Kisii,142.51
+2022-03-10,Wheat,Embu,125.77
+2021-07-10,Tomatoes,Nairobi,139.15
+2018-12-12,Sugarcane,Nandi,63.96
+2023-02-27,Coffee,Meru,44.15
+2019-12-03,Coffee,Nandi,142.06
+2015-10-22,Wheat,Kisii,86.41
+2017-01-24,Potatoes,Nakuru,61.57
+2018-10-26,Tomatoes,Muranga,51.03
+2015-07-05,Sugarcane,Muranga,101.98
+2018-06-23,Maize,Nakuru,58.02
+2016-09-28,Wheat,Kiambu,108.0
+2018-07-15,Sugarcane,Embu,127.28
+2016-06-13,Tea,Kisii,104.21
+2020-08-30,Coffee,Uasin Gishu,148.44
+2023-02-06,Wheat,Kericho,58.67
+2022-12-24,Maize,Nakuru,99.27
+2017-03-04,Cabbage,Nakuru,59.58
+2020-11-17,Maize,Nandi,145.11
+2022-08-31,Tea,Embu,151.87
+2016-04-22,Wheat,Embu,88.0
+2019-06-11,Tea,Uasin Gishu,76.69
+2017-07-28,Tomatoes,Kericho,73.52
+2016-06-09,Tomatoes,Embu,143.17
+2021-07-09,Cabbage,Nairobi,121.89
+2015-01-02,Coffee,Kisii,145.67
+2016-01-10,Potatoes,Nairobi,54.1
+2021-05-29,Beans,Kiambu,97.12
+2022-11-24,Sugarcane,Kisii,121.14
+2023-05-11,Tea,Meru,147.65
+2016-07-06,Sugarcane,Kisii,85.84
+2021-06-23,Cabbage,Kisii,77.57
+2019-03-06,Sugarcane,Uasin Gishu,149.56
+2020-01-26,Sugarcane,Nairobi,45.7
+2016-01-16,Maize,Kericho,97.55
+2019-07-05,Wheat,Nandi,95.04
+2015-01-14,Coffee,Uasin Gishu,57.53
+2016-05-18,Beans,Kisii,87.39
+2021-03-28,Wheat,Nandi,126.71
+2020-07-01,Maize,Muranga,84.02
+2023-08-22,Sugarcane,Nandi,77.16
+2015-05-10,Beans,Nakuru,133.83
+2017-04-17,Maize,Uasin Gishu,158.65
+2023-10-22,Maize,Uasin Gishu,133.52
+2023-01-17,Maize,Nakuru,141.56
+2020-08-02,Tomatoes,Muranga,152.74
+2015-01-28,Beans,Embu,136.21
+2020-10-14,Maize,Embu,157.64
+2023-11-09,Potatoes,Embu,129.67
+2018-06-06,Sugarcane,Embu,119.38
+2015-09-18,Beans,Nairobi,123.2
+2020-08-08,Tomatoes,Nakuru,148.01
+2019-01-12,Tea,Muranga,121.96
+2018-12-18,Tea,Kisii,131.34
+2016-04-04,Coffee,Kiambu,65.92
+2015-10-28,Sorghum,Uasin Gishu,149.52
+2023-02-14,Potatoes,Nandi,93.67
+2021-05-23,Tea,Embu,59.33
+2023-06-09,Tomatoes,Nandi,135.97
+2016-09-21,Sorghum,Kiambu,82.77
+2015-09-27,Maize,Uasin Gishu,62.09
+2022-03-24,Maize,Meru,70.75
+2020-06-16,Cabbage,Kericho,44.19
+2019-06-17,Sugarcane,Muranga,50.87
+2019-12-07,Sorghum,Nairobi,111.11
+2022-12-01,Sugarcane,Nandi,143.95
+2017-05-11,Tomatoes,Embu,93.82
+2018-07-04,Potatoes,Nakuru,115.13
+2020-12-20,Sorghum,Nandi,137.17
+2019-12-05,Tea,Uasin Gishu,82.81
+2019-09-03,Potatoes,Meru,118.52
+2023-04-08,Cabbage,Muranga,82.05
+2022-01-04,Sugarcane,Nakuru,117.13
+2021-06-18,Sugarcane,Kericho,66.11
+2016-07-29,Potatoes,Uasin Gishu,157.34
+2023-01-12,Maize,Meru,49.14
+2020-06-26,Sugarcane,Nakuru,100.63
+2018-07-31,Cabbage,Kericho,74.36
+2023-09-28,Tea,Nandi,112.1
+2023-09-14,Beans,Uasin Gishu,91.4
+2020-05-10,Tea,Kisii,76.8
+2022-06-27,Tea,Kericho,70.0
+2020-07-13,Sugarcane,Meru,61.9
+2023-12-20,Wheat,Kisii,133.95
+2021-01-21,Maize,Kisii,66.66
+2021-06-10,Sugarcane,Nairobi,132.82
+2019-07-14,Maize,Meru,98.2
+2019-04-29,Tomatoes,Kisii,48.67
+2020-01-22,Wheat,Nandi,59.85
+2021-01-12,Sugarcane,Uasin Gishu,147.15
+2018-10-22,Coffee,Uasin Gishu,112.34
+2019-10-09,Tea,Nandi,62.12
+2020-04-09,Tomatoes,Nairobi,124.45
+2016-09-11,Wheat,Muranga,138.79
+2018-06-28,Sugarcane,Nairobi,79.68
+2017-08-14,Cabbage,Uasin Gishu,106.79
+2020-04-23,Potatoes,Muranga,75.21
+2021-07-09,Potatoes,Nairobi,49.61
+2017-08-26,Maize,Kisii,87.94
+2022-01-02,Wheat,Muranga,130.17
+2018-08-09,Tea,Uasin Gishu,95.04
+2017-11-09,Tea,Nandi,88.63
+2015-10-09,Beans,Embu,83.92
+2022-10-15,Potatoes,Kisii,95.07
+2023-05-31,Tomatoes,Kisii,78.19
+2020-12-06,Wheat,Embu,113.46
+2017-11-24,Tea,Kericho,47.63
+2015-07-17,Beans,Kiambu,136.89
+2021-12-07,Wheat,Nakuru,60.78
+2017-12-18,Sorghum,Meru,116.01
+2022-11-24,Tea,Nairobi,93.99
+2018-03-30,Sorghum,Kiambu,132.82
+2017-10-05,Wheat,Nairobi,139.14
+2022-07-01,Tea,Kiambu,64.5
+2018-05-14,Sorghum,Muranga,121.26
+2017-11-01,Coffee,Nandi,62.79
+2016-05-04,Beans,Meru,54.88
+2015-10-03,Tomatoes,Meru,151.64
+2022-07-03,Potatoes,Nairobi,59.73
+2021-04-08,Beans,Embu,67.38
+2018-05-24,Sorghum,Muranga,55.64
+2018-06-28,Tea,Kericho,96.44
+2015-05-06,Coffee,Meru,150.35
+2015-08-05,Coffee,Nakuru,71.69
+2018-04-23,Potatoes,Nairobi,105.02
+2023-07-08,Coffee,Kisii,89.38
+2018-05-31,Beans,Nakuru,80.32
+2023-11-30,Sugarcane,Uasin Gishu,108.66
+2021-12-17,Coffee,Nairobi,107.07
+2021-10-10,Potatoes,Nairobi,83.12
+2023-11-24,Coffee,Kisii,142.07
+2017-07-07,Coffee,Muranga,46.38
+2018-08-10,Cabbage,Kisii,50.23
+2021-01-07,Beans,Meru,158.89
+2021-08-28,Sorghum,Nandi,129.72
+2019-07-20,Maize,Nairobi,136.47
+2015-11-04,Sugarcane,Uasin Gishu,112.32
+2018-09-21,Coffee,Embu,90.38
+2020-05-23,Tomatoes,Nairobi,115.51
+2022-08-25,Coffee,Kisii,51.11
+2017-06-10,Cabbage,Kiambu,130.93
+2016-01-10,Sorghum,Nairobi,104.89
+2023-06-07,Tomatoes,Nairobi,154.81
+2020-07-26,Sugarcane,Uasin Gishu,116.5
+2018-09-26,Tomatoes,Uasin Gishu,58.2
+2015-05-09,Beans,Nairobi,97.31
+2017-10-11,Potatoes,Kiambu,46.94
+2019-12-05,Potatoes,Nandi,129.45
+2022-06-09,Sugarcane,Kericho,100.22
+2018-10-13,Sorghum,Kiambu,84.36
+2016-05-31,Potatoes,Kiambu,156.23
+2019-02-27,Wheat,Kiambu,152.87
+2015-03-27,Cabbage,Nandi,154.34
+2018-04-13,Sugarcane,Muranga,66.52
+2023-12-09,Sugarcane,Muranga,127.43
+2021-06-16,Maize,Kiambu,153.45
+2018-02-16,Maize,Kericho,108.5
+2021-10-10,Beans,Kisii,65.7
+2020-06-16,Beans,Nakuru,138.14
+2020-12-01,Maize,Muranga,145.59
+2023-10-22,Potatoes,Embu,124.39
+2015-10-30,Tea,Uasin Gishu,75.23
+2022-08-23,Sugarcane,Nandi,62.88
+2016-08-10,Wheat,Nandi,114.91
+2017-09-13,Sugarcane,Nakuru,97.94
+2020-02-07,Coffee,Muranga,120.25
+2015-12-11,Sorghum,Kericho,53.4
+2017-03-24,Cabbage,Kericho,56.31
+2020-06-10,Tea,Uasin Gishu,83.55
+2022-10-19,Wheat,Kiambu,71.05
+2023-05-31,Coffee,Kisii,114.32
+2023-10-24,Beans,Muranga,84.1
+2018-08-03,Wheat,Kericho,122.08
+2020-06-22,Maize,Nakuru,132.26
+2019-08-05,Sugarcane,Uasin Gishu,62.46
+2023-07-22,Wheat,Nairobi,150.38
+2018-08-20,Sorghum,Uasin Gishu,134.46
+2017-12-28,Tomatoes,Kericho,115.21
+2021-08-05,Beans,Nairobi,149.07
+2017-10-06,Cabbage,Embu,71.9
+2016-12-04,Cabbage,Meru,90.61
+2016-07-28,Wheat,Uasin Gishu,50.29
+2019-05-28,Tomatoes,Nakuru,94.74
+2023-11-07,Sugarcane,Nakuru,100.77
+2018-01-17,Coffee,Kisii,113.93
+2016-11-18,Tea,Kiambu,47.68
+2022-09-29,Sugarcane,Uasin Gishu,43.9
+2022-03-17,Coffee,Kericho,90.39
+2022-03-21,Tea,Meru,62.7
+2023-11-05,Tomatoes,Muranga,131.05
+2016-05-03,Tea,Kericho,120.25
+2023-04-07,Sugarcane,Nakuru,79.1
+2018-09-09,Sorghum,Embu,45.49
+2023-09-09,Wheat,Kericho,61.89
+2016-05-08,Coffee,Nandi,123.0
+2019-07-26,Sorghum,Nakuru,158.82
+2019-06-26,Coffee,Uasin Gishu,79.18
+2015-01-19,Wheat,Embu,136.24
+2021-09-10,Potatoes,Nandi,144.05
+2017-09-27,Tea,Nairobi,45.78
+2017-04-30,Tomatoes,Meru,149.95
+2018-10-20,Potatoes,Nakuru,95.94
+2018-09-16,Potatoes,Uasin Gishu,155.71
+2018-09-29,Cabbage,Nandi,104.63
+2017-04-01,Maize,Nandi,68.22
+2016-03-30,Sugarcane,Kiambu,156.96
+2019-06-13,Sorghum,Nandi,69.2
+2022-08-04,Sorghum,Meru,145.9
+2023-08-03,Sorghum,Embu,60.78
+2023-08-14,Sorghum,Embu,120.97
+2016-12-11,Sugarcane,Nandi,89.35
+2020-12-30,Potatoes,Uasin Gishu,156.64
+2017-07-05,Sugarcane,Nakuru,62.17
+2022-11-15,Sorghum,Uasin Gishu,89.06
+2022-04-06,Maize,Kisii,116.77
+2019-02-05,Beans,Nakuru,157.31
+2018-12-11,Wheat,Nairobi,76.46
+2015-11-01,Sorghum,Meru,87.62
+2017-01-05,Tomatoes,Uasin Gishu,95.42
+2021-05-27,Beans,Kiambu,70.32
+2020-05-17,Sugarcane,Embu,138.08
+2020-11-19,Tomatoes,Nandi,51.04
+2020-07-02,Tomatoes,Nakuru,124.57
+2022-12-24,Coffee,Nandi,104.07
+2023-04-04,Tomatoes,Nairobi,69.03
+2023-04-10,Sorghum,Kisii,99.14
+2022-11-29,Coffee,Nandi,139.59
+2017-08-19,Cabbage,Uasin Gishu,93.45
+2023-03-09,Potatoes,Nakuru,54.63
+2017-10-23,Tomatoes,Kiambu,44.9
+2020-11-02,Maize,Nairobi,133.34
+2021-07-03,Wheat,Kericho,79.65
+2022-11-03,Tomatoes,Meru,151.75
+2019-01-13,Cabbage,Kisii,114.06
+2021-11-06,Tea,Uasin Gishu,92.35
+2020-05-01,Sugarcane,Meru,107.74
+2022-04-30,Sugarcane,Kiambu,94.86
+2018-03-23,Cabbage,Meru,148.7
+2016-10-26,Tea,Embu,94.96
+2015-01-12,Sugarcane,Nakuru,52.49
+2018-03-02,Sugarcane,Meru,111.65
+2015-10-31,Sugarcane,Uasin Gishu,114.76
+2023-04-11,Cabbage,Kericho,131.84
+2019-10-30,Potatoes,Embu,151.99
+2022-10-01,Wheat,Embu,93.17
+2015-02-12,Cabbage,Meru,82.25
+2017-08-01,Tea,Kisii,98.89
+2021-07-18,Tomatoes,Muranga,148.02
+2018-09-11,Potatoes,Kisii,157.6
+2021-12-20,Potatoes,Nandi,156.55
+2021-08-08,Tomatoes,Uasin Gishu,67.56
+2017-06-09,Maize,Muranga,99.63
+2021-10-10,Coffee,Nakuru,71.14
+2017-10-01,Wheat,Embu,84.16
+2015-01-21,Wheat,Uasin Gishu,43.8
+2016-02-11,Maize,Kiambu,59.27
+2022-04-20,Coffee,Nandi,87.65
+2017-10-11,Wheat,Kericho,83.76
+2015-12-02,Tea,Nandi,73.46
+2020-01-13,Beans,Uasin Gishu,67.64
+2023-09-24,Beans,Nakuru,129.87
+2018-02-21,Wheat,Embu,75.35
+2021-09-12,Sorghum,Nairobi,124.79
+2022-10-11,Wheat,Nairobi,84.24
+2020-01-02,Tomatoes,Uasin Gishu,136.24
+2016-12-15,Tomatoes,Meru,60.07
+2015-02-20,Coffee,Kisii,58.91
+2015-11-20,Sugarcane,Nandi,121.56
+2017-02-27,Potatoes,Nakuru,149.79
+2015-05-21,Tea,Nandi,57.16
+2016-04-14,Maize,Kiambu,48.84
+2017-02-25,Wheat,Nairobi,152.16
+2019-12-31,Sugarcane,Embu,54.08
+2018-09-19,Sugarcane,Kiambu,70.04
+2020-03-31,Tea,Embu,151.54
+2017-08-21,Maize,Nandi,136.35
+2023-05-14,Tomatoes,Nakuru,81.13
+2016-01-08,Cabbage,Nairobi,154.54
+2021-12-16,Tea,Nandi,108.17
+2019-08-20,Sugarcane,Nairobi,48.67
+2022-08-30,Beans,Uasin Gishu,124.37
+2018-03-25,Wheat,Kericho,104.47
+2021-05-27,Coffee,Kericho,108.71
+2019-07-30,Beans,Embu,159.29
+2023-10-21,Sugarcane,Nandi,58.3
+2015-04-16,Potatoes,Muranga,118.82
+2018-12-14,Sorghum,Nairobi,95.05
+2022-06-10,Maize,Nairobi,72.63
+2019-08-09,Tomatoes,Muranga,123.23
+2015-01-02,Wheat,Meru,120.19
+2022-03-21,Coffee,Nandi,142.78
+2022-05-15,Cabbage,Muranga,145.46
+2020-11-07,Tomatoes,Kericho,107.42
+2015-12-16,Wheat,Nairobi,79.07
+2018-07-10,Cabbage,Kericho,103.55
+2023-09-15,Coffee,Nandi,83.11
+2017-11-28,Sugarcane,Nakuru,73.28
+2023-02-04,Sorghum,Nakuru,106.19
+2021-01-15,Beans,Embu,118.95
+2023-03-26,Beans,Kericho,110.87
+2021-06-17,Sugarcane,Kericho,154.53
+2016-03-20,Tomatoes,Kericho,75.84
+2021-06-03,Sugarcane,Meru,84.68
+2017-08-09,Sugarcane,Kericho,120.12
+2015-02-05,Wheat,Nakuru,112.04
+2018-01-12,Wheat,Meru,40.22
+2019-01-15,Coffee,Embu,77.47
+2019-12-04,Sorghum,Uasin Gishu,70.45
+2020-01-20,Wheat,Kiambu,140.79
+2018-11-09,Coffee,Embu,143.95
+2018-04-10,Potatoes,Kisii,74.07
+2018-10-31,Sugarcane,Meru,52.25
+2019-09-05,Sugarcane,Nakuru,64.62
+2018-10-17,Tomatoes,Nakuru,61.19
+2022-02-19,Potatoes,Nandi,68.49
+2023-01-17,Tomatoes,Nairobi,68.16
+2020-12-28,Cabbage,Kericho,97.58
+2023-01-13,Coffee,Nakuru,78.36
+2023-09-25,Coffee,Kericho,107.18
+2018-07-24,Sugarcane,Muranga,81.3
+2022-08-05,Tea,Nairobi,137.76
+2018-05-28,Cabbage,Muranga,154.1
+2023-06-25,Coffee,Kericho,88.47
+2016-06-04,Wheat,Meru,45.94
+2019-12-12,Sugarcane,Kisii,68.75
+2015-01-10,Tomatoes,Nairobi,52.22
+2017-09-10,Potatoes,Meru,81.37
+2021-08-22,Tomatoes,Nakuru,117.41
+2019-07-15,Beans,Kisii,102.27
+2019-07-19,Tea,Uasin Gishu,69.15
+2022-06-22,Coffee,Nakuru,132.07
+2022-03-16,Sorghum,Kiambu,55.78
+2021-01-08,Maize,Embu,67.38
+2016-12-20,Tea,Nairobi,121.13
+2017-12-08,Sugarcane,Kiambu,63.67
+2023-10-31,Coffee,Kericho,121.45
+2017-05-08,Potatoes,Nairobi,157.23
+2018-08-09,Coffee,Embu,139.76
+2019-05-23,Maize,Nairobi,59.2
+2015-02-19,Potatoes,Meru,102.46
+2022-06-04,Tomatoes,Muranga,90.68
+2022-01-22,Potatoes,Nandi,159.0
+2023-07-29,Tea,Meru,155.73
+2023-11-13,Tomatoes,Embu,55.25
+2023-12-18,Coffee,Nairobi,149.05
+2022-12-14,Sugarcane,Meru,63.21
+2015-05-26,Cabbage,Muranga,78.33
+2017-07-03,Sugarcane,Kiambu,82.41
+2023-04-29,Coffee,Meru,74.42
+2019-01-02,Maize,Kericho,142.39
+2021-04-08,Cabbage,Kiambu,79.59
+2016-08-03,Coffee,Embu,138.01
+2022-06-27,Sorghum,Kiambu,159.33
+2019-05-04,Tea,Nairobi,140.89
+2016-04-27,Sorghum,Kisii,81.54
+2023-09-15,Tomatoes,Kisii,125.35
+2018-06-03,Beans,Uasin Gishu,104.07
+2016-11-03,Coffee,Kericho,134.38
+2016-09-22,Wheat,Nairobi,58.37
+2022-06-01,Wheat,Embu,116.58
+2016-10-23,Potatoes,Nakuru,132.84
+2022-10-23,Sugarcane,Kisii,131.35
+2021-10-02,Sugarcane,Embu,155.63
+2017-09-14,Sugarcane,Kiambu,47.01
+2023-11-06,Sorghum,Meru,81.49
+2019-03-27,Tea,Kisii,97.19
+2016-10-11,Coffee,Nairobi,77.17
+2017-08-26,Maize,Kisii,77.17
+2022-03-22,Potatoes,Muranga,61.14
+2018-01-05,Tomatoes,Muranga,137.55
+2021-12-31,Cabbage,Muranga,148.97
+2016-03-16,Tomatoes,Kericho,49.88
+2017-07-09,Coffee,Kisii,58.59
+2017-02-08,Beans,Uasin Gishu,67.41
+2018-09-05,Sugarcane,Embu,101.08
+2020-01-01,Cabbage,Muranga,134.94
+2015-09-20,Sorghum,Kiambu,48.57
+2019-04-27,Coffee,Nairobi,116.42
+2022-05-08,Beans,Kericho,57.92
+2023-11-13,Sorghum,Nandi,156.57
+2021-11-11,Beans,Muranga,147.85
+2017-09-25,Sugarcane,Embu,153.95
+2016-11-30,Sorghum,Kiambu,52.74
+2021-06-07,Tea,Nairobi,98.56
+2019-05-23,Wheat,Meru,59.83
+2018-05-26,Tomatoes,Nakuru,112.04
+2018-01-30,Tea,Kiambu,67.93
+2022-02-14,Cabbage,Uasin Gishu,132.48
+2021-05-24,Potatoes,Kiambu,117.28
+2018-04-05,Wheat,Kiambu,108.59
+2022-04-22,Tea,Uasin Gishu,139.03
+2017-10-02,Coffee,Meru,100.03
+2015-02-05,Beans,Kericho,72.38
+2017-01-13,Cabbage,Kisii,114.48
+2019-10-31,Coffee,Nairobi,154.85
+2015-12-19,Wheat,Kiambu,112.14
+2020-04-06,Beans,Kiambu,115.55
+2015-03-14,Cabbage,Uasin Gishu,152.17
+2022-05-19,Potatoes,Embu,101.83
+2018-10-08,Wheat,Kiambu,159.56
+2020-03-29,Cabbage,Kiambu,59.16
+2017-12-29,Tea,Uasin Gishu,104.44
+2021-10-08,Cabbage,Embu,65.55
+2023-05-05,Wheat,Uasin Gishu,94.4
+2016-12-08,Sugarcane,Kericho,60.47
+2019-12-10,Tea,Kiambu,66.7
+2022-02-21,Coffee,Muranga,65.3
+2022-11-15,Wheat,Nairobi,78.4
+2017-08-13,Sugarcane,Embu,56.15
+2022-01-08,Maize,Muranga,137.12
+2021-10-11,Potatoes,Uasin Gishu,66.48
+2015-06-09,Sugarcane,Kiambu,89.99
+2021-01-05,Maize,Uasin Gishu,41.93
+2022-09-24,Tomatoes,Kisii,52.59
+2019-10-02,Beans,Kisii,147.55
+2019-05-05,Sugarcane,Kericho,140.46
+2015-03-08,Sorghum,Kiambu,140.91
+2023-05-20,Potatoes,Kiambu,89.36
+2021-08-25,Sugarcane,Muranga,56.98
+2015-02-27,Maize,Nandi,52.95
+2015-12-08,Sorghum,Kiambu,112.67
+2018-02-27,Potatoes,Kericho,139.38
+2022-08-06,Sorghum,Embu,148.01
+2018-04-10,Tea,Embu,74.65
+2022-09-18,Maize,Uasin Gishu,78.52
+2022-04-15,Cabbage,Muranga,52.11
+2018-05-17,Tea,Meru,132.93
+2021-07-29,Potatoes,Nakuru,73.08
+2019-02-03,Potatoes,Uasin Gishu,97.71
+2019-12-27,Wheat,Kiambu,151.47
+2015-04-26,Maize,Uasin Gishu,130.27
+2016-10-23,Tomatoes,Meru,46.33
+2019-01-05,Tomatoes,Nakuru,40.98
+2021-11-05,Potatoes,Meru,134.49
+2020-02-12,Tomatoes,Meru,106.3
+2021-05-23,Beans,Kisii,126.44
+2017-10-13,Wheat,Embu,58.82
+2015-11-07,Potatoes,Nandi,144.65
+2015-07-27,Tomatoes,Kiambu,132.8
+2022-04-19,Maize,Kericho,146.9
+2021-10-29,Sugarcane,Muranga,80.93
+2022-06-10,Cabbage,Uasin Gishu,73.08
+2016-09-24,Tea,Kiambu,58.21
+2020-10-03,Tea,Kisii,151.61
+2023-02-07,Beans,Embu,61.22
+2023-06-11,Sorghum,Uasin Gishu,54.32
+2016-10-18,Maize,Muranga,63.12
+2018-11-24,Sorghum,Nandi,132.57
+2020-04-15,Wheat,Kiambu,146.74
+2023-04-16,Cabbage,Kericho,137.31
+2022-01-06,Wheat,Embu,107.59
+2019-08-07,Potatoes,Nairobi,159.27
+2015-08-25,Maize,Kiambu,48.26
+2015-12-14,Potatoes,Meru,144.06
+2022-04-28,Coffee,Meru,91.33
+2023-09-11,Tomatoes,Kericho,94.61
+2016-09-21,Tea,Nakuru,55.31
+2019-03-21,Sugarcane,Kericho,44.01
+2020-06-26,Potatoes,Embu,78.0
+2018-06-25,Sorghum,Meru,60.98
+2015-12-30,Coffee,Nandi,98.0
+2021-06-26,Tea,Nandi,57.68
+2015-10-13,Potatoes,Meru,56.55
+2015-05-29,Coffee,Embu,145.24
+2018-01-12,Coffee,Kisii,150.56
+2021-09-19,Maize,Muranga,155.71
+2023-04-14,Wheat,Muranga,121.66
+2016-03-31,Coffee,Embu,132.52
+2019-11-02,Beans,Nairobi,140.29
+2017-03-10,Wheat,Muranga,119.07
+2018-03-30,Tea,Uasin Gishu,79.63
+2017-10-09,Tea,Muranga,58.77
+2022-10-02,Tea,Uasin Gishu,68.47
+2021-11-12,Tea,Meru,140.85
+2019-03-04,Beans,Kisii,123.53
+2022-08-17,Potatoes,Kericho,94.7
+2021-12-31,Cabbage,Kisii,43.53
+2016-04-25,Coffee,Muranga,71.94
+2019-08-14,Tea,Muranga,127.47
+2020-12-01,Wheat,Embu,101.49
+2022-08-28,Wheat,Kericho,92.26
+2019-05-21,Coffee,Muranga,77.64
+2021-08-05,Potatoes,Nakuru,112.83
+2015-12-07,Sugarcane,Nakuru,155.97
+2022-09-18,Sugarcane,Nairobi,148.13
+2020-07-03,Cabbage,Meru,43.66
+2022-09-09,Potatoes,Uasin Gishu,97.71
+2023-04-05,Coffee,Kisii,79.54
+2021-11-01,Sugarcane,Meru,101.27
+2020-02-10,Sugarcane,Uasin Gishu,112.75
+2017-04-14,Sugarcane,Uasin Gishu,64.0
+2018-04-18,Sorghum,Kiambu,133.79
+2019-09-22,Beans,Muranga,97.01
+2019-08-17,Coffee,Nairobi,159.04
+2023-12-12,Tomatoes,Muranga,43.02
+2015-11-07,Maize,Nairobi,62.77
+2015-09-19,Maize,Meru,122.76
+2018-12-13,Potatoes,Embu,123.42
+2016-02-10,Coffee,Embu,109.86
+2020-12-30,Coffee,Meru,156.64
+2015-12-08,Maize,Kericho,89.84
+2018-09-01,Cabbage,Nakuru,90.04
+2023-09-08,Maize,Uasin Gishu,149.26
+2015-09-01,Coffee,Nairobi,104.61
+2016-05-04,Sugarcane,Nandi,82.45
+2015-01-12,Cabbage,Muranga,126.27
+2016-07-14,Tea,Meru,114.36
+2015-02-11,Tomatoes,Uasin Gishu,76.77
+2022-06-18,Sorghum,Nairobi,75.75
+2016-08-16,Beans,Kisii,87.47
+2018-12-23,Tea,Kericho,48.59
+2020-01-01,Wheat,Muranga,153.11
+2023-11-04,Maize,Embu,61.96
+2019-08-21,Tomatoes,Meru,63.26
+2015-05-14,Maize,Embu,117.64
+2023-08-05,Maize,Nairobi,126.91
+2023-06-06,Tea,Embu,128.42
+2017-08-05,Sugarcane,Muranga,85.01
+2015-03-14,Sugarcane,Nakuru,144.8
+2016-02-03,Sorghum,Uasin Gishu,105.28
+2018-11-29,Cabbage,Nakuru,92.63
+2022-03-10,Maize,Meru,137.25
+2022-12-16,Potatoes,Nakuru,69.23
+2015-05-10,Sugarcane,Kiambu,143.22
+2023-02-26,Coffee,Uasin Gishu,104.66
+2023-12-22,Tomatoes,Nairobi,148.01
+2019-12-17,Potatoes,Uasin Gishu,64.19
+2020-06-24,Tea,Kiambu,152.33
+2015-09-23,Tea,Nandi,122.55
+2019-04-10,Sorghum,Nakuru,114.2
+2020-06-08,Sorghum,Uasin Gishu,90.65
+2017-03-03,Cabbage,Embu,154.76
+2021-04-19,Coffee,Nairobi,93.27
+2022-11-09,Tomatoes,Kisii,99.83
+2018-08-05,Coffee,Meru,133.78
+2015-06-13,Wheat,Meru,74.18
+2015-04-05,Sorghum,Meru,74.98
+2019-12-11,Cabbage,Uasin Gishu,133.04
+2022-11-20,Beans,Nakuru,55.43
+2018-02-07,Maize,Uasin Gishu,138.76
+2021-07-11,Maize,Muranga,115.02
+2017-04-01,Beans,Embu,104.69
+2015-08-26,Sugarcane,Kisii,67.49
+2021-08-25,Coffee,Kisii,134.36
+2023-01-25,Beans,Embu,136.59
+2021-12-05,Cabbage,Kiambu,97.95
+2020-05-14,Tomatoes,Kericho,86.7
+2023-01-28,Beans,Muranga,69.54
+2017-11-14,Cabbage,Nairobi,130.51
+2019-08-04,Sorghum,Kisii,116.73
+2023-09-24,Potatoes,Meru,64.8
+2021-12-04,Tea,Uasin Gishu,135.34
+2023-02-12,Tea,Kiambu,145.86
+2023-04-30,Wheat,Kericho,47.11
+2017-08-21,Coffee,Embu,132.69
+2016-06-20,Tomatoes,Nandi,142.34
+2023-08-17,Potatoes,Nairobi,158.98
+2019-05-23,Potatoes,Kericho,68.51
+2023-11-19,Sorghum,Meru,84.52
+2020-06-02,Beans,Kericho,155.94
+2023-06-11,Coffee,Kisii,51.28
+2015-05-08,Maize,Uasin Gishu,102.84
+2015-04-02,Potatoes,Embu,100.81
+2016-06-26,Cabbage,Kericho,112.79
+2017-04-25,Maize,Nairobi,79.7
+2019-08-09,Wheat,Kericho,151.11
+2023-04-25,Beans,Nandi,72.41
+2020-01-26,Beans,Kiambu,117.96
+2021-10-30,Tomatoes,Kisii,99.51
+2016-01-25,Potatoes,Uasin Gishu,72.0
+2022-06-12,Sorghum,Meru,62.66
+2020-02-28,Sugarcane,Embu,154.79
+2015-02-12,Sugarcane,Embu,107.35
+2015-09-11,Tea,Kiambu,112.5
+2023-10-07,Cabbage,Nakuru,133.95
+2017-12-19,Maize,Nakuru,49.75
+2022-06-03,Wheat,Meru,125.65
+2021-11-19,Tea,Kericho,59.82
+2021-05-23,Beans,Nandi,128.86
+2023-05-17,Maize,Embu,56.96
+2019-03-21,Coffee,Kericho,139.9
+2020-05-07,Potatoes,Embu,121.72
+2022-09-26,Wheat,Embu,86.31
+2021-07-20,Coffee,Kericho,83.06
+2016-10-03,Sorghum,Kiambu,57.87
+2021-08-26,Potatoes,Nakuru,148.49
+2016-11-20,Maize,Muranga,54.22
+2018-06-30,Potatoes,Nairobi,96.65
+2020-05-04,Tea,Kiambu,68.38
+2017-12-15,Tomatoes,Kisii,159.56
+2019-01-26,Tea,Nandi,110.3
+2016-04-01,Sorghum,Nandi,57.95
+2017-09-09,Cabbage,Nairobi,120.11
+2020-10-31,Coffee,Nandi,158.99
+2018-01-27,Tea,Kericho,112.61
+2015-05-29,Tomatoes,Nandi,94.89
+2018-09-14,Cabbage,Muranga,75.19
+2018-03-25,Tea,Nandi,51.05
+2015-07-09,Beans,Embu,67.39
+2017-06-01,Tomatoes,Kiambu,106.43
+2021-04-29,Coffee,Kericho,130.45
+2023-08-18,Wheat,Nakuru,145.35
+2016-02-04,Sugarcane,Nandi,135.25
+2022-09-12,Cabbage,Meru,55.06
+2016-08-31,Beans,Meru,132.82
+2019-12-01,Wheat,Meru,109.79
+2019-06-27,Maize,Nandi,96.29
+2019-04-25,Tomatoes,Kisii,108.73
+2022-10-03,Beans,Embu,40.97
+2020-11-18,Potatoes,Uasin Gishu,48.13
+2018-10-14,Maize,Nandi,103.1
+2018-11-04,Maize,Kisii,60.83
+2017-03-30,Cabbage,Uasin Gishu,105.46
+2017-03-30,Tomatoes,Nairobi,82.51
+2016-02-24,Beans,Muranga,148.89
+2015-05-04,Sorghum,Embu,153.96
+2016-02-26,Beans,Nandi,157.57
+2023-08-01,Tea,Kiambu,147.87
+2019-02-17,Maize,Kericho,158.31
+2019-05-17,Coffee,Kiambu,124.74
+2017-02-06,Maize,Kiambu,155.27
+2020-08-06,Maize,Nairobi,117.02
+2021-12-05,Sugarcane,Kericho,137.11
+2022-01-10,Potatoes,Nairobi,55.83
+2021-01-11,Sorghum,Uasin Gishu,121.91
+2020-11-09,Wheat,Nairobi,151.73
+2023-04-18,Wheat,Meru,104.81
+2019-03-30,Potatoes,Muranga,62.42
+2021-11-07,Maize,Meru,103.23
+2019-10-31,Wheat,Nandi,124.83
+2020-08-06,Tomatoes,Uasin Gishu,132.37
+2022-03-30,Sorghum,Kisii,102.84
+2016-05-24,Wheat,Uasin Gishu,66.08
+2018-04-21,Potatoes,Kisii,151.2
+2016-01-21,Tea,Muranga,132.83
+2019-05-17,Wheat,Nairobi,72.48
+2021-09-18,Sorghum,Nairobi,137.42
+2021-04-12,Cabbage,Kericho,81.74
+2017-01-11,Cabbage,Nandi,77.49
+2022-06-01,Tomatoes,Kiambu,143.57
+2022-05-21,Beans,Nakuru,144.79
+2020-03-26,Beans,Uasin Gishu,87.82
+2018-12-17,Wheat,Uasin Gishu,41.07
+2017-06-19,Coffee,Nandi,62.39
+2020-10-13,Tea,Meru,149.12
+2023-06-12,Potatoes,Embu,147.85
+2021-03-10,Tea,Nandi,94.4
+2020-07-02,Cabbage,Nakuru,76.49
+2015-08-30,Wheat,Nairobi,76.33
+2021-12-15,Sorghum,Kisii,147.66
+2023-12-29,Potatoes,Meru,78.97
+2021-07-13,Tea,Meru,101.39
+2020-07-13,Sorghum,Kericho,127.72
+2015-06-22,Potatoes,Muranga,65.14
+2016-11-02,Tea,Nakuru,70.46
+2015-06-13,Tomatoes,Meru,82.97
+2016-04-09,Cabbage,Nakuru,118.51
+2023-05-01,Maize,Nandi,138.1
+2016-05-11,Potatoes,Kisii,105.6
+2016-11-30,Cabbage,Kisii,55.95
+2021-09-08,Sugarcane,Uasin Gishu,93.55
+2016-12-03,Coffee,Nairobi,55.32
+2020-04-24,Wheat,Uasin Gishu,50.6
+2021-06-13,Sugarcane,Meru,110.75
+2019-11-27,Sorghum,Muranga,154.75
+2015-07-02,Potatoes,Uasin Gishu,140.51
+2016-09-20,Wheat,Uasin Gishu,132.94
+2022-01-01,Wheat,Uasin Gishu,127.25
+2019-09-28,Sugarcane,Nakuru,147.66
+2016-06-29,Sugarcane,Nandi,130.34
+2019-05-07,Maize,Muranga,115.23
+2016-09-15,Tea,Kisii,83.76
+2016-08-16,Potatoes,Kericho,52.11
+2017-01-13,Cabbage,Nakuru,95.32
+2019-11-04,Beans,Meru,150.97
+2018-12-30,Potatoes,Muranga,109.97
+2020-05-02,Potatoes,Kisii,62.14
+2022-02-14,Potatoes,Muranga,117.88
+2020-08-30,Wheat,Embu,95.86
+2022-02-14,Sorghum,Embu,151.77
+2021-09-10,Wheat,Uasin Gishu,59.31
+2022-04-26,Sorghum,Uasin Gishu,125.44
+2015-04-15,Sugarcane,Embu,121.79
+2021-02-17,Beans,Kericho,158.02
+2015-01-17,Wheat,Kisii,107.79
+2023-09-27,Sorghum,Meru,144.59
+2016-01-28,Wheat,Nairobi,42.97
+2016-02-29,Coffee,Nairobi,54.75
+2020-12-16,Wheat,Nakuru,81.51
+2023-10-07,Beans,Kericho,114.32
+2016-07-25,Beans,Kericho,93.89
+2020-09-07,Sorghum,Meru,64.32
+2018-01-25,Sorghum,Muranga,110.7
+2023-06-09,Sugarcane,Nairobi,108.0
+2015-08-30,Beans,Muranga,102.93
+2021-03-29,Beans,Muranga,50.87
+2017-02-27,Maize,Kericho,151.24
+2016-12-15,Potatoes,Muranga,111.07
+2017-01-28,Tomatoes,Nairobi,71.68
+2022-10-20,Wheat,Kisii,122.49
+2017-02-14,Tea,Kiambu,78.15
+2022-08-05,Sugarcane,Muranga,100.7
+2021-02-25,Potatoes,Meru,80.94
+2023-03-12,Tomatoes,Nandi,145.65
+2015-03-20,Maize,Uasin Gishu,159.28
+2023-03-23,Tea,Meru,59.34
+2017-05-05,Sorghum,Embu,42.83
+2023-11-19,Beans,Nairobi,66.32
+2021-11-19,Coffee,Nandi,110.79
+2022-03-13,Sugarcane,Uasin Gishu,60.87
+2018-12-10,Cabbage,Meru,137.38
+2023-03-07,Beans,Nandi,89.04
+2021-11-01,Coffee,Kiambu,113.26
+2020-11-04,Tomatoes,Nairobi,94.67
+2020-11-18,Sorghum,Kisii,148.4
+2017-10-28,Tea,Nakuru,44.22
+2017-04-24,Tomatoes,Kericho,127.52
+2023-12-16,Beans,Kiambu,118.26
+2015-03-28,Beans,Embu,117.94
+2020-09-21,Tea,Kericho,89.68
+2016-02-12,Cabbage,Kisii,41.88
+2022-06-04,Coffee,Kiambu,122.71
+2023-06-16,Tomatoes,Uasin Gishu,139.54
+2019-07-27,Sorghum,Nandi,50.23
+2015-05-28,Beans,Nairobi,92.99
+2021-05-13,Tomatoes,Nandi,59.51
+2015-08-20,Cabbage,Muranga,113.31
+2020-05-04,Tomatoes,Meru,134.27
+2016-01-01,Tea,Embu,120.0
+2019-08-02,Sorghum,Muranga,78.17
+2016-03-11,Maize,Muranga,56.77
+2016-02-03,Tea,Embu,135.31
+2018-05-19,Tomatoes,Meru,78.87
+2018-11-15,Maize,Uasin Gishu,42.66
+2021-12-21,Beans,Meru,108.57
+2022-01-31,Maize,Nairobi,69.6
+2016-07-16,Cabbage,Nandi,140.94
+2021-10-25,Wheat,Uasin Gishu,57.19
+2018-07-08,Cabbage,Nakuru,92.18
+2017-02-11,Tea,Nandi,70.38
+2021-07-25,Wheat,Uasin Gishu,122.75
+2020-07-30,Tea,Meru,105.82
+2022-01-11,Sugarcane,Embu,134.92
+2018-09-05,Sorghum,Meru,95.03
+2020-12-25,Potatoes,Nakuru,40.58
+2019-04-23,Beans,Uasin Gishu,65.82
+2017-09-18,Beans,Nairobi,159.9
+2021-08-12,Sugarcane,Meru,88.64
+2018-05-31,Tomatoes,Uasin Gishu,114.43
+2015-12-26,Coffee,Nandi,148.59
+2017-07-09,Tea,Nakuru,42.46
+2021-07-04,Potatoes,Nairobi,119.15
+2023-03-29,Potatoes,Uasin Gishu,74.61
+2021-11-15,Cabbage,Kiambu,73.51
+2023-03-13,Cabbage,Meru,66.98
+2017-08-20,Coffee,Nakuru,138.73
+2020-01-02,Tomatoes,Nairobi,84.75
+2022-11-23,Sugarcane,Nairobi,48.05
+2019-06-02,Maize,Muranga,51.62
+2019-06-29,Cabbage,Kericho,57.83
+2021-01-25,Tomatoes,Nakuru,147.87
+2015-08-05,Sorghum,Nairobi,91.29
+2016-01-13,Beans,Uasin Gishu,149.93
+2015-04-29,Beans,Muranga,138.1
+2015-07-09,Tomatoes,Kericho,140.55
+2022-09-15,Coffee,Nandi,74.42
+2016-01-05,Sugarcane,Uasin Gishu,72.56
+2019-12-07,Potatoes,Meru,107.21
+2021-01-05,Coffee,Kericho,90.15
+2016-10-13,Tomatoes,Nakuru,101.09
+2020-02-26,Sugarcane,Meru,46.38
+2019-02-20,Sugarcane,Kisii,156.59
+2017-02-08,Tea,Kisii,46.98
+2021-08-18,Wheat,Nakuru,61.46
+2017-02-19,Beans,Nandi,121.38
+2019-09-13,Tomatoes,Kericho,58.66
+2021-01-16,Potatoes,Muranga,52.82
+2021-07-26,Wheat,Kiambu,58.43
+2018-08-04,Sorghum,Nairobi,47.43
+2023-01-18,Cabbage,Kiambu,70.16
+2018-06-03,Tea,Kisii,72.53
+2016-06-06,Cabbage,Kisii,99.83
+2016-06-05,Wheat,Nandi,92.65
+2017-02-21,Wheat,Kiambu,96.85
+2021-05-09,Cabbage,Kiambu,113.92
+2017-07-24,Potatoes,Muranga,67.72
+2021-02-08,Potatoes,Nandi,56.16
+2019-08-16,Maize,Nandi,145.47
+2016-05-02,Sorghum,Nakuru,116.07
+2020-01-25,Potatoes,Meru,47.28
+2017-04-25,Sorghum,Nandi,155.33
+2020-12-11,Sorghum,Nandi,123.17
+2023-04-21,Wheat,Uasin Gishu,58.2
+2022-10-08,Sorghum,Kericho,156.3
+2021-09-27,Tea,Kericho,83.85
+2020-06-26,Cabbage,Embu,158.14
+2019-10-15,Maize,Kiambu,52.39
+2023-11-18,Tomatoes,Nairobi,59.2
+2016-11-16,Coffee,Kiambu,118.89
+2020-11-30,Maize,Nakuru,42.66
+2023-01-14,Tea,Nakuru,42.24
+2020-12-09,Maize,Nakuru,135.04
+2019-04-17,Sorghum,Meru,60.13
+2018-05-30,Wheat,Nairobi,150.25
+2015-02-08,Coffee,Kericho,91.11
+2021-12-19,Potatoes,Muranga,144.84
+2017-02-18,Wheat,Kericho,90.13
+2018-06-10,Sorghum,Meru,103.63
+2023-03-10,Sorghum,Nakuru,77.98
+2021-01-05,Coffee,Meru,118.97
+2023-05-28,Coffee,Kericho,78.18
+2022-06-01,Beans,Muranga,66.78
+2020-04-11,Sugarcane,Embu,49.73
+2015-10-29,Sugarcane,Nairobi,46.92
+2021-04-04,Wheat,Meru,76.72
+2016-10-08,Potatoes,Kericho,128.38
+2016-10-24,Maize,Nairobi,64.67
+2021-04-02,Sorghum,Kericho,75.91
+2019-10-26,Sorghum,Kericho,148.62
+2021-02-28,Beans,Muranga,116.7
+2015-09-13,Wheat,Embu,150.37
+2016-08-20,Wheat,Nairobi,149.35
+2016-10-23,Cabbage,Nakuru,47.61
+2015-08-23,Coffee,Nairobi,154.6
+2018-09-30,Potatoes,Nandi,46.14
+2022-01-25,Coffee,Nakuru,151.07
+2022-12-17,Potatoes,Nairobi,105.61
+2017-02-08,Tea,Uasin Gishu,103.98
+2022-02-01,Tomatoes,Uasin Gishu,125.59
+2015-08-01,Sugarcane,Kericho,145.51
+2016-04-07,Sugarcane,Nakuru,114.04
+2021-10-19,Potatoes,Nairobi,91.05
+2015-10-10,Sugarcane,Kericho,53.43
+2019-01-26,Coffee,Kiambu,134.71
+2018-12-01,Sorghum,Kericho,55.4
+2015-03-29,Coffee,Meru,127.16
+2017-12-03,Potatoes,Uasin Gishu,103.35
+2016-04-05,Wheat,Kiambu,86.3
+2021-05-14,Coffee,Kisii,113.56
+2021-10-04,Sugarcane,Meru,132.68
+2019-09-21,Beans,Nakuru,152.94
+2018-10-08,Cabbage,Kericho,71.76
+2022-07-06,Sorghum,Uasin Gishu,153.66
+2016-05-29,Sugarcane,Embu,155.31
+2016-12-03,Beans,Uasin Gishu,137.64
+2019-07-12,Potatoes,Muranga,145.77
+2020-08-28,Tea,Uasin Gishu,123.09
+2015-01-23,Beans,Embu,44.69
+2021-09-26,Tomatoes,Embu,109.01
+2017-11-19,Tea,Kericho,129.66
+2020-01-05,Maize,Nakuru,153.0
+2020-11-25,Sorghum,Embu,108.45
+2018-07-28,Sugarcane,Uasin Gishu,135.3
+2023-10-05,Maize,Nakuru,124.6
+2018-02-08,Coffee,Nairobi,73.7
+2020-12-23,Potatoes,Uasin Gishu,58.57
+2015-12-28,Sorghum,Nandi,130.11
+2023-12-02,Wheat,Kericho,68.05
+2020-12-16,Tea,Meru,69.36
+2020-03-14,Wheat,Kericho,117.27
+2018-07-08,Maize,Embu,134.69
+2016-05-29,Beans,Kisii,109.88
+2016-03-24,Beans,Muranga,146.2
+2020-04-07,Potatoes,Nandi,65.37
+2023-09-11,Maize,Embu,70.29
+2019-02-15,Cabbage,Uasin Gishu,116.43
+2018-06-01,Sorghum,Nakuru,139.52
+2020-01-30,Tea,Nandi,104.72
+2017-05-23,Beans,Kisii,41.25
+2021-11-25,Beans,Meru,121.23
+2023-06-09,Wheat,Nakuru,137.63
+2018-11-29,Wheat,Muranga,73.19
+2021-06-07,Sugarcane,Kiambu,46.5
+2021-03-28,Coffee,Muranga,102.15
+2019-10-21,Cabbage,Kericho,45.06
+2017-07-11,Wheat,Nandi,89.92
+2023-08-04,Wheat,Kericho,42.14
+2023-03-04,Sorghum,Embu,67.0
+2020-11-29,Sugarcane,Nairobi,86.66
+2017-11-02,Wheat,Embu,53.4
+2018-11-17,Tea,Meru,53.7
+2021-12-22,Sorghum,Nandi,139.25
+2023-02-27,Coffee,Nairobi,44.97
+2022-03-30,Maize,Nakuru,122.68
+2021-03-31,Sorghum,Nairobi,137.74
+2022-04-03,Maize,Meru,55.69
+2015-11-10,Beans,Uasin Gishu,63.44
+2022-02-26,Sugarcane,Kericho,116.98
+2023-06-11,Coffee,Kisii,77.88
+2021-03-06,Sugarcane,Embu,97.17
+2020-06-20,Coffee,Nandi,140.32
+2017-11-03,Sugarcane,Meru,56.56
+2019-07-15,Sorghum,Kiambu,114.36
+2023-06-19,Sugarcane,Kisii,153.09
+2022-03-19,Tomatoes,Meru,46.9
+2019-11-14,Coffee,Kiambu,47.2
+2017-10-11,Maize,Kiambu,106.57
+2017-12-29,Coffee,Kiambu,155.21
+2023-12-27,Beans,Uasin Gishu,66.46
+2018-01-29,Tea,Nairobi,79.7
+2016-11-28,Tomatoes,Muranga,51.84
+2020-12-19,Potatoes,Embu,83.47
+2018-11-05,Coffee,Kiambu,45.32
+2018-03-01,Wheat,Meru,86.69
+2017-11-09,Sorghum,Nakuru,106.66
+2020-04-13,Sorghum,Nakuru,157.0
+2022-01-27,Sugarcane,Nandi,138.21
+2017-10-10,Sugarcane,Kericho,138.65
+2015-08-15,Sorghum,Kiambu,67.38
+2023-10-31,Cabbage,Meru,50.47
+2020-01-03,Tomatoes,Kiambu,112.37
+2019-02-01,Tomatoes,Uasin Gishu,102.54
+2017-04-01,Maize,Kericho,101.98
+2020-07-16,Coffee,Kiambu,53.08
+2017-05-20,Potatoes,Embu,99.27
+2021-09-18,Sorghum,Nakuru,58.04
+2021-02-27,Coffee,Kiambu,90.65
+2020-09-16,Tomatoes,Embu,47.46
+2023-03-09,Beans,Embu,142.83
+2019-12-01,Sorghum,Nairobi,41.58
+2015-07-07,Coffee,Embu,152.72
+2017-12-16,Tomatoes,Kericho,143.55
+2017-07-29,Tea,Nakuru,130.31
+2023-06-19,Tomatoes,Nandi,157.91
+2021-05-09,Sugarcane,Uasin Gishu,46.46
+2023-09-26,Wheat,Nakuru,116.99
+2022-03-15,Cabbage,Meru,141.92
+2022-01-07,Cabbage,Nandi,55.19
+2016-06-09,Sugarcane,Embu,110.17
+2015-12-02,Sugarcane,Kiambu,87.27
+2022-07-08,Sorghum,Nairobi,92.3
+2017-12-14,Tea,Nandi,149.5
+2021-12-22,Tea,Meru,104.64
+2023-01-26,Sorghum,Meru,51.19
+2022-09-14,Coffee,Nandi,152.47
+2022-01-27,Sorghum,Nairobi,62.23
+2015-06-11,Potatoes,Embu,147.12
+2016-08-16,Potatoes,Kericho,156.51
+2020-04-22,Cabbage,Meru,145.34
+2021-01-15,Tomatoes,Embu,121.26
+2023-12-04,Sorghum,Kericho,129.23
+2015-03-01,Sorghum,Kericho,123.98
+2023-02-10,Coffee,Meru,95.26
+2020-03-16,Maize,Nandi,72.93
+2021-03-08,Cabbage,Kericho,74.2
+2016-02-10,Cabbage,Kiambu,127.74
+2016-10-25,Cabbage,Nakuru,115.12
+2018-02-06,Tomatoes,Uasin Gishu,110.19
+2018-01-04,Sugarcane,Meru,118.31
+2016-06-25,Beans,Kisii,132.97
+2018-08-30,Maize,Kericho,129.8
+2017-09-24,Tomatoes,Muranga,52.65
+2018-02-14,Potatoes,Kiambu,83.56
+2023-02-22,Coffee,Kisii,71.68
+2017-05-17,Sugarcane,Embu,104.59
+2020-08-28,Potatoes,Uasin Gishu,47.37
+2016-03-07,Sugarcane,Nairobi,131.5
+2017-01-09,Tea,Kericho,52.78
+2018-10-05,Cabbage,Nairobi,72.57
+2015-07-02,Sugarcane,Uasin Gishu,133.93
+2020-11-30,Wheat,Kiambu,46.19
+2018-04-21,Cabbage,Kiambu,119.22
+2021-12-03,Cabbage,Uasin Gishu,150.94
+2018-03-15,Coffee,Kiambu,114.12
+2017-04-10,Maize,Kericho,125.52
+2019-07-10,Potatoes,Uasin Gishu,135.07
+2018-02-10,Sugarcane,Meru,66.67
+2022-09-11,Sugarcane,Muranga,109.72
+2016-04-20,Tea,Embu,77.09
+2022-09-11,Cabbage,Nakuru,69.94
+2018-08-19,Sorghum,Nandi,63.09
+2017-08-28,Beans,Muranga,110.25
+2017-10-16,Sorghum,Nakuru,135.34
+2018-02-15,Sugarcane,Nandi,145.11
+2020-01-11,Sorghum,Nairobi,91.43
+2015-06-10,Coffee,Muranga,84.75
+2021-09-14,Wheat,Kisii,122.48
+2015-07-17,Sugarcane,Muranga,133.64
+2018-07-07,Sugarcane,Kiambu,70.4
+2016-10-21,Wheat,Kericho,75.67
+2019-11-11,Potatoes,Kericho,104.01
+2017-12-06,Wheat,Nakuru,93.33
+2020-07-03,Sorghum,Kiambu,124.69
+2016-02-03,Coffee,Nairobi,100.54
+2019-09-30,Tea,Kericho,53.39
+2019-05-02,Potatoes,Embu,59.91
+2020-10-26,Tomatoes,Nairobi,148.23
+2020-12-11,Tea,Kiambu,67.29
+2015-03-16,Maize,Kiambu,46.01
+2020-12-24,Maize,Nakuru,127.77
+2016-08-24,Maize,Meru,122.08
+2017-04-16,Maize,Kericho,112.01
+2019-03-09,Coffee,Kiambu,100.27
+2016-05-14,Tea,Kiambu,156.35
+2019-05-16,Cabbage,Embu,54.38
+2015-05-18,Beans,Muranga,101.22
+2020-09-28,Potatoes,Muranga,107.69
+2019-11-30,Tomatoes,Kiambu,42.7
+2017-08-30,Sorghum,Nairobi,89.44
+2019-07-01,Sugarcane,Embu,133.94
+2020-02-29,Maize,Nairobi,96.53
+2021-04-20,Tomatoes,Nandi,145.03
+2020-07-21,Sugarcane,Meru,117.38
+2022-07-20,Beans,Muranga,131.93
+2020-03-15,Tomatoes,Muranga,136.54
+2022-02-23,Tea,Embu,122.74
+2022-09-05,Tomatoes,Uasin Gishu,129.93
+2018-12-20,Maize,Nairobi,123.44
+2016-06-30,Beans,Kericho,106.06
+2017-07-10,Sorghum,Embu,107.98
+2016-08-03,Cabbage,Nakuru,62.79
+2018-10-04,Wheat,Uasin Gishu,139.29
+2020-05-10,Maize,Kisii,77.46
+2020-06-26,Sugarcane,Nairobi,104.29
+2020-09-27,Beans,Uasin Gishu,69.95
+2023-02-12,Tea,Embu,123.5
+2023-08-12,Coffee,Kericho,157.02
+2016-12-04,Beans,Nakuru,136.23
+2021-04-27,Sugarcane,Meru,114.29
+2021-07-31,Wheat,Uasin Gishu,108.1
+2019-06-14,Wheat,Meru,98.77
+2016-09-29,Potatoes,Kiambu,64.6
+2022-08-22,Cabbage,Muranga,81.76
+2017-10-06,Sugarcane,Nandi,88.77
+2023-02-26,Wheat,Muranga,153.35
+2016-10-02,Potatoes,Kisii,91.07
+2022-10-10,Potatoes,Kericho,110.34
+2022-04-13,Potatoes,Nakuru,150.69
+2020-02-05,Beans,Meru,102.21
+2022-10-27,Potatoes,Embu,70.17
+2018-04-20,Maize,Meru,85.72
+2016-11-16,Sugarcane,Kericho,85.06
+2020-01-26,Maize,Embu,125.77
+2015-07-07,Coffee,Embu,75.53
+2019-06-08,Wheat,Kisii,127.63
+2019-08-15,Cabbage,Kericho,146.71
+2017-09-11,Potatoes,Uasin Gishu,80.33
+2016-07-01,Tea,Muranga,56.24
+2022-08-04,Tea,Kiambu,116.63
+2023-02-21,Wheat,Meru,83.3
+2018-12-02,Coffee,Uasin Gishu,104.08
+2017-05-25,Tea,Kiambu,116.1
+2016-09-09,Maize,Nakuru,88.93
+2021-09-27,Tomatoes,Nandi,150.96
+2018-09-27,Beans,Meru,87.95
+2018-05-28,Sorghum,Kisii,76.88
+2017-06-21,Tea,Kiambu,146.28
+2015-06-12,Cabbage,Embu,56.36
+2020-05-28,Potatoes,Uasin Gishu,54.91
+2015-09-27,Cabbage,Muranga,152.28
+2016-09-23,Sugarcane,Kisii,65.08
+2017-06-24,Beans,Meru,57.81
+2023-11-28,Maize,Kericho,104.22
+2020-07-07,Coffee,Uasin Gishu,45.61
+2019-06-30,Beans,Kisii,114.4
+2015-07-24,Sorghum,Nandi,94.35
+2016-08-04,Tomatoes,Meru,116.85
+2019-04-29,Tea,Nakuru,74.07
+2017-04-20,Coffee,Muranga,148.66
+2020-01-11,Coffee,Nakuru,72.47
+2018-06-05,Tea,Kiambu,116.51
+2019-09-16,Tea,Kericho,153.41
+2019-07-01,Tea,Kiambu,88.1
+2022-03-28,Tea,Muranga,59.37
+2021-04-16,Tea,Uasin Gishu,48.21
+2017-05-24,Coffee,Kiambu,155.56
+2019-01-04,Wheat,Kericho,131.64
+2021-02-21,Wheat,Nairobi,150.27
+2016-11-20,Cabbage,Nairobi,123.86
+2020-07-03,Wheat,Kisii,81.09
+2023-08-08,Sorghum,Kisii,54.76
+2022-05-10,Wheat,Meru,151.52
+2018-11-23,Coffee,Kisii,98.75
+2020-06-24,Tea,Nandi,87.58
+2016-11-02,Potatoes,Kisii,109.34
+2023-12-19,Potatoes,Nandi,52.79
+2018-03-17,Sorghum,Kisii,77.1
+2019-02-04,Sugarcane,Nakuru,116.55
+2017-08-01,Coffee,Embu,52.01
+2021-02-24,Maize,Nandi,56.23
+2018-12-20,Beans,Uasin Gishu,101.27
+2021-12-14,Cabbage,Meru,114.81
+2017-06-14,Maize,Muranga,62.44
+2020-12-29,Coffee,Nandi,43.97
+2018-08-29,Wheat,Kiambu,155.0
+2015-06-14,Tea,Embu,43.3
+2021-06-19,Maize,Nakuru,40.25
+2020-08-30,Beans,Nairobi,78.8
+2018-01-10,Sugarcane,Nakuru,66.69
+2023-10-08,Potatoes,Kisii,108.83
+2019-10-20,Sugarcane,Meru,147.31
+2023-04-20,Beans,Embu,97.73
+2021-06-10,Tea,Kiambu,132.8
+2020-04-22,Wheat,Nandi,149.11
+2016-01-06,Beans,Nakuru,62.73
+2020-02-24,Cabbage,Embu,98.6
+2017-05-02,Beans,Nandi,117.05
+2016-01-19,Coffee,Meru,79.83
+2020-04-15,Wheat,Muranga,128.77
+2021-10-28,Tea,Nairobi,124.64
+2016-02-29,Potatoes,Meru,90.53
+2021-01-17,Potatoes,Kisii,50.55
+2023-11-24,Beans,Kericho,41.39
+2016-09-20,Coffee,Muranga,84.32
+2017-06-13,Maize,Kisii,49.85
+2021-12-12,Sugarcane,Nakuru,133.79
+2023-05-23,Sugarcane,Muranga,80.12
+2021-07-02,Sugarcane,Kisii,119.93
+2016-08-20,Maize,Muranga,81.57
+2023-05-21,Coffee,Meru,135.51
+2021-05-25,Sugarcane,Embu,146.61
+2016-08-15,Cabbage,Nairobi,140.5
+2019-08-15,Maize,Nairobi,98.14
+2016-07-26,Maize,Kisii,50.07
+2020-09-06,Tea,Kisii,84.61
+2023-03-21,Tea,Muranga,90.93
+2020-09-21,Wheat,Nakuru,155.23
+2019-09-01,Cabbage,Kisii,107.86
+2021-10-06,Cabbage,Muranga,116.9
+2015-06-26,Wheat,Uasin Gishu,133.84
+2016-06-12,Cabbage,Nairobi,108.18
+2019-06-22,Sorghum,Kisii,111.82
+2017-08-23,Tomatoes,Meru,69.44
+2019-02-26,Sugarcane,Kiambu,47.06
+2015-07-17,Tea,Muranga,126.57
+2022-04-11,Wheat,Nairobi,141.84
+2022-11-29,Wheat,Kisii,89.44
+2017-05-02,Cabbage,Embu,105.87
+2019-03-18,Maize,Muranga,76.87
+2020-08-31,Potatoes,Nakuru,94.03
+2023-09-19,Beans,Kisii,65.07
+2017-12-16,Beans,Muranga,131.19
+2023-08-04,Wheat,Kisii,99.03
+2022-11-29,Sugarcane,Kericho,105.66
+2015-04-08,Sorghum,Kiambu,44.45
+2023-10-21,Sugarcane,Nandi,114.69
+2020-03-18,Wheat,Nandi,64.32
+2016-03-10,Sugarcane,Kericho,86.01
+2016-09-28,Tea,Muranga,89.53
+2023-08-24,Sugarcane,Nakuru,93.85
+2016-08-10,Cabbage,Kisii,67.29
+2015-12-10,Cabbage,Muranga,142.01
+2018-08-10,Sorghum,Embu,91.34
+2020-06-02,Tea,Nakuru,113.46
+2016-07-24,Potatoes,Embu,113.67
+2016-09-02,Maize,Kericho,112.84
+2019-09-24,Tea,Meru,107.12
+2021-04-09,Coffee,Nandi,138.72
+2020-01-29,Tomatoes,Nandi,137.51
+2022-02-21,Wheat,Kisii,90.06
+2017-08-17,Coffee,Kiambu,116.3
+2020-09-10,Sorghum,Kericho,52.34
+2021-09-04,Coffee,Muranga,50.89
+2021-05-13,Cabbage,Kericho,97.59
+2016-06-15,Sugarcane,Muranga,148.02
+2018-03-23,Maize,Kericho,118.0
+2021-08-27,Beans,Meru,120.31
+2017-12-27,Wheat,Uasin Gishu,58.92
+2020-03-16,Beans,Kiambu,94.4
+2017-06-02,Sugarcane,Muranga,88.09
+2021-03-11,Cabbage,Kiambu,133.96
+2019-08-06,Cabbage,Nakuru,56.54
+2021-08-20,Sugarcane,Kericho,104.7
+2022-08-23,Wheat,Kisii,149.36
+2021-03-10,Beans,Nairobi,147.1
+2020-10-27,Tea,Nakuru,142.28
+2019-10-16,Cabbage,Embu,85.0
+2022-04-29,Beans,Nandi,152.93
+2022-04-05,Potatoes,Nairobi,136.64
+2017-02-20,Beans,Meru,142.14
+2023-05-07,Potatoes,Kericho,151.88
+2022-06-20,Potatoes,Uasin Gishu,152.44
+2020-10-06,Cabbage,Meru,68.81
+2023-06-25,Wheat,Muranga,55.32
+2017-05-30,Sorghum,Nairobi,122.9
+2016-03-22,Cabbage,Nandi,107.59
+2020-10-14,Wheat,Kisii,79.29
+2019-11-19,Wheat,Uasin Gishu,122.13
+2018-07-01,Coffee,Kiambu,47.44
+2020-06-14,Sugarcane,Kericho,45.66
+2017-12-03,Sugarcane,Muranga,82.52
+2023-09-04,Sugarcane,Kericho,63.26
+2019-04-27,Tomatoes,Meru,126.23
+2017-10-08,Cabbage,Nairobi,153.76
+2021-03-24,Wheat,Meru,119.4
+2017-02-12,Coffee,Nairobi,118.57
+2022-06-19,Potatoes,Kisii,40.79
+2019-12-20,Sorghum,Nandi,101.47
+2022-04-02,Sorghum,Kiambu,138.05
+2021-08-23,Potatoes,Kisii,118.49
+2018-04-16,Beans,Nakuru,67.33
+2018-12-21,Beans,Nandi,141.82
+2022-07-19,Sugarcane,Kisii,155.73
+2015-11-03,Cabbage,Uasin Gishu,73.48
+2017-02-17,Tomatoes,Kericho,64.85
+2021-12-26,Coffee,Meru,80.62
+2021-05-04,Sorghum,Nandi,47.58
+2015-01-08,Sugarcane,Uasin Gishu,144.81
+2021-12-30,Maize,Meru,151.52
+2016-04-20,Sugarcane,Nakuru,116.0
+2018-08-13,Maize,Embu,131.72
+2021-01-20,Tea,Nandi,120.24
+2016-04-29,Wheat,Uasin Gishu,85.28
+2023-08-10,Potatoes,Meru,115.85
+2022-02-27,Wheat,Meru,140.36
+2017-06-23,Sugarcane,Kisii,137.19
+2016-07-12,Wheat,Nairobi,49.73
+2020-05-21,Coffee,Kisii,95.51
+2021-04-04,Tea,Uasin Gishu,87.68
+2018-02-01,Tomatoes,Muranga,130.24
+2018-05-18,Tea,Kericho,100.17
+2022-02-14,Sorghum,Nandi,81.96
+2022-11-15,Coffee,Kisii,124.76
+2016-04-12,Wheat,Meru,96.83
+2021-08-30,Tomatoes,Meru,70.79
+2022-09-23,Wheat,Embu,146.85
+2017-04-27,Cabbage,Nandi,53.57
+2021-08-31,Cabbage,Embu,42.17
+2023-01-03,Beans,Kericho,57.27
+2015-09-16,Tea,Nakuru,59.64
+2015-10-10,Tomatoes,Kisii,104.57
+2019-07-08,Cabbage,Kiambu,114.98
+2020-03-13,Beans,Uasin Gishu,93.83
+2015-02-09,Coffee,Uasin Gishu,64.5
+2021-12-08,Tomatoes,Nakuru,55.86
+2023-02-24,Beans,Nandi,99.06
+2021-03-17,Potatoes,Kisii,107.86
+2023-10-06,Tomatoes,Kericho,76.48
+2017-10-11,Sugarcane,Nairobi,66.45
+2023-05-30,Beans,Embu,49.67
+2016-09-04,Wheat,Nakuru,43.15
+2023-02-23,Sugarcane,Nairobi,52.69
+2020-03-30,Potatoes,Embu,129.05
+2016-11-18,Cabbage,Nakuru,81.28
+2016-09-04,Maize,Uasin Gishu,43.29
+2021-04-26,Beans,Uasin Gishu,100.98
+2023-04-26,Coffee,Meru,104.33
+2023-04-02,Beans,Embu,91.44
+2021-08-10,Maize,Kiambu,53.28
+2019-11-17,Potatoes,Kericho,130.6
+2019-12-16,Potatoes,Muranga,122.69
+2022-02-04,Sugarcane,Nandi,87.37
+2022-05-20,Tomatoes,Nandi,85.7
+2019-03-28,Coffee,Embu,58.71
+2020-04-14,Sugarcane,Nakuru,130.43
+2022-11-01,Coffee,Nakuru,111.95
+2023-06-15,Coffee,Muranga,50.3
+2018-02-26,Maize,Kericho,85.37
+2016-07-28,Sugarcane,Kisii,148.43
+2023-09-16,Coffee,Kericho,94.28
+2020-03-25,Sorghum,Kisii,78.99
+2017-10-09,Maize,Muranga,117.25
+2016-10-31,Potatoes,Kisii,64.36
+2015-09-26,Maize,Kiambu,102.86
+2023-11-08,Wheat,Meru,120.34
+2018-07-07,Wheat,Kericho,142.59
+2017-07-12,Coffee,Kisii,123.1
+2018-01-30,Sugarcane,Uasin Gishu,86.13
+2019-03-10,Potatoes,Kiambu,132.14
+2019-10-25,Maize,Kericho,147.81
+2019-05-14,Sugarcane,Kisii,97.33
+2015-09-04,Maize,Uasin Gishu,40.54
+2019-04-10,Maize,Muranga,145.71
+2020-12-18,Sorghum,Muranga,59.85
+2021-07-28,Wheat,Embu,55.16
+2021-02-21,Maize,Nandi,76.92
+2020-04-23,Sorghum,Nairobi,85.6
+2017-07-18,Wheat,Uasin Gishu,135.93
+2023-05-28,Sorghum,Embu,86.7
+2022-05-16,Sugarcane,Kiambu,45.86
+2015-08-15,Tomatoes,Kisii,116.32
+2022-07-11,Wheat,Kericho,120.55
+2015-09-22,Cabbage,Nakuru,137.71
+2018-10-27,Tomatoes,Uasin Gishu,87.86
+2018-12-28,Sugarcane,Nairobi,50.33
+2016-10-07,Maize,Nakuru,106.37
+2021-03-08,Potatoes,Meru,54.52
+2018-11-19,Sugarcane,Nairobi,42.05
+2019-01-13,Sorghum,Embu,133.43
+2023-03-10,Sorghum,Nairobi,88.41
+2018-10-19,Sorghum,Kisii,103.0
+2020-03-14,Sorghum,Kericho,119.54
+2021-11-09,Sugarcane,Kiambu,88.12
+2022-08-04,Potatoes,Nakuru,46.14
+2018-06-03,Beans,Nairobi,70.33
+2017-09-08,Sorghum,Kisii,63.32
+2018-02-28,Beans,Muranga,157.29
+2016-08-10,Potatoes,Nairobi,128.74
+2016-04-20,Potatoes,Nairobi,94.19
+2019-12-27,Tomatoes,Nandi,47.6
+2017-09-12,Wheat,Nakuru,53.9
+2021-01-12,Cabbage,Nandi,137.55
+2018-05-26,Coffee,Nandi,153.45
+2015-07-09,Cabbage,Kericho,43.76
+2018-12-11,Sugarcane,Kisii,149.25
+2017-09-07,Coffee,Nandi,85.67
+2019-08-26,Potatoes,Nairobi,65.64
+2019-09-12,Cabbage,Embu,52.27
+2022-02-06,Tea,Embu,132.61
+2015-02-10,Wheat,Muranga,96.27
+2021-06-12,Cabbage,Embu,139.89
+2017-07-31,Wheat,Muranga,67.14
+2015-12-04,Beans,Embu,121.43
+2018-08-30,Sugarcane,Meru,54.17
+2018-01-03,Wheat,Muranga,50.77
+2023-03-20,Beans,Uasin Gishu,56.01
+2021-05-15,Sorghum,Nakuru,137.07
+2023-11-22,Beans,Nakuru,118.67
+2017-06-14,Sugarcane,Nakuru,59.92
+2021-05-09,Tomatoes,Kisii,86.17
+2022-11-24,Sorghum,Kericho,131.64
+2022-04-21,Potatoes,Kiambu,74.28
+2019-08-02,Maize,Kericho,150.55
+2022-12-19,Beans,Muranga,149.75
+2017-07-19,Beans,Kericho,106.35
+2015-10-16,Wheat,Embu,115.84
+2016-12-24,Potatoes,Muranga,118.39
+2023-01-19,Cabbage,Kericho,71.02
+2021-05-08,Tea,Kericho,83.84
+2020-05-07,Coffee,Nandi,56.31
+2017-12-25,Beans,Meru,150.98
+2016-04-27,Cabbage,Kisii,126.86
+2017-07-24,Tea,Muranga,45.56
+2021-04-14,Coffee,Kiambu,105.93
+2015-06-05,Maize,Nakuru,81.17
+2017-12-06,Wheat,Nairobi,137.83
+2020-05-12,Cabbage,Uasin Gishu,81.26
+2021-11-06,Wheat,Kericho,117.3
+2021-02-26,Coffee,Nakuru,59.89
+2019-08-11,Tomatoes,Embu,107.05
+2015-05-04,Beans,Uasin Gishu,75.27
+2020-08-10,Sorghum,Meru,59.79
+2017-08-25,Tea,Nakuru,114.31
+2017-05-04,Potatoes,Nandi,116.64
+2016-10-01,Sugarcane,Nakuru,158.0
+2021-02-16,Beans,Meru,120.29
+2019-05-22,Sorghum,Nakuru,101.89
+2022-01-07,Sugarcane,Kericho,149.51
+2016-03-17,Cabbage,Nakuru,139.39
+2020-04-28,Sugarcane,Nandi,105.85
+2020-01-13,Maize,Kisii,101.36
+2020-01-04,Beans,Meru,153.04
+2020-12-30,Wheat,Nandi,114.06
+2023-12-07,Tomatoes,Muranga,125.65
+2016-06-16,Potatoes,Nakuru,50.4
+2021-03-24,Wheat,Kiambu,126.2
+2018-08-29,Sorghum,Nakuru,71.76
+2017-08-06,Beans,Meru,53.86
+2020-07-12,Tomatoes,Uasin Gishu,141.96
+2016-04-04,Sugarcane,Nandi,122.94
+2016-07-04,Beans,Kiambu,88.91
+2016-01-28,Sugarcane,Muranga,91.77
+2019-11-23,Cabbage,Embu,63.65
+2017-04-24,Maize,Muranga,41.15
+2023-12-23,Coffee,Nandi,81.92
+2021-03-07,Beans,Uasin Gishu,57.81
+2018-02-12,Sorghum,Nandi,90.61
+2016-10-07,Sugarcane,Nairobi,140.06
+2021-03-16,Wheat,Kiambu,53.77
+2021-09-20,Cabbage,Uasin Gishu,51.01
+2019-01-06,Sorghum,Kiambu,148.25
+2018-10-09,Potatoes,Nandi,129.42
+2023-01-14,Coffee,Kisii,46.37
+2022-02-18,Cabbage,Kiambu,49.55
+2022-02-10,Maize,Nairobi,122.19
+2015-05-22,Coffee,Kericho,84.44
+2022-04-13,Sugarcane,Uasin Gishu,126.9
+2016-05-15,Sorghum,Nairobi,88.53
+2017-04-19,Potatoes,Nairobi,156.13
+2022-07-12,Tea,Embu,123.33
+2019-08-10,Maize,Kisii,45.59
+2019-04-15,Tomatoes,Nakuru,79.66
+2020-08-08,Sugarcane,Kisii,107.63
+2019-03-11,Tea,Meru,57.02
+2016-08-18,Beans,Embu,40.3
+2020-03-19,Potatoes,Nandi,49.52
+2015-10-08,Wheat,Nandi,102.91
+2016-02-28,Tomatoes,Muranga,115.87
+2022-12-13,Sorghum,Nakuru,51.15
+2015-09-27,Potatoes,Meru,119.82
+2015-06-03,Coffee,Kiambu,114.05
+2022-04-15,Cabbage,Kisii,152.79
+2019-10-17,Coffee,Uasin Gishu,140.88
+2016-10-23,Coffee,Nairobi,153.19
+2020-05-21,Beans,Kiambu,155.93
+2015-03-24,Maize,Muranga,92.9
+2023-03-14,Wheat,Kisii,98.55
+2023-01-25,Tomatoes,Uasin Gishu,73.79
+2018-12-20,Maize,Muranga,101.01
+2018-07-22,Potatoes,Nairobi,58.09
+2021-05-20,Coffee,Embu,120.57
+2017-09-06,Beans,Nakuru,42.99
+2021-01-29,Potatoes,Embu,68.28
+2023-08-01,Cabbage,Uasin Gishu,64.97
+2023-08-11,Wheat,Embu,152.55
+2022-09-11,Tomatoes,Uasin Gishu,57.39
+2019-07-18,Cabbage,Meru,146.89
+2018-10-30,Beans,Meru,54.92
+2016-09-24,Wheat,Kericho,118.08
+2019-03-12,Potatoes,Kericho,78.39
+2017-02-25,Coffee,Embu,77.92
+2023-03-10,Coffee,Nandi,159.79
+2023-05-18,Sugarcane,Embu,67.13
+2016-02-02,Coffee,Embu,64.31
+2018-02-17,Tea,Nandi,110.72
+2017-07-22,Coffee,Nakuru,128.89
+2018-12-31,Tea,Kisii,157.9
+2020-01-27,Sorghum,Nandi,124.17
+2022-06-16,Tea,Uasin Gishu,107.42
+2023-03-03,Wheat,Kisii,89.1
+2021-11-17,Cabbage,Nairobi,111.41
+2015-10-13,Wheat,Nakuru,112.1
+2015-09-22,Cabbage,Nairobi,66.13
+2021-06-25,Sugarcane,Kericho,120.55
+2022-06-13,Sorghum,Kiambu,64.53
+2022-11-07,Cabbage,Meru,98.79
+2020-11-06,Cabbage,Nairobi,71.18
+2019-08-05,Beans,Muranga,77.54
+2018-05-11,Maize,Embu,113.67
+2017-03-31,Maize,Uasin Gishu,47.74
+2019-10-29,Beans,Nairobi,41.44
+2023-05-07,Coffee,Nairobi,55.67
+2021-07-09,Beans,Kiambu,60.24
+2021-03-19,Cabbage,Kericho,63.74
+2015-02-10,Cabbage,Embu,132.87
+2019-09-28,Beans,Embu,93.62
+2015-03-09,Beans,Kiambu,96.39
+2017-09-14,Coffee,Nandi,117.32
+2019-12-05,Wheat,Kiambu,127.49
+2022-01-05,Sorghum,Muranga,40.42
+2019-06-10,Potatoes,Kisii,142.81
+2019-07-14,Cabbage,Muranga,158.61
+2023-10-04,Sorghum,Kiambu,54.62
+2018-07-02,Beans,Meru,118.13
+2016-11-25,Coffee,Nandi,40.29
+2023-06-15,Tea,Meru,45.88
+2021-11-29,Coffee,Muranga,74.2
+2017-12-21,Tomatoes,Embu,141.57
+2023-01-07,Tomatoes,Muranga,118.3
+2021-10-15,Sorghum,Nakuru,93.5
+2019-08-21,Maize,Kericho,92.63
+2021-05-04,Tomatoes,Uasin Gishu,95.93
+2017-11-24,Tomatoes,Nakuru,77.32
+2017-02-17,Wheat,Kiambu,145.33
+2016-05-08,Tea,Nairobi,108.14
+2019-05-05,Wheat,Meru,98.07
+2019-02-01,Tea,Kisii,95.81
+2019-11-26,Sugarcane,Nakuru,152.3
+2016-10-22,Potatoes,Nandi,126.84
+2018-09-10,Cabbage,Meru,57.38
+2018-08-20,Tomatoes,Nakuru,92.44
+2018-07-23,Cabbage,Embu,74.6
+2020-06-09,Tomatoes,Uasin Gishu,158.42
+2023-05-19,Wheat,Muranga,89.85
+2020-08-06,Potatoes,Muranga,48.14
+2023-12-17,Wheat,Nakuru,89.35
+2020-04-12,Wheat,Kiambu,78.56
+2018-09-09,Tea,Nandi,111.95
+2017-11-24,Maize,Kiambu,67.13
+2017-09-03,Coffee,Meru,44.32
+2016-04-26,Sorghum,Kericho,51.51
+2016-12-28,Cabbage,Uasin Gishu,73.98
+2021-12-02,Sugarcane,Uasin Gishu,81.8
+2023-08-03,Tomatoes,Muranga,140.13
+2017-10-28,Wheat,Uasin Gishu,72.41
+2015-12-09,Maize,Kiambu,43.78
+2018-12-18,Wheat,Nandi,133.69
+2021-07-07,Potatoes,Nandi,144.27
+2021-10-21,Tea,Muranga,99.08
+2021-01-30,Sugarcane,Nakuru,74.19
+2022-02-19,Coffee,Nandi,132.66
+2016-06-10,Potatoes,Kiambu,41.07
+2020-03-11,Beans,Nairobi,150.88
+2016-10-20,Sugarcane,Nakuru,143.86
+2020-09-04,Wheat,Kericho,105.38
+2017-03-30,Potatoes,Kisii,73.31
+2022-04-06,Coffee,Embu,43.94
+2016-02-10,Maize,Uasin Gishu,159.98
+2021-03-29,Maize,Uasin Gishu,131.45
+2022-01-24,Cabbage,Nairobi,80.65
+2019-04-23,Coffee,Nakuru,42.31
+2019-12-17,Maize,Muranga,116.72
+2016-05-19,Potatoes,Kiambu,158.43
+2015-06-28,Cabbage,Nairobi,124.85
+2015-05-12,Maize,Embu,50.05
+2020-01-21,Sugarcane,Nandi,88.27
+2019-01-18,Tea,Muranga,53.1
+2021-07-23,Beans,Kisii,149.46
+2022-01-31,Coffee,Muranga,79.65
+2017-02-10,Potatoes,Nairobi,128.01
+2018-11-30,Tomatoes,Kericho,50.16
+2020-10-24,Wheat,Nairobi,55.41
+2016-08-01,Potatoes,Nairobi,121.54
+2022-12-11,Maize,Nairobi,141.22
+2019-02-24,Potatoes,Muranga,64.17
+2015-07-13,Tomatoes,Nairobi,90.2
+2020-06-30,Wheat,Nakuru,114.33
+2018-03-31,Cabbage,Muranga,135.55
+2021-07-22,Maize,Nandi,115.38
+2023-03-18,Sorghum,Nakuru,51.45
+2018-10-16,Maize,Embu,105.14
+2019-11-28,Beans,Nandi,146.15
+2018-01-15,Sorghum,Kisii,144.16
+2021-03-11,Beans,Uasin Gishu,110.2
+2020-04-20,Tomatoes,Muranga,159.48
+2022-03-05,Coffee,Uasin Gishu,52.61
+2017-02-18,Wheat,Muranga,97.43
+2015-09-19,Tea,Nandi,133.01
+2016-12-30,Cabbage,Kisii,56.92
+2015-10-10,Tea,Kiambu,156.73
+2019-01-30,Sugarcane,Kiambu,82.49
+2015-12-28,Sugarcane,Nakuru,82.02
+2016-03-16,Tomatoes,Nairobi,65.58
+2020-11-10,Coffee,Nairobi,74.56
+2019-07-03,Sugarcane,Kiambu,109.31
+2022-09-01,Maize,Nandi,91.52
+2017-05-16,Potatoes,Kisii,63.21
+2018-12-18,Beans,Nakuru,137.1
+2015-05-22,Sugarcane,Nandi,47.47
+2018-08-07,Tomatoes,Nairobi,140.16
+2018-12-26,Beans,Nakuru,72.99
+2022-08-28,Maize,Uasin Gishu,99.51
+2020-02-19,Coffee,Meru,85.73
+2020-01-22,Wheat,Embu,108.47
+2019-09-09,Tea,Nakuru,135.52
+2022-05-24,Maize,Nairobi,158.72
+2016-12-01,Cabbage,Nandi,76.73
+2017-09-24,Sorghum,Uasin Gishu,106.46
+2020-09-27,Tomatoes,Embu,95.92
+2018-08-18,Tea,Embu,159.87
+2017-05-30,Cabbage,Nakuru,137.07
+2018-04-28,Wheat,Embu,87.65
+2018-03-05,Cabbage,Uasin Gishu,97.23
+2016-07-08,Coffee,Kisii,69.51
+2016-02-08,Sorghum,Nandi,130.63
+2017-06-10,Beans,Nakuru,141.43
+2022-12-22,Tea,Embu,155.8
+2016-08-24,Sorghum,Kisii,107.9
+2020-01-05,Potatoes,Nandi,120.48
+2015-12-07,Maize,Muranga,93.53
+2020-05-22,Potatoes,Kisii,113.1
+2016-12-04,Maize,Muranga,81.85
+2015-11-14,Coffee,Muranga,128.52
+2022-04-19,Sorghum,Kisii,42.72
+2018-10-18,Wheat,Embu,43.41
+2021-08-26,Sugarcane,Muranga,125.93
+2021-03-30,Cabbage,Embu,151.68
+2019-12-06,Sugarcane,Embu,115.87
+2018-09-29,Sorghum,Nandi,127.18
+2019-04-22,Potatoes,Kericho,138.87
+2017-03-27,Sugarcane,Uasin Gishu,83.4
+2016-07-06,Tomatoes,Embu,52.97
+2017-05-05,Sugarcane,Nandi,151.97
+2019-12-18,Maize,Meru,152.63
+2022-11-06,Tomatoes,Muranga,93.02
+2015-07-02,Tea,Nakuru,66.06
+2023-07-10,Sugarcane,Embu,147.08
+2019-04-24,Tomatoes,Kisii,125.01
+2016-02-01,Sorghum,Muranga,40.99
+2019-09-24,Cabbage,Muranga,52.93
+2022-09-27,Tea,Meru,157.98
+2019-02-26,Wheat,Nakuru,44.58
+2017-06-25,Wheat,Nandi,73.91
+2018-09-18,Coffee,Meru,105.82
+2020-12-14,Sugarcane,Uasin Gishu,62.12
+2015-01-01,Cabbage,Muranga,67.85
+2023-11-14,Beans,Embu,82.36
+2015-01-19,Tomatoes,Embu,72.35
+2016-08-06,Tea,Meru,136.4
+2016-03-31,Sorghum,Uasin Gishu,100.03
+2023-03-24,Sugarcane,Kiambu,73.43
+2020-07-29,Sorghum,Nairobi,77.57
+2018-02-06,Beans,Kisii,44.78
+2021-10-28,Coffee,Kisii,45.93
+2020-05-06,Beans,Kiambu,126.15
+2022-04-03,Maize,Muranga,53.55
+2020-11-20,Potatoes,Nandi,97.1
+2017-09-14,Tea,Nakuru,141.08
+2016-06-03,Potatoes,Kiambu,84.21
+2023-10-30,Beans,Uasin Gishu,81.49
+2017-05-08,Coffee,Embu,144.77
+2015-06-23,Coffee,Nairobi,143.78
+2018-09-28,Wheat,Muranga,145.62
+2023-05-11,Sugarcane,Nairobi,108.63
+2021-10-14,Wheat,Nakuru,154.28
+2016-12-27,Tea,Embu,138.28
+2019-09-07,Tea,Uasin Gishu,89.88
+2020-02-19,Tea,Kisii,115.55
+2022-12-07,Sorghum,Nakuru,54.61
+2019-08-09,Wheat,Kiambu,106.16
+2018-09-09,Sorghum,Kisii,71.58
+2017-09-16,Potatoes,Kisii,74.03
+2022-05-10,Sugarcane,Uasin Gishu,55.09
+2016-02-24,Beans,Kiambu,82.98
+2016-08-16,Tomatoes,Meru,97.77
+2021-12-07,Wheat,Nakuru,112.04
+2019-11-10,Tomatoes,Nandi,76.58
+2021-09-25,Coffee,Kericho,135.07
+2017-07-24,Wheat,Embu,102.52
+2018-01-12,Potatoes,Uasin Gishu,116.57
+2018-02-10,Wheat,Embu,73.38
+2015-11-28,Sorghum,Nakuru,137.7
+2022-05-26,Sugarcane,Kiambu,114.91
+2020-09-19,Beans,Nandi,143.48
+2019-11-29,Cabbage,Kericho,59.19
+2017-08-16,Beans,Nairobi,85.68
+2015-04-15,Beans,Nandi,53.56
+2015-07-21,Coffee,Uasin Gishu,65.86
+2021-11-02,Potatoes,Embu,87.35
+2020-01-17,Tomatoes,Nandi,147.35
+2020-02-10,Potatoes,Muranga,106.84
+2020-06-19,Cabbage,Kiambu,79.65
+2018-07-13,Coffee,Kiambu,129.63
+2017-06-28,Sugarcane,Muranga,42.36
+2015-07-29,Beans,Kisii,84.41
+2016-07-16,Sorghum,Kisii,112.1
+2023-09-25,Coffee,Nakuru,109.99
+2022-07-23,Tea,Meru,112.91
+2019-04-13,Wheat,Nairobi,65.38
+2017-02-09,Potatoes,Muranga,80.45
+2023-08-22,Coffee,Nakuru,151.79
+2021-11-06,Tea,Embu,156.88
+2022-06-07,Tomatoes,Muranga,77.44
+2016-09-20,Cabbage,Meru,117.34
+2019-06-17,Cabbage,Muranga,68.96
+2019-08-29,Beans,Meru,84.22
+2016-01-22,Beans,Meru,135.08
+2020-04-19,Coffee,Meru,100.14
+2021-06-01,Coffee,Kiambu,141.95
+2021-04-24,Sugarcane,Nandi,115.45
+2018-01-09,Wheat,Kiambu,115.47
+2015-09-25,Maize,Nakuru,44.07
+2021-10-02,Tomatoes,Kiambu,129.96
+2021-04-01,Beans,Kiambu,157.34
+2020-01-31,Maize,Embu,96.76
+2020-06-21,Maize,Muranga,59.03
+2023-04-22,Wheat,Kiambu,157.24
+2018-10-12,Sorghum,Kericho,74.82
+2018-05-21,Sorghum,Meru,89.1
+2016-07-27,Beans,Muranga,49.28
+2015-02-18,Tea,Kisii,53.3
+2018-02-24,Wheat,Embu,65.99
+2015-08-11,Wheat,Nandi,105.82
+2023-02-16,Potatoes,Embu,106.93
+2018-12-02,Maize,Meru,112.75
+2019-03-09,Potatoes,Muranga,110.06
+2019-12-25,Maize,Nandi,99.43
+2021-05-13,Sorghum,Nairobi,136.25
+2019-01-01,Beans,Uasin Gishu,152.07
+2018-02-04,Tomatoes,Embu,72.37
+2019-08-09,Sorghum,Nandi,55.62
+2021-10-03,Wheat,Nakuru,91.01
+2022-04-12,Tomatoes,Nandi,43.17
+2016-01-10,Coffee,Uasin Gishu,146.0
+2020-10-21,Tomatoes,Meru,68.76
+2020-07-14,Tomatoes,Muranga,105.92
+2017-11-19,Sorghum,Nairobi,53.81
+2023-12-04,Wheat,Nakuru,106.39
+2020-03-04,Tomatoes,Nandi,44.68
+2019-12-29,Sorghum,Kericho,132.26
+2019-01-14,Sorghum,Kiambu,154.65
+2021-02-20,Tomatoes,Meru,76.84
+2018-03-25,Maize,Embu,70.99
+2023-11-18,Wheat,Embu,93.76
+2022-12-04,Cabbage,Uasin Gishu,114.4
+2017-11-30,Tomatoes,Meru,62.68
+2023-08-01,Potatoes,Nakuru,136.4
+2020-09-01,Potatoes,Kisii,63.82
+2015-12-26,Coffee,Nairobi,40.66
+2023-08-13,Wheat,Nakuru,102.91
+2022-02-20,Sorghum,Nairobi,53.82
+2022-06-12,Sugarcane,Muranga,123.79
+2020-08-03,Beans,Muranga,60.1
+2018-02-15,Tea,Meru,138.09
+2019-06-24,Sugarcane,Meru,96.44
+2018-11-04,Wheat,Embu,107.95
+2020-04-27,Wheat,Kiambu,62.39
+2016-11-09,Tomatoes,Uasin Gishu,57.6
+2021-10-23,Tomatoes,Kiambu,115.76
+2023-02-28,Sugarcane,Nakuru,70.66
+2015-01-07,Sorghum,Embu,86.31
+2023-12-12,Coffee,Nairobi,97.53
+2021-10-04,Tomatoes,Kisii,67.56
+2019-05-11,Tea,Nandi,135.45
+2017-04-12,Tea,Kericho,152.73
+2023-12-09,Coffee,Muranga,91.83
+2022-02-19,Maize,Kiambu,150.11
+2023-10-25,Maize,Uasin Gishu,145.92
+2019-12-16,Wheat,Kisii,59.93
+2023-12-18,Tomatoes,Kisii,60.81
+2017-07-02,Potatoes,Muranga,97.29
+2020-07-04,Sugarcane,Kericho,103.1
+2018-12-13,Cabbage,Meru,80.94
+2018-12-21,Coffee,Kisii,77.55
+2023-05-13,Wheat,Nakuru,91.76
+2019-02-11,Potatoes,Nakuru,122.86
+2015-05-06,Tomatoes,Meru,50.13
+2021-09-08,Potatoes,Nairobi,125.27
+2017-03-27,Potatoes,Embu,151.15
+2023-01-07,Coffee,Meru,131.62
+2020-01-04,Wheat,Kericho,63.0
+2016-07-29,Sorghum,Nakuru,50.5
+2021-06-30,Tea,Kisii,98.85
+2018-11-16,Sugarcane,Nakuru,154.77
+2017-07-18,Wheat,Nandi,138.29
+2019-01-03,Cabbage,Embu,107.53
+2023-12-20,Potatoes,Uasin Gishu,57.16
+2017-04-12,Sorghum,Nandi,125.66
+2017-11-20,Coffee,Nairobi,137.56
+2019-07-07,Beans,Muranga,152.21
+2020-03-15,Sugarcane,Nandi,113.45
+2018-12-28,Sugarcane,Nairobi,101.74
+2022-11-24,Tea,Nairobi,114.3
+2023-02-21,Beans,Uasin Gishu,153.19
+2018-10-31,Tomatoes,Muranga,115.38
+2016-03-18,Beans,Kiambu,70.91
+2020-10-23,Potatoes,Meru,116.34
+2016-07-10,Potatoes,Kisii,145.57
+2018-03-24,Potatoes,Kericho,108.04
+2020-07-30,Potatoes,Kericho,100.32
+2015-12-29,Wheat,Kericho,128.0
+2021-10-31,Sugarcane,Kiambu,119.32
+2018-06-11,Beans,Meru,46.8
+2020-01-16,Sugarcane,Kericho,127.04
+2021-04-28,Cabbage,Meru,88.91
+2020-01-25,Beans,Kisii,152.91
+2020-12-12,Wheat,Kericho,156.5
+2017-06-29,Cabbage,Muranga,93.85
+2015-09-02,Sugarcane,Nairobi,156.26
+2016-06-25,Cabbage,Kericho,77.3
+2021-12-07,Tea,Meru,121.92
+2020-12-09,Cabbage,Nairobi,49.01
+2020-12-12,Beans,Uasin Gishu,57.4
+2019-04-22,Potatoes,Kericho,143.74
+2021-01-26,Potatoes,Kericho,147.25
+2015-05-04,Tomatoes,Nandi,103.91
+2023-07-04,Sugarcane,Nairobi,80.77
+2023-08-25,Tea,Kericho,94.12
+2022-05-17,Beans,Muranga,144.35
+2019-09-28,Beans,Kisii,65.32
+2017-02-24,Coffee,Nairobi,75.38
+2020-08-05,Maize,Kisii,134.25
+2021-02-26,Sugarcane,Embu,152.23
+2021-08-13,Beans,Meru,51.15
+2017-03-07,Sorghum,Uasin Gishu,136.45
+2015-03-18,Beans,Nandi,117.41
+2015-02-28,Coffee,Muranga,67.69
+2021-10-14,Cabbage,Uasin Gishu,130.7
+2022-05-09,Wheat,Nandi,127.35
+2019-03-04,Wheat,Uasin Gishu,57.04
+2020-04-20,Sorghum,Uasin Gishu,100.27
+2020-11-26,Sorghum,Nakuru,130.99
+2023-05-14,Tomatoes,Meru,62.99
+2018-07-25,Wheat,Kiambu,95.53
+2015-03-09,Cabbage,Nandi,54.49
+2023-08-07,Wheat,Muranga,76.82
+2023-11-11,Maize,Nairobi,66.15
+2021-06-10,Sugarcane,Uasin Gishu,100.61
+2020-04-16,Wheat,Uasin Gishu,56.95
+2022-06-14,Potatoes,Nandi,85.98
+2015-12-31,Tomatoes,Embu,73.02
+2017-03-31,Coffee,Kiambu,129.53
+2018-11-03,Sorghum,Uasin Gishu,123.96
+2021-07-18,Maize,Kericho,51.39
+2017-08-04,Sorghum,Nakuru,154.42
+2023-01-25,Tomatoes,Kisii,129.36
+2019-04-27,Beans,Nakuru,113.92
+2018-10-09,Maize,Kiambu,97.32
+2018-12-10,Tea,Kericho,61.35
+2023-09-16,Maize,Nakuru,155.44
+2017-01-31,Tomatoes,Kisii,40.94
+2015-12-07,Coffee,Nairobi,123.1
+2023-03-09,Maize,Meru,100.89
+2016-01-18,Tomatoes,Nairobi,148.31
+2017-09-30,Cabbage,Meru,85.68
+2019-04-06,Sugarcane,Embu,102.24
+2015-10-27,Wheat,Embu,129.08
+2015-05-19,Cabbage,Embu,45.71
+2015-12-25,Tomatoes,Nakuru,46.54
+2017-04-15,Potatoes,Embu,65.4
+2019-03-03,Beans,Meru,57.57
+2019-06-16,Wheat,Nairobi,40.77
+2020-06-05,Potatoes,Nandi,114.76
+2018-07-27,Coffee,Uasin Gishu,135.51
+2021-12-05,Sorghum,Meru,154.85
+2017-06-27,Tea,Nairobi,92.91
+2018-02-08,Wheat,Nairobi,73.57
+2022-12-23,Cabbage,Uasin Gishu,143.67
+2020-12-26,Beans,Kericho,141.33
+2017-09-22,Potatoes,Nandi,114.98
+2021-10-18,Tomatoes,Kericho,72.78
+2021-12-31,Wheat,Kericho,149.02
+2021-05-09,Sorghum,Nairobi,61.41
+2023-09-06,Tomatoes,Kisii,45.24
+2020-11-21,Potatoes,Muranga,135.59
+2018-05-22,Beans,Meru,107.64
+2019-11-20,Maize,Nakuru,69.58
+2022-09-10,Sorghum,Kericho,120.51
+2022-10-05,Tomatoes,Embu,132.01
+2015-06-14,Sorghum,Nakuru,141.35
+2017-09-25,Coffee,Kiambu,73.86
+2022-01-11,Tomatoes,Kisii,43.07
+2018-07-31,Wheat,Nakuru,101.2
+2022-01-08,Maize,Uasin Gishu,142.73
+2016-10-18,Maize,Muranga,64.94
+2022-04-14,Tea,Nandi,90.54
+2021-01-20,Sorghum,Uasin Gishu,70.77
+2020-03-24,Cabbage,Kericho,41.6
+2020-08-08,Maize,Kisii,147.82
+2020-10-12,Maize,Kisii,56.21
+2023-08-29,Coffee,Kericho,132.01
+2018-02-14,Sugarcane,Muranga,81.59
+2020-03-04,Coffee,Nairobi,73.32
+2015-09-24,Coffee,Nakuru,152.92
+2020-01-20,Sugarcane,Embu,118.86
+2019-09-05,Sorghum,Kericho,122.43
+2023-10-17,Tomatoes,Embu,131.16
+2021-04-12,Beans,Nakuru,80.91
+2021-09-08,Cabbage,Muranga,107.64
+2019-02-19,Maize,Nairobi,72.43
+2016-04-20,Tea,Nandi,140.14
+2017-09-03,Cabbage,Muranga,111.92
+2018-04-22,Tomatoes,Embu,69.21
+2017-11-09,Sugarcane,Kisii,147.97
+2020-05-14,Cabbage,Kisii,109.7
+2016-07-11,Maize,Kiambu,99.4
+2017-10-14,Cabbage,Meru,44.14
+2019-05-25,Beans,Uasin Gishu,149.18
+2017-06-01,Sugarcane,Uasin Gishu,154.27
+2021-01-03,Cabbage,Kericho,107.51
+2016-10-27,Maize,Embu,93.1
+2022-04-21,Maize,Uasin Gishu,83.15
+2019-11-07,Cabbage,Uasin Gishu,72.17
+2022-11-07,Sorghum,Muranga,108.94
+2017-05-13,Tea,Nandi,55.37
+2016-08-04,Potatoes,Embu,150.3
+2023-05-29,Coffee,Kiambu,61.12
+2016-11-25,Sugarcane,Nandi,129.46
+2018-06-05,Potatoes,Kiambu,76.83
+2023-09-09,Tomatoes,Embu,67.13
+2019-05-30,Tomatoes,Nairobi,106.94
+2018-05-24,Maize,Nairobi,131.81
+2021-09-20,Tomatoes,Uasin Gishu,127.21
+2016-02-03,Sorghum,Kericho,68.05
+2020-04-30,Tea,Kisii,79.66
+2016-12-15,Tomatoes,Muranga,144.26
+2016-12-04,Beans,Uasin Gishu,126.79
+2022-09-09,Tea,Meru,125.52
+2021-12-21,Sorghum,Nairobi,72.27
+2019-09-11,Potatoes,Uasin Gishu,135.04
+2020-05-26,Tea,Kisii,83.01
+2023-04-10,Tea,Kiambu,88.17
+2015-03-23,Potatoes,Kiambu,74.51
+2016-08-26,Sorghum,Nakuru,54.57
+2020-05-24,Tomatoes,Muranga,90.45
+2019-09-07,Maize,Kericho,42.03
+2020-08-08,Sugarcane,Kiambu,94.71
+2022-09-20,Potatoes,Nakuru,127.0
+2017-06-21,Potatoes,Nairobi,155.29
+2015-12-31,Potatoes,Kiambu,49.43
+2015-06-12,Potatoes,Kericho,73.75
+2023-07-17,Sugarcane,Uasin Gishu,99.3
+2022-01-02,Sugarcane,Kisii,60.45
+2020-02-07,Tomatoes,Meru,54.02
+2015-04-26,Cabbage,Kiambu,94.28
+2023-03-08,Cabbage,Meru,109.69
+2021-07-12,Wheat,Meru,138.42
+2017-05-30,Potatoes,Meru,159.74
+2022-08-16,Potatoes,Nandi,132.91
+2017-04-19,Tea,Meru,66.56
+2021-01-03,Cabbage,Nandi,129.76
+2018-09-08,Tomatoes,Kisii,104.46
+2021-10-26,Maize,Meru,94.1
+2022-11-24,Wheat,Nakuru,152.29
+2017-11-02,Wheat,Meru,124.25
+2017-07-31,Tomatoes,Embu,121.8
+2019-09-21,Maize,Muranga,41.41
+2021-05-23,Tea,Nakuru,143.81
+2022-07-30,Sugarcane,Kericho,135.2
+2018-02-11,Coffee,Kiambu,75.87
+2021-12-02,Cabbage,Kisii,75.05
+2015-01-22,Potatoes,Kisii,46.42
+2019-10-16,Tomatoes,Embu,46.1
+2016-11-13,Cabbage,Embu,120.23
+2023-02-01,Potatoes,Embu,62.35
+2020-01-08,Coffee,Embu,150.83
+2021-06-25,Coffee,Embu,141.09
+2015-05-06,Sugarcane,Nairobi,81.87
+2015-10-04,Sorghum,Uasin Gishu,85.61
+2020-06-22,Coffee,Kisii,79.27
+2018-05-12,Cabbage,Embu,51.09
+2021-02-19,Beans,Kiambu,43.77
+2016-11-26,Beans,Nairobi,94.26
+2018-08-02,Potatoes,Nakuru,153.16
+2015-02-26,Potatoes,Nakuru,150.07
+2023-11-09,Sorghum,Nandi,137.18
+2015-01-19,Beans,Uasin Gishu,115.43
+2021-04-30,Potatoes,Nakuru,142.75
+2022-10-12,Coffee,Embu,101.81
+2015-04-23,Potatoes,Kisii,61.62
+2016-06-25,Wheat,Nandi,122.1
+2022-05-18,Sorghum,Muranga,150.48
+2016-08-01,Tomatoes,Nairobi,42.35
+2017-12-24,Maize,Muranga,70.17
+2015-01-25,Tea,Muranga,71.85
+2019-04-22,Maize,Embu,51.88
+2020-08-10,Maize,Muranga,67.06
+2023-02-06,Sugarcane,Muranga,86.08
+2019-04-22,Tomatoes,Nakuru,152.78
+2015-05-21,Potatoes,Kericho,143.23
+2019-11-03,Sugarcane,Nandi,153.52
+2016-10-09,Maize,Muranga,54.47
+2021-02-13,Wheat,Uasin Gishu,43.37
+2023-10-05,Tea,Kiambu,53.19
+2015-07-20,Maize,Nandi,149.72
+2023-10-04,Beans,Uasin Gishu,58.9
+2015-09-14,Tomatoes,Kiambu,108.72
+2016-06-30,Tomatoes,Muranga,67.31
+2021-02-19,Tomatoes,Kericho,42.48
+2022-07-13,Sorghum,Meru,50.15
+2023-09-11,Sorghum,Kisii,125.18
+2017-03-12,Coffee,Uasin Gishu,61.88
+2017-07-30,Cabbage,Muranga,67.5
+2016-02-18,Tea,Nandi,85.27
+2020-07-07,Sugarcane,Nakuru,118.87
+2018-10-13,Potatoes,Muranga,96.32
+2018-01-03,Maize,Meru,153.35
+2017-06-28,Cabbage,Muranga,92.1
+2015-07-07,Potatoes,Muranga,63.9
+2020-07-08,Sugarcane,Kisii,104.34
+2018-08-06,Cabbage,Nakuru,94.11
+2020-09-23,Potatoes,Uasin Gishu,134.46
+2020-10-31,Wheat,Embu,152.21
+2018-02-20,Sorghum,Embu,140.36
+2015-12-24,Sugarcane,Nandi,86.68
+2019-04-01,Tea,Kericho,65.93
+2017-12-25,Beans,Muranga,149.74
+2023-03-03,Wheat,Nandi,86.31
+2019-08-08,Sorghum,Kericho,132.42
+2021-08-19,Tomatoes,Uasin Gishu,158.74
+2015-06-11,Sorghum,Uasin Gishu,109.29
+2023-12-04,Cabbage,Nakuru,97.59
+2021-06-27,Coffee,Embu,123.98
+2016-03-25,Wheat,Embu,63.27
+2019-02-06,Tomatoes,Nandi,98.59
+2017-11-02,Cabbage,Kisii,77.48
+2021-02-09,Sugarcane,Embu,59.71
+2020-11-28,Tea,Kisii,113.22
+2020-05-04,Sorghum,Kisii,109.08
+2021-12-30,Sugarcane,Uasin Gishu,131.34
+2018-08-06,Tomatoes,Nakuru,144.76
+2021-05-31,Cabbage,Nandi,66.45
+2023-01-30,Coffee,Kiambu,133.56
+2018-05-23,Sorghum,Nandi,84.09
+2017-08-31,Tea,Kisii,115.46
+2016-09-23,Coffee,Kericho,142.03
+2019-05-10,Potatoes,Kericho,70.74
+2017-11-16,Cabbage,Nakuru,112.12
+2022-08-12,Sugarcane,Uasin Gishu,97.64
+2019-05-08,Sorghum,Uasin Gishu,134.87
+2021-06-26,Sorghum,Kisii,123.67
+2023-02-08,Tomatoes,Kisii,132.36
+2019-08-21,Tea,Meru,74.55
+2016-03-12,Beans,Meru,124.52
+2022-09-29,Potatoes,Kisii,112.7
+2019-04-06,Coffee,Embu,94.8
+2017-12-12,Wheat,Nandi,85.4
+2018-07-28,Wheat,Embu,79.79
+2022-08-05,Sorghum,Uasin Gishu,41.16
+2020-09-09,Tomatoes,Kiambu,60.35
+2021-07-12,Maize,Nandi,47.08
+2015-07-02,Sorghum,Embu,141.8
+2023-06-22,Wheat,Embu,143.21
+2022-02-04,Wheat,Nairobi,141.54
+2019-01-09,Potatoes,Nandi,138.15
+2023-08-12,Sugarcane,Kiambu,66.56
+2023-06-09,Maize,Nakuru,99.01
+2019-01-19,Sorghum,Nakuru,148.94
+2019-05-09,Potatoes,Embu,131.17
+2019-05-07,Tomatoes,Kisii,40.22
+2016-10-21,Potatoes,Kiambu,95.13
+2015-06-09,Sorghum,Kiambu,41.28
+2023-06-13,Cabbage,Uasin Gishu,73.68
+2023-11-24,Beans,Kericho,92.29
+2021-09-25,Sorghum,Nairobi,147.15
+2017-10-08,Tea,Uasin Gishu,118.53
+2015-02-22,Wheat,Kiambu,83.5
+2021-09-21,Maize,Muranga,98.88
+2022-12-04,Maize,Kisii,138.09
+2017-11-11,Sugarcane,Kiambu,75.96
+2017-11-19,Beans,Nairobi,113.8
+2022-07-13,Tea,Kiambu,71.47
+2021-04-26,Wheat,Nandi,97.6
+2018-05-13,Maize,Nandi,42.96
+2023-07-28,Tea,Meru,142.27
+2019-02-03,Potatoes,Nairobi,45.8
+2022-09-24,Sugarcane,Embu,66.92
+2019-01-29,Sorghum,Kericho,80.02
+2017-11-01,Sorghum,Embu,115.02
+2020-05-04,Cabbage,Kericho,126.4
+2017-04-29,Wheat,Kericho,49.65
+2015-12-20,Tea,Kericho,45.22
+2018-01-03,Coffee,Nakuru,135.88
+2022-12-30,Maize,Kericho,125.46
+2019-10-06,Tomatoes,Kiambu,139.79
+2019-01-04,Tomatoes,Muranga,121.18
+2017-09-17,Sorghum,Nairobi,130.12
+2018-06-18,Coffee,Muranga,85.48
+2023-05-24,Tomatoes,Meru,110.82
+2020-02-28,Beans,Kiambu,136.65
+2023-10-31,Beans,Kericho,60.65
+2019-12-15,Wheat,Nakuru,90.74
+2023-09-03,Coffee,Uasin Gishu,128.86
+2021-05-30,Beans,Embu,103.92
+2021-03-06,Beans,Nandi,121.8
+2018-01-16,Sorghum,Nairobi,75.14
+2017-03-28,Tomatoes,Muranga,43.88
+2019-12-05,Wheat,Kiambu,43.5
+2020-05-14,Tea,Uasin Gishu,153.13
+2021-09-03,Potatoes,Kisii,153.34
+2021-06-30,Maize,Kisii,65.35
+2023-03-07,Maize,Nandi,57.7
+2017-06-07,Sugarcane,Kisii,42.18
+2020-01-30,Potatoes,Embu,67.75
+2018-03-26,Potatoes,Meru,80.12
+2016-10-29,Maize,Kisii,68.95
+2016-09-24,Maize,Nandi,135.69
+2022-03-09,Tea,Meru,129.93
+2019-07-01,Coffee,Embu,49.72
+2015-05-17,Coffee,Nandi,123.68
+2020-04-30,Tea,Kisii,102.47
+2019-08-25,Tomatoes,Kericho,55.86
+2016-03-03,Potatoes,Nairobi,128.74
+2019-01-15,Cabbage,Kisii,50.33
+2022-04-13,Potatoes,Nandi,61.26
+2023-02-06,Sugarcane,Nairobi,57.91
+2017-03-29,Maize,Nairobi,152.68
+2020-12-28,Potatoes,Meru,123.78
+2018-01-11,Maize,Embu,89.35
+2021-02-02,Potatoes,Kisii,138.66
+2015-07-17,Sugarcane,Uasin Gishu,65.92
+2022-04-25,Tomatoes,Kericho,151.73
+2020-06-18,Cabbage,Embu,123.64
+2022-07-01,Beans,Uasin Gishu,107.15
+2021-09-14,Tea,Uasin Gishu,135.36
+2016-04-15,Tea,Muranga,117.37
+2021-03-15,Cabbage,Meru,146.45
+2020-05-02,Potatoes,Nakuru,139.5
+2017-07-17,Beans,Kiambu,63.74
+2020-07-03,Sugarcane,Kiambu,68.76
+2022-05-03,Coffee,Meru,47.81
+2023-03-18,Potatoes,Meru,66.42
+2017-06-24,Tomatoes,Uasin Gishu,81.22
+2021-01-31,Maize,Meru,43.46
+2015-01-23,Wheat,Uasin Gishu,77.8
+2015-08-23,Potatoes,Embu,132.59
+2023-06-12,Wheat,Nakuru,140.84
+2018-01-29,Potatoes,Muranga,41.06
+2017-07-17,Cabbage,Uasin Gishu,40.86
+2016-06-06,Wheat,Meru,57.56
+2019-12-14,Potatoes,Nairobi,144.71
+2016-03-06,Tea,Kisii,96.31
+2017-03-03,Wheat,Kiambu,157.95
+2019-06-18,Potatoes,Nakuru,146.48
+2019-10-03,Coffee,Kisii,146.82
+2016-06-16,Maize,Nandi,55.42
+2023-04-15,Coffee,Meru,97.03
+2019-10-13,Beans,Uasin Gishu,159.23
+2019-08-03,Potatoes,Muranga,57.89
+2018-08-09,Sorghum,Nairobi,108.91
+2022-10-28,Tomatoes,Muranga,81.31
+2017-07-01,Coffee,Kisii,86.54
+2018-01-29,Wheat,Nairobi,146.9
+2019-03-06,Cabbage,Kericho,110.55
+2018-08-20,Tomatoes,Kiambu,131.05
+2022-12-28,Sorghum,Meru,120.79
+2022-01-31,Sugarcane,Nandi,103.48
+2017-10-20,Potatoes,Kisii,135.01
+2019-04-26,Cabbage,Uasin Gishu,156.49
+2018-10-10,Potatoes,Kiambu,156.02
+2019-02-28,Beans,Nandi,134.73
+2019-08-09,Sorghum,Muranga,98.48
+2020-06-20,Potatoes,Kiambu,59.58
+2015-08-15,Wheat,Nandi,45.34
+2018-06-13,Beans,Nandi,67.77
+2017-05-22,Tea,Muranga,80.83
+2017-06-10,Sugarcane,Nandi,55.58
+2019-01-18,Sorghum,Nakuru,66.97
+2017-11-02,Maize,Nairobi,50.03
+2021-03-07,Cabbage,Nakuru,102.84
+2022-08-20,Coffee,Muranga,55.16
+2016-02-01,Potatoes,Embu,129.13
+2018-01-28,Cabbage,Kiambu,79.92
+2020-09-09,Cabbage,Kericho,120.65
+2023-01-24,Maize,Uasin Gishu,145.9
+2016-10-10,Maize,Uasin Gishu,50.32
+2015-11-25,Beans,Kisii,158.68
+2023-11-12,Sorghum,Kisii,117.43
+2019-01-22,Wheat,Muranga,46.4
+2017-08-09,Sugarcane,Kisii,77.68
+2020-06-28,Maize,Uasin Gishu,146.35
+2020-07-09,Maize,Nakuru,111.55
+2023-09-07,Coffee,Kericho,74.47
+2022-04-22,Tea,Uasin Gishu,152.86
+2020-02-22,Maize,Nakuru,134.47
+2018-04-11,Tea,Embu,128.26
+2019-11-08,Beans,Muranga,146.61
+2015-06-11,Wheat,Meru,132.37
+2019-10-18,Cabbage,Embu,74.41
+2017-02-14,Maize,Embu,110.07
+2020-01-02,Potatoes,Uasin Gishu,141.07
+2021-05-10,Tea,Muranga,61.7
+2023-06-02,Coffee,Nairobi,59.56
+2017-11-17,Sugarcane,Nandi,59.08
+2021-07-01,Coffee,Embu,63.31
+2017-07-28,Maize,Kisii,52.39
+2023-10-26,Sorghum,Nakuru,140.52
+2016-06-23,Cabbage,Nairobi,138.2
+2021-12-10,Wheat,Muranga,58.16
+2017-04-01,Potatoes,Meru,124.66
+2019-01-01,Sorghum,Kericho,115.24
+2017-12-24,Coffee,Nairobi,73.14
+2015-12-22,Tea,Meru,67.28
+2015-08-23,Tea,Uasin Gishu,70.07
+2021-03-24,Sorghum,Kiambu,127.68
+2019-03-29,Tea,Nandi,78.32
+2020-09-27,Coffee,Uasin Gishu,73.36
+2015-04-28,Sorghum,Muranga,42.7
+2020-10-02,Coffee,Kiambu,148.99
+2019-08-01,Potatoes,Meru,130.32
+2022-02-25,Cabbage,Kiambu,96.73
+2017-12-03,Sugarcane,Kericho,153.15
+2020-10-01,Potatoes,Kisii,75.22
+2016-07-11,Potatoes,Kisii,120.96
+2023-09-09,Tea,Uasin Gishu,76.62
+2019-12-21,Maize,Uasin Gishu,77.75
+2020-06-28,Tomatoes,Muranga,141.37
+2022-12-25,Tea,Muranga,134.44
+2016-02-02,Maize,Nakuru,75.29
+2023-10-15,Coffee,Kericho,49.77
+2016-11-05,Tomatoes,Muranga,82.91
+2016-01-22,Tea,Embu,131.21
+2020-11-28,Tomatoes,Kericho,52.07
+2022-04-15,Tomatoes,Nakuru,120.65
+2020-08-26,Beans,Kisii,146.77
+2023-11-28,Cabbage,Nairobi,61.51
+2017-06-02,Beans,Nakuru,143.46
+2016-06-24,Maize,Nakuru,46.16
+2015-06-20,Wheat,Uasin Gishu,120.03
+2021-09-22,Sorghum,Nandi,134.92
+2017-01-09,Sugarcane,Kiambu,93.37
+2018-11-02,Wheat,Kisii,64.45
+2023-12-04,Sorghum,Meru,150.97
+2022-12-15,Maize,Meru,42.4
+2021-03-27,Maize,Muranga,106.61
+2015-04-29,Coffee,Kisii,84.74
+2023-11-02,Sugarcane,Embu,95.33
+2022-10-02,Cabbage,Muranga,104.39
+2021-11-17,Tomatoes,Muranga,104.17
+2020-11-21,Beans,Nakuru,64.43
+2022-07-08,Beans,Kisii,121.56
+2020-06-18,Maize,Kiambu,42.3
+2019-09-02,Beans,Muranga,42.54
+2019-09-19,Maize,Nandi,97.42
+2021-01-31,Tomatoes,Kericho,105.03
+2022-08-24,Maize,Embu,72.99
+2019-08-25,Coffee,Embu,106.2
+2018-12-15,Cabbage,Muranga,101.93
+2023-10-11,Potatoes,Nandi,81.91
+2019-10-26,Tea,Kericho,118.21
+2019-03-05,Cabbage,Nairobi,154.95
+2016-10-26,Cabbage,Uasin Gishu,98.9
+2015-02-02,Wheat,Uasin Gishu,134.33
+2020-10-03,Sugarcane,Uasin Gishu,69.71
+2022-01-10,Sugarcane,Nakuru,131.43
+2022-09-04,Sorghum,Embu,117.87
+2020-08-21,Tea,Meru,116.76
+2019-04-01,Tomatoes,Meru,147.16
+2016-12-20,Potatoes,Nakuru,68.0
+2022-02-15,Potatoes,Muranga,84.21
+2021-08-17,Sugarcane,Kisii,49.97
+2016-04-28,Cabbage,Kisii,127.13
+2017-08-30,Coffee,Uasin Gishu,141.26
+2022-04-24,Sorghum,Kisii,88.7
+2015-11-03,Maize,Muranga,82.82
+2016-04-01,Sorghum,Nairobi,119.04
+2021-01-16,Wheat,Nakuru,49.07
+2015-11-27,Sorghum,Nairobi,75.26
+2022-09-24,Cabbage,Embu,83.95
+2015-08-13,Tomatoes,Kisii,102.23
+2023-04-19,Cabbage,Kericho,97.19
+2022-08-08,Sugarcane,Uasin Gishu,65.04
+2019-01-19,Tomatoes,Nakuru,104.89
+2023-07-14,Beans,Uasin Gishu,151.1
+2023-12-30,Tomatoes,Kisii,43.25
+2017-12-18,Sorghum,Kiambu,121.64
+2016-10-05,Sorghum,Kisii,114.97
+2016-09-07,Sorghum,Nakuru,150.93
+2015-07-14,Beans,Meru,117.44
+2016-05-03,Sugarcane,Nakuru,114.98
+2021-01-13,Maize,Nandi,132.38
+2022-04-11,Tea,Kericho,72.14
+2018-06-03,Sugarcane,Kisii,111.49
+2021-09-25,Sorghum,Nandi,102.33
+2023-12-21,Sugarcane,Meru,92.62
+2018-01-07,Wheat,Muranga,49.54
+2018-02-21,Potatoes,Muranga,75.12
+2021-11-23,Potatoes,Kericho,73.6
+2018-05-26,Tea,Embu,126.91
+2016-05-30,Tea,Kericho,150.48
+2019-06-14,Maize,Kericho,67.69
+2018-02-01,Wheat,Kericho,48.95
+2016-01-28,Cabbage,Kericho,159.99
+2016-09-22,Sugarcane,Kericho,122.94
+2020-01-22,Tomatoes,Nairobi,146.38
+2022-04-09,Tomatoes,Meru,57.27
+2017-09-06,Cabbage,Nakuru,136.09
+2016-03-09,Potatoes,Kisii,137.6
+2023-10-20,Cabbage,Nandi,58.18
+2022-01-31,Sugarcane,Kericho,59.37
+2015-10-05,Wheat,Embu,75.45
+2015-08-21,Sorghum,Uasin Gishu,66.01
+2019-04-02,Beans,Kisii,157.05
+2019-05-14,Sorghum,Uasin Gishu,83.55
+2018-01-18,Beans,Nandi,131.36
+2023-12-15,Tomatoes,Nandi,136.61
+2021-08-06,Tea,Kisii,86.31
+2015-01-26,Sugarcane,Embu,121.91
+2023-06-24,Sorghum,Nairobi,52.94
+2018-11-18,Cabbage,Muranga,87.64
+2021-12-29,Wheat,Nandi,156.08
+2021-05-03,Wheat,Embu,60.22
+2016-04-05,Potatoes,Nandi,86.29
+2021-11-08,Wheat,Kiambu,134.86
+2017-12-27,Wheat,Muranga,119.85
+2017-10-03,Tea,Nandi,115.78
+2022-12-20,Cabbage,Embu,142.39
+2020-06-17,Tomatoes,Nandi,43.49
+2016-05-05,Wheat,Uasin Gishu,132.54
+2017-12-08,Tomatoes,Kisii,145.91
+2022-02-24,Tea,Kisii,41.94
+2023-09-09,Wheat,Nandi,107.08
+2015-08-04,Sugarcane,Embu,81.83
+2019-09-20,Potatoes,Uasin Gishu,46.09
+2019-05-12,Sorghum,Nairobi,90.13
+2022-02-19,Sugarcane,Nairobi,117.28
+2015-06-08,Coffee,Uasin Gishu,150.28
+2021-12-11,Maize,Nakuru,114.46
+2016-11-16,Wheat,Embu,142.81
+2022-10-12,Tomatoes,Nairobi,54.59
+2019-11-12,Maize,Nakuru,65.26
+2020-08-14,Beans,Embu,156.44
+2020-01-18,Wheat,Uasin Gishu,146.49
+2021-08-05,Coffee,Kericho,68.23
+2021-11-11,Tea,Nakuru,114.52
+2021-04-14,Potatoes,Nakuru,83.52
+2019-05-09,Coffee,Nandi,96.23
+2019-08-24,Tomatoes,Meru,143.31
+2023-03-13,Tea,Meru,128.29
+2021-10-05,Sorghum,Embu,68.61
+2020-04-30,Tea,Nandi,77.92
+2020-08-24,Wheat,Kisii,74.77
+2022-08-15,Maize,Muranga,133.68
+2018-02-19,Maize,Kericho,98.81
+2021-05-13,Tomatoes,Muranga,154.09
+2019-05-01,Tea,Nakuru,138.0
+2021-11-05,Coffee,Kiambu,65.34
+2022-03-30,Tomatoes,Nairobi,134.31
+2021-10-29,Potatoes,Nairobi,100.73
+2021-03-07,Tomatoes,Nandi,70.45
+2022-07-24,Tomatoes,Meru,83.6
+2021-06-07,Sorghum,Kiambu,156.66
+2020-04-16,Sugarcane,Nandi,98.08
+2019-10-24,Wheat,Nakuru,126.35
+2020-08-12,Sorghum,Kiambu,97.25
+2017-09-16,Maize,Nairobi,84.59
+2019-03-22,Maize,Embu,135.57
+2018-01-21,Beans,Nakuru,141.8
+2022-01-11,Beans,Nandi,48.63
+2016-05-07,Coffee,Kisii,73.48
+2016-09-11,Maize,Uasin Gishu,100.94
+2023-11-07,Sugarcane,Nakuru,77.98
+2021-07-06,Sorghum,Nakuru,134.03
+2021-07-08,Potatoes,Kisii,53.77
+2020-09-28,Sugarcane,Kericho,135.74
+2019-03-27,Beans,Embu,114.15
+2017-05-12,Tea,Kisii,74.72
+2019-08-19,Sugarcane,Muranga,81.33
+2019-05-25,Sugarcane,Muranga,61.95
+2021-05-08,Sugarcane,Nakuru,70.31
+2016-08-02,Sugarcane,Kericho,126.07
+2020-03-05,Sugarcane,Nairobi,85.11
+2018-06-29,Beans,Kericho,122.5
+2022-02-20,Maize,Muranga,101.69
+2022-07-06,Tomatoes,Kericho,57.44
+2020-01-30,Sugarcane,Kericho,99.89
+2023-08-28,Sugarcane,Embu,130.78
+2021-10-29,Wheat,Nakuru,75.72
+2023-05-23,Maize,Embu,117.77
+2018-09-17,Tomatoes,Nairobi,63.88
+2018-03-08,Potatoes,Nairobi,56.28
+2015-12-23,Potatoes,Muranga,83.23
+2019-06-13,Tea,Nandi,86.7
+2021-05-10,Cabbage,Kisii,131.32
+2023-06-18,Sorghum,Meru,95.21
+2020-06-29,Wheat,Nakuru,49.75
+2021-06-16,Maize,Nandi,116.08
+2017-05-19,Maize,Nakuru,96.31
+2017-06-04,Cabbage,Kisii,79.8
+2020-06-24,Tea,Kisii,136.27
+2021-01-10,Coffee,Kiambu,58.53
+2018-11-14,Beans,Embu,149.59
+2018-07-07,Tea,Muranga,80.09
+2016-09-11,Tomatoes,Kiambu,95.31
+2017-06-01,Tea,Nairobi,151.51
+2017-03-07,Cabbage,Meru,131.35
+2020-12-12,Cabbage,Muranga,48.92
+2018-07-20,Sorghum,Nairobi,109.4
+2016-09-10,Wheat,Kericho,77.24
+2020-01-09,Sugarcane,Embu,101.02
+2015-09-02,Potatoes,Embu,129.16
+2022-12-05,Cabbage,Embu,99.54
+2021-11-02,Sorghum,Kiambu,48.52
+2017-07-18,Beans,Uasin Gishu,103.6
+2018-06-24,Potatoes,Nandi,42.9
+2016-06-03,Coffee,Kisii,81.81
+2023-10-18,Maize,Meru,97.36
+2021-08-06,Beans,Kisii,117.36
+2015-01-08,Coffee,Uasin Gishu,100.74
+2021-11-30,Potatoes,Kericho,58.23
+2020-07-12,Beans,Kericho,151.87
+2016-05-09,Sorghum,Kericho,118.04
+2019-06-18,Coffee,Muranga,78.04
+2022-11-20,Maize,Nairobi,155.91
+2017-11-28,Sugarcane,Nairobi,145.91
+2022-03-25,Sorghum,Kericho,57.22
+2015-07-06,Tomatoes,Meru,118.65
+2022-09-02,Maize,Kiambu,107.21
+2020-02-21,Wheat,Meru,63.14
+2020-11-10,Tea,Meru,68.02
+2015-03-27,Wheat,Nairobi,107.65
+2023-07-13,Cabbage,Embu,78.55
+2015-05-17,Sugarcane,Meru,140.18
+2021-10-04,Tomatoes,Meru,51.73
+2020-10-22,Tomatoes,Kisii,149.68
+2019-06-25,Tea,Embu,140.87
+2023-11-02,Coffee,Nairobi,128.63
+2021-01-27,Tea,Kiambu,71.51
+2019-10-18,Cabbage,Nandi,125.79
+2021-01-26,Wheat,Nairobi,92.65
+2019-11-23,Tomatoes,Nairobi,116.05
+2017-05-21,Wheat,Meru,77.51
+2021-06-27,Maize,Kisii,140.3
+2021-11-08,Sugarcane,Uasin Gishu,44.87
+2017-08-01,Beans,Kericho,122.98
+2019-06-15,Cabbage,Nakuru,139.44
+2022-10-08,Beans,Kisii,117.57
+2022-04-14,Cabbage,Uasin Gishu,63.04
+2023-11-01,Potatoes,Meru,74.2
+2023-01-15,Sugarcane,Meru,101.79
+2015-12-15,Maize,Kiambu,79.53
+2019-08-04,Sugarcane,Uasin Gishu,40.59
+2018-04-11,Coffee,Muranga,44.88
+2015-01-10,Cabbage,Kericho,132.13
+2022-08-19,Beans,Nakuru,50.04
+2019-01-01,Cabbage,Kiambu,151.36
+2016-10-28,Coffee,Kisii,93.13
+2022-02-06,Cabbage,Kisii,130.98
+2019-03-03,Sugarcane,Uasin Gishu,55.06
+2020-12-16,Sorghum,Kericho,151.18
+2016-08-23,Cabbage,Kericho,44.06
+2022-04-06,Potatoes,Kisii,45.06
+2015-11-23,Potatoes,Muranga,46.55
+2017-09-06,Tomatoes,Meru,52.41
+2021-09-17,Potatoes,Kericho,98.42
+2016-09-20,Cabbage,Uasin Gishu,134.59
+2019-06-18,Cabbage,Kisii,74.19
+2022-07-28,Sorghum,Meru,129.49
+2023-06-16,Potatoes,Embu,132.89
+2015-10-01,Wheat,Nairobi,148.99
+2016-11-15,Cabbage,Meru,57.92
+2015-04-26,Maize,Kericho,56.26
+2017-05-10,Maize,Nairobi,54.65
+2020-06-26,Beans,Kericho,83.12
+2016-11-23,Sorghum,Uasin Gishu,98.73
+2023-08-29,Coffee,Nandi,95.39
+2018-01-10,Wheat,Meru,70.85
+2021-06-29,Cabbage,Nairobi,114.64
+2023-03-28,Sugarcane,Uasin Gishu,80.59
+2020-12-01,Tea,Kericho,83.93
+2019-11-28,Tea,Meru,52.66
+2023-07-27,Coffee,Uasin Gishu,111.07
+2015-06-03,Tomatoes,Kericho,118.63
+2020-03-15,Sugarcane,Nandi,130.95
+2018-11-28,Tea,Nandi,148.48
+2018-07-13,Coffee,Nakuru,131.92
+2015-11-11,Tea,Kiambu,68.29
+2017-11-30,Sorghum,Uasin Gishu,68.28
+2015-04-15,Beans,Kiambu,149.81
+2020-04-08,Tomatoes,Nakuru,134.82
+2020-03-28,Sorghum,Muranga,133.87
+2018-05-01,Sugarcane,Meru,126.37
+2018-11-25,Coffee,Kericho,72.06
+2021-07-29,Wheat,Kisii,141.69
+2023-05-22,Sugarcane,Kiambu,57.15
+2019-11-08,Sugarcane,Kiambu,82.0
+2020-05-14,Potatoes,Uasin Gishu,81.58
+2022-08-12,Wheat,Meru,107.22
+2019-05-23,Maize,Uasin Gishu,95.61
+2016-12-09,Potatoes,Nandi,95.18
+2016-10-12,Coffee,Kiambu,106.43
+2022-11-11,Maize,Meru,89.85
+2017-08-04,Tea,Embu,70.0
+2016-10-22,Tea,Muranga,119.69
+2020-11-16,Sugarcane,Kericho,134.88
+2022-03-20,Potatoes,Nakuru,97.48
+2021-05-18,Cabbage,Muranga,117.94
+2021-09-16,Wheat,Nakuru,104.24
+2018-02-06,Maize,Kiambu,47.08
+2016-11-30,Wheat,Muranga,90.77
+2021-02-24,Potatoes,Muranga,41.18
+2020-07-31,Sugarcane,Kericho,119.43
+2021-07-02,Sorghum,Kisii,100.98
+2021-01-10,Tea,Kericho,55.22
+2016-07-05,Maize,Uasin Gishu,105.06
+2016-02-09,Maize,Kisii,147.81
+2016-04-06,Coffee,Muranga,80.86
+2020-12-19,Maize,Kisii,157.88
+2022-10-09,Potatoes,Kisii,155.13
+2017-05-23,Maize,Uasin Gishu,134.24
+2015-03-25,Maize,Meru,137.66
+2018-11-23,Wheat,Kiambu,89.27
+2022-09-02,Sugarcane,Meru,88.3
+2022-04-29,Beans,Kiambu,154.53
+2023-09-16,Maize,Meru,83.94
+2015-08-09,Cabbage,Meru,51.62
+2022-02-13,Sugarcane,Nakuru,58.32
+2018-10-23,Tomatoes,Kisii,125.25
+2023-10-24,Coffee,Nandi,85.96
+2015-04-22,Wheat,Uasin Gishu,63.92
+2016-09-06,Coffee,Meru,137.65
+2019-05-01,Sorghum,Muranga,98.64
+2023-02-19,Maize,Embu,108.12
+2016-04-19,Tea,Nakuru,58.47
+2022-11-23,Cabbage,Embu,63.13
+2020-03-28,Wheat,Nairobi,55.1
+2015-09-28,Coffee,Kericho,101.75
+2021-10-04,Maize,Nairobi,133.08
+2020-04-04,Tea,Kiambu,127.87
+2022-07-17,Tea,Meru,71.35
+2018-10-22,Sorghum,Uasin Gishu,142.19
+2015-02-09,Sugarcane,Muranga,52.68
+2020-06-05,Cabbage,Nandi,53.69
+2021-02-14,Beans,Nandi,141.92
+2023-11-10,Cabbage,Nakuru,69.33
+2017-09-20,Sorghum,Nakuru,124.97
+2020-07-05,Potatoes,Nakuru,41.09
+2022-01-27,Sugarcane,Nakuru,51.23
+2023-06-03,Wheat,Kisii,113.11
+2015-10-17,Sugarcane,Meru,61.89
+2021-10-16,Sorghum,Embu,43.39
+2021-11-23,Sorghum,Meru,96.03
+2023-11-27,Wheat,Meru,79.66
+2022-04-29,Wheat,Nairobi,136.27
+2015-10-06,Wheat,Uasin Gishu,138.26
+2023-01-03,Sugarcane,Muranga,113.73
+2016-08-03,Maize,Kiambu,75.16
+2017-05-12,Coffee,Uasin Gishu,95.4
+2015-09-11,Tomatoes,Nakuru,124.27
+2015-06-30,Wheat,Embu,48.32
+2016-11-11,Coffee,Nairobi,79.9
+2017-04-04,Tomatoes,Kisii,138.68
+2016-11-30,Sugarcane,Embu,88.72
+2022-02-26,Coffee,Nairobi,114.96
+2018-09-11,Wheat,Kericho,51.56
+2018-10-12,Beans,Kisii,133.25
+2019-08-01,Sorghum,Nakuru,52.06
+2022-06-20,Coffee,Kiambu,143.38
+2021-09-04,Tea,Nakuru,52.79
+2019-06-27,Tea,Embu,146.91
+2020-05-11,Coffee,Nakuru,83.65
+2023-08-23,Wheat,Kericho,114.94
+2015-07-31,Cabbage,Nakuru,141.59
+2019-03-19,Wheat,Nairobi,41.23
+2016-01-19,Sugarcane,Nandi,71.88
+2019-09-11,Wheat,Nakuru,149.0
+2015-12-08,Sugarcane,Kericho,86.58
+2020-01-13,Cabbage,Meru,124.77
+2020-06-10,Beans,Meru,56.8
+2017-04-23,Sugarcane,Kiambu,121.4
+2023-07-07,Potatoes,Kiambu,48.78
+2019-03-15,Tea,Kiambu,126.08
+2016-02-24,Sorghum,Uasin Gishu,78.86
+2022-08-30,Tea,Muranga,95.9
+2023-11-15,Sugarcane,Kiambu,59.95
+2020-06-11,Potatoes,Nakuru,115.34
+2020-04-16,Maize,Kiambu,80.51
+2020-01-24,Beans,Muranga,86.01
+2015-11-02,Beans,Uasin Gishu,118.26
+2022-07-12,Maize,Muranga,61.46
+2017-05-18,Sorghum,Embu,142.24
+2022-01-28,Cabbage,Kiambu,128.71
+2018-02-09,Tomatoes,Kiambu,109.33
+2018-12-05,Potatoes,Kiambu,55.4
+2015-07-25,Sugarcane,Embu,122.45
+2023-12-01,Tomatoes,Muranga,42.17
+2016-05-10,Sorghum,Nairobi,136.53
+2023-07-16,Cabbage,Nakuru,76.46
+2020-03-24,Beans,Kericho,54.07
+2021-12-26,Sugarcane,Nakuru,59.74
+2017-11-11,Sugarcane,Kiambu,155.58
+2015-08-01,Cabbage,Uasin Gishu,132.86
+2015-11-06,Tea,Embu,68.54
+2022-06-01,Potatoes,Nairobi,155.62
+2020-06-14,Cabbage,Kisii,56.81
+2022-09-01,Wheat,Nairobi,128.02
+2015-09-29,Wheat,Kericho,118.81
+2019-12-28,Cabbage,Nakuru,138.58
+2023-03-05,Beans,Kiambu,85.8
+2023-12-18,Cabbage,Nandi,88.22
+2020-09-10,Coffee,Kisii,114.95
+2016-03-18,Sorghum,Kiambu,87.78
+2021-01-18,Wheat,Embu,44.96
+2022-09-15,Tomatoes,Kisii,127.56
+2015-09-11,Cabbage,Kericho,116.91
+2016-06-04,Wheat,Nandi,90.85
+2017-09-03,Sorghum,Muranga,76.34
+2015-01-10,Sorghum,Muranga,78.49
+2022-08-05,Tomatoes,Muranga,128.92
+2021-12-27,Sugarcane,Uasin Gishu,127.5
+2022-10-03,Coffee,Muranga,138.27
+2019-05-03,Cabbage,Meru,131.46
+2021-10-19,Maize,Kisii,130.95
+2018-02-08,Cabbage,Nandi,70.21
+2015-06-02,Sugarcane,Embu,52.19
+2019-07-17,Potatoes,Meru,131.41
+2023-02-12,Tea,Meru,51.83
+2022-12-26,Beans,Nandi,157.85
+2023-09-09,Sugarcane,Embu,145.01
+2022-09-01,Sorghum,Kisii,104.02
+2020-01-31,Maize,Nakuru,82.26
+2018-04-29,Beans,Kiambu,103.22
+2019-10-19,Wheat,Nakuru,128.12
+2022-02-23,Cabbage,Kericho,130.76
+2018-01-09,Beans,Nandi,48.84
+2021-12-11,Wheat,Nakuru,136.58
+2017-06-13,Tea,Nakuru,116.98
+2018-01-16,Wheat,Nakuru,44.87
+2023-12-10,Maize,Muranga,77.58
+2015-04-14,Sorghum,Nairobi,101.28
+2023-09-03,Sugarcane,Nakuru,62.61
+2020-03-29,Tomatoes,Kiambu,58.63
+2023-12-14,Sugarcane,Nandi,41.71
+2023-05-31,Sugarcane,Kericho,149.39
+2017-10-03,Wheat,Nairobi,46.73
+2016-02-11,Cabbage,Uasin Gishu,83.92
+2018-11-02,Beans,Kiambu,64.69
+2015-06-16,Tomatoes,Kiambu,128.92
+2016-05-23,Tomatoes,Muranga,124.86
+2019-07-20,Beans,Muranga,136.75
+2021-06-18,Beans,Nandi,114.02
+2017-02-01,Sorghum,Kiambu,111.0
+2016-11-11,Maize,Embu,88.85
+2021-11-29,Tea,Embu,116.36
+2020-10-21,Maize,Nandi,53.82
+2018-03-10,Beans,Nakuru,122.14
+2016-08-04,Cabbage,Meru,52.47
+2015-09-19,Coffee,Uasin Gishu,143.41
+2018-09-25,Coffee,Kericho,100.68
+2018-08-24,Tea,Muranga,103.64
+2021-04-11,Beans,Kericho,110.18
+2019-03-19,Coffee,Meru,133.13
+2016-07-14,Tea,Kisii,97.42
+2018-01-04,Tomatoes,Nandi,91.31
+2020-03-18,Tea,Nakuru,74.6
+2015-06-24,Tomatoes,Nairobi,55.36
+2020-11-26,Sorghum,Nakuru,62.84
+2021-02-08,Coffee,Kiambu,40.06
+2015-07-11,Tea,Nakuru,144.33
+2015-03-06,Tea,Kiambu,131.8
+2023-03-30,Tea,Kericho,66.24
+2019-02-06,Cabbage,Kisii,40.29
+2023-09-07,Tea,Muranga,99.05
+2019-04-17,Cabbage,Kisii,89.51
+2022-12-21,Sugarcane,Kiambu,133.12
+2018-02-25,Sorghum,Nairobi,88.35
+2020-04-21,Sugarcane,Meru,143.69
+2016-01-04,Potatoes,Kericho,51.5
+2017-04-30,Sugarcane,Kericho,83.9
+2015-02-12,Beans,Nakuru,152.07
+2020-03-22,Tomatoes,Muranga,41.41
+2021-12-10,Beans,Nakuru,86.89
+2015-03-19,Maize,Nakuru,71.16
+2022-11-13,Sugarcane,Kiambu,103.82
+2019-12-30,Coffee,Meru,73.45
+2018-07-17,Wheat,Muranga,144.39
+2016-11-04,Sugarcane,Nakuru,152.46
+2016-12-01,Sorghum,Kericho,141.9
+2017-01-28,Sugarcane,Nakuru,87.83
+2020-04-07,Cabbage,Uasin Gishu,158.79
+2022-08-07,Maize,Nandi,128.2
+2023-02-20,Tea,Kericho,82.67
+2017-06-20,Maize,Uasin Gishu,51.24
+2023-01-15,Maize,Nandi,120.05
+2017-09-19,Tomatoes,Nairobi,127.43
+2018-04-06,Wheat,Uasin Gishu,54.7
+2021-07-14,Maize,Kiambu,105.97
+2021-02-18,Tomatoes,Nairobi,158.45
+2019-01-16,Tea,Embu,79.15
+2021-05-19,Beans,Muranga,76.23
+2016-01-25,Tea,Kericho,148.4
+2017-09-26,Coffee,Embu,54.09
+2016-06-08,Maize,Kericho,152.02
+2020-01-30,Maize,Muranga,133.54
+2019-02-15,Beans,Muranga,86.9
+2016-10-20,Sorghum,Kericho,50.03
+2022-07-26,Maize,Muranga,42.3
+2017-06-09,Wheat,Uasin Gishu,85.1
+2019-01-21,Potatoes,Kisii,124.64
+2023-08-27,Maize,Meru,98.5
+2023-09-02,Potatoes,Kericho,128.64
+2016-03-27,Tea,Embu,120.47
+2021-10-11,Sugarcane,Embu,108.75
+2023-10-28,Sorghum,Muranga,156.1
+2019-03-18,Tomatoes,Kericho,127.41
+2023-06-21,Cabbage,Kisii,149.75
+2017-06-01,Sorghum,Kisii,69.06
+2015-11-09,Cabbage,Meru,125.64
+2017-04-19,Tea,Uasin Gishu,111.74
+2022-01-10,Sorghum,Meru,150.92
+2023-12-22,Tomatoes,Kiambu,101.25
+2016-01-10,Cabbage,Embu,73.56
+2016-03-26,Beans,Kisii,86.18
+2023-05-21,Wheat,Muranga,66.26
+2016-08-17,Sorghum,Kisii,66.4
+2023-11-25,Tea,Kisii,96.45
+2018-05-18,Maize,Nandi,147.11
+2016-05-14,Tomatoes,Embu,63.02
+2016-04-08,Cabbage,Kiambu,74.54
+2023-10-01,Cabbage,Meru,142.36
+2015-04-23,Wheat,Kiambu,80.71
+2017-11-01,Cabbage,Nandi,155.49
+2023-10-03,Potatoes,Uasin Gishu,72.27
+2021-07-06,Coffee,Kiambu,93.06
+2020-04-08,Potatoes,Kisii,51.47
+2015-05-20,Cabbage,Nairobi,159.06
+2018-11-25,Tomatoes,Kericho,146.82
+2023-01-28,Sorghum,Kiambu,138.11
+2023-09-04,Tea,Kericho,58.88
+2016-05-31,Maize,Nandi,156.32
+2022-03-01,Sorghum,Kiambu,151.5
+2020-05-01,Beans,Kiambu,92.28
+2022-12-03,Sorghum,Nakuru,121.8
+2023-08-07,Sorghum,Kisii,159.1
+2020-12-05,Tea,Muranga,89.17
+2017-06-06,Wheat,Kericho,53.57
+2023-07-28,Cabbage,Uasin Gishu,144.13
+2023-07-02,Wheat,Nakuru,97.18
+2018-09-03,Beans,Kisii,158.44
+2015-02-19,Sugarcane,Nandi,106.11
+2015-01-19,Maize,Kericho,43.54
+2016-12-26,Potatoes,Meru,99.01
+2021-02-22,Maize,Nandi,126.17
+2019-01-13,Cabbage,Muranga,43.12
+2022-02-19,Maize,Kericho,89.61
+2016-03-27,Coffee,Nandi,58.67
+2021-05-25,Potatoes,Nakuru,117.17
+2018-03-10,Beans,Nandi,154.88
+2018-01-12,Cabbage,Muranga,114.95
+2021-09-04,Tomatoes,Muranga,123.39
+2015-08-03,Beans,Nairobi,87.59
+2019-03-30,Coffee,Kiambu,107.58
+2021-03-12,Potatoes,Meru,105.26
+2015-05-08,Tea,Meru,131.15
+2020-01-20,Coffee,Nakuru,142.83
+2017-01-29,Beans,Muranga,119.55
+2021-09-17,Cabbage,Nairobi,157.58
+2023-06-28,Sugarcane,Kisii,139.39
+2019-12-21,Cabbage,Nairobi,54.96
+2021-07-13,Potatoes,Uasin Gishu,100.9
+2022-11-18,Sugarcane,Nandi,148.39
+2022-07-24,Wheat,Kiambu,153.27
+2015-12-27,Potatoes,Nairobi,85.62
+2016-07-22,Potatoes,Nandi,127.08
+2018-11-16,Coffee,Kiambu,89.27
+2021-03-15,Cabbage,Kericho,54.84
+2019-05-17,Beans,Uasin Gishu,146.15
+2019-08-20,Tea,Uasin Gishu,151.83
+2015-07-21,Maize,Muranga,100.57
+2020-08-26,Sorghum,Uasin Gishu,42.2
+2021-06-27,Tea,Kericho,137.92
+2016-06-01,Maize,Muranga,97.24
+2018-09-10,Wheat,Embu,49.0
+2018-12-06,Beans,Kisii,62.73
+2018-09-03,Cabbage,Nakuru,58.25
+2016-11-11,Tomatoes,Nandi,122.35
+2020-06-11,Potatoes,Kisii,75.93
+2023-08-20,Tea,Kisii,55.32
+2019-01-31,Maize,Meru,150.12
+2016-02-29,Tomatoes,Nairobi,154.78
+2020-05-22,Tea,Uasin Gishu,56.63
+2019-09-09,Beans,Embu,67.63
+2023-12-20,Cabbage,Nairobi,111.05
+2023-05-25,Sugarcane,Nakuru,58.06
+2021-08-31,Tea,Nairobi,59.03
+2017-02-16,Tea,Meru,80.39
+2020-11-15,Cabbage,Nakuru,153.9
+2020-01-01,Wheat,Kericho,155.49
+2015-07-27,Coffee,Kericho,141.01
+2019-03-18,Tea,Muranga,123.49
+2019-07-18,Cabbage,Nairobi,126.48
+2022-03-18,Coffee,Nandi,96.35
+2021-01-22,Cabbage,Embu,103.62
+2015-01-22,Cabbage,Meru,116.13
+2015-06-03,Wheat,Nakuru,127.75
+2020-05-16,Cabbage,Embu,51.62
+2015-08-07,Beans,Nairobi,66.99
+2016-10-30,Tea,Nandi,155.55
+2019-02-27,Maize,Nairobi,80.22
+2021-03-27,Maize,Uasin Gishu,72.22
+2020-08-29,Maize,Uasin Gishu,90.63
+2022-02-13,Cabbage,Meru,74.91
+2017-08-07,Tomatoes,Nakuru,50.94
+2021-01-04,Coffee,Nakuru,64.96
+2023-09-15,Coffee,Kisii,116.82
+2016-02-07,Cabbage,Meru,66.78
+2016-08-18,Beans,Meru,117.72
+2021-08-11,Beans,Nandi,52.01
+2018-12-08,Potatoes,Uasin Gishu,45.03
+2022-10-20,Cabbage,Nakuru,143.39
+2023-02-13,Sorghum,Nairobi,131.2
+2018-03-03,Wheat,Meru,119.92
+2019-10-09,Maize,Muranga,43.71
+2018-07-30,Wheat,Kiambu,68.72
+2015-03-14,Maize,Nakuru,137.48
+2016-04-25,Sugarcane,Kericho,57.36
+2016-07-13,Sugarcane,Nakuru,137.54
+2017-01-14,Cabbage,Muranga,110.11
+2019-01-06,Sugarcane,Nakuru,128.84
+2015-04-10,Tomatoes,Muranga,117.34
+2017-12-18,Potatoes,Kiambu,90.04
+2021-12-30,Beans,Kisii,75.04
+2021-04-24,Tomatoes,Nandi,120.73
+2016-02-17,Wheat,Kiambu,136.83
+2017-12-24,Wheat,Embu,45.37
+2022-03-27,Sugarcane,Kisii,85.59
+2018-03-23,Beans,Nandi,82.09
+2020-07-01,Potatoes,Uasin Gishu,107.14
+2021-05-02,Maize,Muranga,53.67
+2017-03-31,Tomatoes,Meru,152.01
+2023-08-17,Potatoes,Embu,105.82
+2016-10-23,Tea,Kiambu,150.85
+2023-03-14,Coffee,Nakuru,138.03
+2016-07-13,Sugarcane,Kiambu,63.0
+2023-02-12,Maize,Nandi,55.88
+2023-01-17,Tea,Embu,143.35
+2018-06-25,Maize,Nairobi,104.33
+2019-12-19,Maize,Nandi,42.37
+2022-12-25,Sugarcane,Kisii,152.11
+2016-09-01,Maize,Kiambu,96.76
+2021-09-27,Potatoes,Kiambu,76.11
+2015-01-25,Potatoes,Embu,101.99
+2020-07-21,Tea,Muranga,138.75
+2015-10-11,Wheat,Embu,53.24
+2019-01-12,Beans,Meru,83.07
+2023-01-07,Tomatoes,Kiambu,78.26
+2015-10-28,Tomatoes,Muranga,140.76
+2017-12-27,Sorghum,Muranga,133.42
+2017-10-27,Sugarcane,Embu,88.01
+2017-03-27,Cabbage,Uasin Gishu,119.74
+2023-10-14,Cabbage,Nandi,87.33
+2023-11-10,Tea,Kisii,108.56
+2015-03-24,Maize,Uasin Gishu,158.95
+2020-04-04,Maize,Kiambu,104.27
+2023-08-11,Sugarcane,Kiambu,158.63
+2020-09-24,Coffee,Kiambu,129.66
+2016-09-09,Wheat,Kericho,54.49
+2023-02-23,Sorghum,Nakuru,135.52
+2021-04-28,Potatoes,Nairobi,59.35
+2015-06-25,Maize,Kericho,103.88
+2018-04-04,Sorghum,Nairobi,113.59
+2022-05-28,Tomatoes,Muranga,147.07
+2017-04-21,Coffee,Kiambu,65.25
+2016-01-05,Potatoes,Meru,145.11
+2019-12-24,Sugarcane,Kisii,152.14
+2020-10-02,Sorghum,Embu,50.74
+2016-11-20,Tea,Kisii,146.23
+2019-11-15,Potatoes,Meru,71.1
+2018-09-26,Sugarcane,Embu,49.72
+2023-10-04,Cabbage,Muranga,155.03
+2018-12-03,Sugarcane,Meru,87.06
+2016-01-02,Sugarcane,Kiambu,114.76
+2016-10-05,Potatoes,Meru,106.34
+2021-08-23,Coffee,Kiambu,65.58
+2015-03-14,Potatoes,Meru,120.35
+2023-02-10,Beans,Meru,45.53
+2018-06-25,Wheat,Uasin Gishu,64.37
+2017-05-09,Coffee,Kisii,153.36
+2015-02-12,Tea,Nairobi,154.42
+2021-08-21,Coffee,Kericho,97.92
+2017-11-30,Tomatoes,Uasin Gishu,60.29
+2021-01-26,Tea,Nairobi,90.59
+2021-03-09,Cabbage,Uasin Gishu,145.25
+2019-02-25,Potatoes,Nakuru,48.43
+2020-09-17,Sugarcane,Embu,55.34
+2016-01-04,Potatoes,Kiambu,147.48
+2022-09-05,Tomatoes,Kericho,89.85
+2015-05-31,Sorghum,Uasin Gishu,50.02
+2018-02-08,Tomatoes,Uasin Gishu,56.71
+2019-02-12,Beans,Muranga,145.89
+2018-12-30,Sugarcane,Meru,98.81
+2017-12-06,Sugarcane,Nakuru,59.56
+2017-10-20,Maize,Kericho,147.29
+2019-05-18,Sorghum,Kericho,141.43
+2022-08-16,Maize,Embu,42.76
+2020-08-02,Cabbage,Kericho,109.72
+2018-10-21,Wheat,Nandi,69.32
+2015-03-10,Wheat,Kericho,103.98
+2021-06-04,Potatoes,Uasin Gishu,73.51
+2017-08-01,Wheat,Nandi,77.91
+2017-03-12,Sugarcane,Nairobi,112.22
+2021-06-01,Tomatoes,Meru,104.66
+2021-02-28,Sorghum,Nandi,87.42
+2015-03-02,Potatoes,Nairobi,52.91
+2017-08-03,Potatoes,Nakuru,156.33
+2023-03-30,Sorghum,Kisii,60.95
+2018-08-30,Sugarcane,Kiambu,115.97
+2018-03-30,Cabbage,Uasin Gishu,49.93
+2015-11-27,Cabbage,Nandi,122.6
+2019-04-01,Potatoes,Kisii,51.38
+2015-12-04,Cabbage,Meru,67.54
+2019-06-18,Sugarcane,Muranga,117.64
+2018-08-20,Beans,Nakuru,73.95
+2019-03-07,Beans,Kiambu,103.94
