@@ -26,16 +26,16 @@ Cleaned inconsistent records and enabled indexing on Region.
 ## Key Queries & Insights
 Top 5 Production by Region:
 
-Analyzed crop production for regions with high rainfall, listing the top five based on production volume.
+1.Analyzed crop production for regions with high rainfall, listing the top five based on production volume.
 Revenue by Region and Crop Type:
 
-Computed total revenue for each crop type by region.
+2.Computed total revenue for each crop type by region.
 Market Price Fluctuations:
 
-Analyzed market price fluctuations, focusing on cases where prices exceed a set threshold.
+3.Analyzed market price fluctuations, focusing on cases where prices exceed a set threshold.
 High Rainfall Impact on Production:
 
-Identified months with rainfall above a calculated threshold to assess its impact on crop production.
+4.Identified months with rainfall above a calculated threshold to assess its impact on crop production.
 
 ## Conclusion
 This project created an in-depth agricultural database for analyzing the relationship between production metrics, market trends, and weather patterns. The insights drawn will help strategize agricultural production and optimize resource allocation based on environmental conditions.
