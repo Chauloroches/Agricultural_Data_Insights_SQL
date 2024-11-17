@@ -2,7 +2,7 @@ CREATE DATABASE Agricultural_Data_Insights;
 
 USE Agricultural_Data_Insights;
 
--- Creating the tables.
+-- Creating the tables
 CREATE TABLE production_data(
 	production_Date DATE,
     Crop_Type VARCHAR(50),
@@ -36,6 +36,32 @@ CREATE TABLE regions(
     Soil_Type VARCHAR(30),
     Avg_Elevation_m INT
 );
+
+-- Normalize Data: Ensure foreign keys are consistent across tables. For example, Region in Production_Data should match the Region field in Regions.
+SELECT COUNT(*)
+FROM Production_Data p
+LEFT JOIN Regions r
+ON p.Region = r.Region
+WHERE r.Region IS NULL;
+
+-- Disable Safe Update Mode
+SET SQL_SAFE_UPDATES = 0;
+
+-- Delete Inconsistent Rows
+DELETE FROM Production_Data
+WHERE Region NOT IN (SELECT Region FROM Regions);
+
+-- Re-enable Safe Update Mode
+SET SQL_SAFE_UPDATES = 1;
+
+-- Create an Index on Regions.Region
+CREATE INDEX idx_region ON Regions (Region);
+
+-- Add a Foreign Key Constraint
+ALTER TABLE Production_Data
+ADD CONSTRAINT fk_region
+FOREIGN KEY (Region) REFERENCES Regions (Region);
+ 
 -- Top 5 Production by Region
 SELECT p.Date,p.Crop_Type, p.Region, SUM(p.Production_Volume_Tonnes) Total_Production
 FROM Production_Data p
@@ -60,17 +86,16 @@ WHERE m.Market_Price_Per_Tonne_USD > 100  -- Example: Price threshold
 ORDER BY 3,1;
 
 -- Calculate the high rainfall threshold based on average and standard deviation
-
 WITH RainfallThreshold AS (
     SELECT ROUND(AVG(Avg_Rainfall_mm), 2) + 1.5 * STDDEV(Avg_Rainfall_mm) AS HighRainfallThreshold
     FROM Weather_Condition
 ),
 
--- Step 2: Select months with average rainfall above the threshold
+-- Select months with average rainfall above the threshold
 HighRainfallMonths AS (
     SELECT DATE_FORMAT(Date, '%y-%m') AS Month,Region,ROUND(AVG(Avg_Rainfall_mm), 2) AS Avg_Monthly_Rainfall
     FROM Weather_Condition
-    GROUP BY Month, Region
+    GROUP BY 1,2
     HAVING Avg_Monthly_Rainfall >= (SELECT HighRainfallThreshold FROM RainfallThreshold)
 )
 
@@ -78,18 +103,6 @@ HighRainfallMonths AS (
 SELECT h.Month,p.Region,p.Crop_Type,SUM(p.Production_Volume_Tonnes) AS Total_Production,h.Avg_Monthly_Rainfall
 FROM HighRainfallMonths h
 JOIN Production_Data p 
-ON DATE_FORMAT(p.Date, '%y-%m') = h.Month AND p.Region = h.Region
-GROUP BY h.Month, p.Region, p.Crop_Type, h.Avg_Monthly_Rainfall
-ORDER BY h.Month;
-
-
-
-
-
-
-
-
-
-
-
-
+ON p.Region = h.Region
+GROUP BY 1,2,3,5
+ORDER BY 1;
